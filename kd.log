@@ -1,18 +1,63 @@
-
 0_:::JAVA:::
-
+java,
+https://www.journaldev.com/3884/java-is-pass-by-value-and-not-pass-by-reference
+https://hackr.io/blog/what-is-java
+http://tutorials.jenkov.com/java/what-is-java.html
 OOP,
 Zasady programowania obiektowego,
+https://javapapers.com/oops/association-aggregation-composition-abstraction-generalization-realization-dependency/
+https://raygun.com/blog/oop-concepts-java/
+https://ell.stackexchange.com/questions/10749/realization-vs-implementation-of-a-computer-program
 SOLID,
-Design patterns https://github.com/gadzikk/algorithms/tree/master/src/main/java/design_patterns
+https://www.oodesign.com/design-principles.html
+https://itnext.io/solid-principles-explanation-and-examples-715b975dcad4
+https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
+Design patterns,
+https://github.com/gadzikk/algorithms/tree/master/src/main/java/design_patterns
+https://www.dofactory.com/forum/1590/factory-pattern-vs-abstract-factory-pattern
+https://stackoverflow.com/questions/5739611/what-are-the-differences-between-abstract-factory-and-factory-design-patterns
 Static (pelne przeznaczenie),
+https://www.baeldung.com/java-static
+https://www.geeksforgeeks.org/difference-between-static-and-non-static-method-in-java
+https://www.geeksforgeeks.org/difference-between-static-and-non-static-variables-in-java
 Final (pelne przeznaczenie),
-Kolejnosc wykonania(constructor, postConstruct, static block, dependency injection)
-Recursion vs recurresion vs recursion tail,
+https://www.geeksforgeeks.org/final-keyword-java
+Nested claseses (roznice),
+http://tutorials.jenkov.com/java/nested-classes.html
+https://stackoverflow.com/questions/70324/java-inner-class-and-static-nested-class
+Kolejnosc wykonania(constructor, postConstruct, static block, dependency injection),
+https://www.baeldung.com/java-initialization
+https://stackoverflow.com/questions/38068303/spring-autowiring-order-and-postconstruct
+https://www.knitelius.com/2016/10/05/understanding-dependency-injection-part-2-postconstruct-and-constructor-injection/
+https://www.programmersought.com/article/2749180297/
+https://stackoverflow.com/questions/19561332/in-what-order-do-static-blocks-and-initialization-blocks-execute-when-using-inhe/35001374
+Recursion,
+https://www.pixelstech.net/article/1474689232-Traditional-recursion-vs-Tail-recursion
+https://www.geeksforgeeks.org/tail-recursion/
+https://stackoverflow.com/questions/21426688/the-difference-between-head-tail-recursion
+https://stackoverflow.com/questions/33923/what-is-tail-recursion
 Plik buffery,
+http://tutorials.jenkov.com/java-io/index.html
+https://docs.oracle.com/javase/tutorial/essential/exceptions/tryResourceClose.html
+https://www.baeldung.com/java-try-with-resources
 Reflection,
+http://tutorials.jenkov.com/java-reflection/index.html
+https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful
+https://www.baeldung.com/java-reflection
+Abstract class vs interface
+https://www.journaldev.com/1607/difference-between-abstract-class-and-interface-in-java#difference-between-abstract-class-and-interface
+https://javapapers.com/core-java/abstract-and-interface-core-java-2/difference-between-a-java-interface-and-a-java-abstract-class/
+https://www.geeksforgeeks.org/difference-between-abstract-class-and-interface-in-java/
+https://stackoverflow.com/questions/18777989/how-should-i-have-explained-the-difference-between-an-interface-and-an-abstract
+Inheritance
+https://www.journaldev.com/1775/multiple-inheritance-in-java
+Serializacja,
+https://www.journaldev.com/2452/serialization-in-java
+
 
 https://www.geeksforgeeks.org/java
+https://www.journaldev.com/2366/core-java-interview-questions-and-answers
+https://www.journaldev.com/1330/java-collections-interview-questions-and-answers
 
 book: Effective Java | Thinking in Java | Clean code | Designing Data-Intensive Applications
 
@@ -21,11 +66,31 @@ Garbage collector struktura,
 Garbage collector zasada dzialania,
 Garbage collector tryby (oraz plusy I minusy),
 Monitorowanie,
+https://www.google.com/search?client=firefox-b-d&q=JVisualVM
+https://blog.gceasy.io/2016/11/22/resolve-memory-leak/
+https://docs.oracle.com/cd/E13150_01/jrockit_jvm/jrockit/geninfo/diagnos/using_threaddumps.html
+https://helpx.adobe.com/pl/experience-manager/kb/TakeThreadDump.html
+https://howtodoinjava.com/linux/how-to-get-thread-dump-in-linux-using-jstack/
 stackOverFlowError,
 outOfMemoryError,
-Jstack, jmap
+Jstack, jmap,
+https://www.journaldev.com/1053/java-thread-dump-visualvm-jstack-kill-3-jcmd
+https://www.baeldung.com/java-heap-dump-capture
+https://linuxhint.com/jmap-and-jstack-tutorial/
+https://docs.oracle.com/javase/8/docs/technotes/tools/unix/jstack.html
+
 Alokacja obiektow,
 Alkokacja watkow,
+JVM vs JRE vs JVM,
+https://www.programiz.com/java-programming/jvm-jre-jdk
+https://www.journaldev.com/546/difference-jdk-vs-jre-vs-jvm
+Heap and stack
+https://www.journaldev.com/4098/java-heap-space-vs-stack-memory
+String pool,
+https://medium.com/edureka/java-string-pool-5b5b3b327bdf
+https://www.baeldung.com/java-string-pool
+https://www.journaldev.com/797/what-is-java-string-pool
+
 
 https://dzone.com/articles/understanding-jvm-internals
 https://medium.com/better-programming/understand-threads-and-threading-in-java-8f706fc44d13
@@ -33,14 +98,41 @@ https://stackoverflow.com/questions/33344123/every-jvm-created-for-each-applicat
 https://www.infoworld.com/article/3336222/java-challengers-6-thread-behavior-in-the-jvm.html
 https://www.infoworld.com/article/2076971/how-the-java-virtual-machine-performs-thread-synchronization.html
 https://blog.jamesdbloom.com/JVMInternals.html
+http://tutorials.jenkov.com/java-performance/index.html
+
+
+https://www.journaldev.com/349/java-classloader
+https://www.baeldung.com/java-classloaders
 
 :J8
-Nowe wersje javy co wprowadzono,
-Lambda,
-Streams,
-Map, reduce, collect, sorting, consumer, producer, supplier, function
+Lambda, Streams, Map, reduce, collect, sorting, consumer, producer, supplier, function
+https://www.journaldev.com/2763/java-8-functional-interfaces
+https://www.journaldev.com/2774/java-8-stream
+https://www.concretepage.com/java/java-8/
+https://mkyong.com/tutorials/java-8-tutorials/
+http://zetcode.com/java/streamreduce/
+https://mkyong.com/java8/java-8-convert-list-to-map/
+https://mkyong.com/java8/java-8-convert-a-stream-to-list/
+https://mkyong.com/java8/java-8-how-to-sum-bigdecimal-using-stream/
+https://javadevcentral.com/java-stream-sum
 
-book: java8 in action
+Nowe wersje javy co wprowadzono,
+https://mkyong.com/java/what-is-new-in-java-11/
+https://mkyong.com/java/what-is-new-in-java-12/
+https://mkyong.com/java/what-is-new-in-java-13/
+https://mkyong.com/java/what-is-new-in-java-14/
+https://mkyong.com/java/what-is-new-in-java-15/
+https://www.journaldev.com/2389/java-8-features-with-examples
+https://www.journaldev.com/13106/java-9-modules
+https://www.journaldev.com/13121/java-9-features-with-examples
+https://www.journaldev.com/20395/java-10-features
+https://www.journaldev.com/24601/java-11-features
+https://www.journaldev.com/28666/java-12-features
+https://www.journaldev.com/33204/java-13-features
+https://www.journaldev.com/37273/java-14-features
+
+
+Book: java8 in action
 
 :JLibaries
 https://dzone.com/articles/20-useful-open-source-libraries-for-java-programme
@@ -48,34 +140,62 @@ https://dzone.com/articles/20-useful-open-source-libraries-for-java-programme
 
 0_:::CONCURRENCY:::
 Prons and cons of concurrency,
+https://stackoverflow.com/questions/4315292/concurrency-processes-vs-threads
 Deadlock, starvation,
 Producer consumer,
 Dinning philosopers
 Race condition,
 Synchronization, Mutex, Sempahores,
 Volatile vs Atomic,
-
+https://www.geeksforgeeks.org/volatile-keyword-in-java/
+https://stackoverflow.com/questions/19744508/volatile-vs-atomic
+https://stackoverflow.com/questions/3786825/volatile-boolean-vs-atomicboolean
+https://stackoverflow.com/questions/3519664/difference-between-volatile-and-synchronized-in-java
+https://javarevisited.blogspot.com/2020/04/difference-between-atomic-volatile-and-synchronized-in-java-multi-threading.html#axzz6cYHaqKSJ
 Jenkov,
+http://tutorials.jenkov.com/java-concurrency/index.html
+http://tutorials.jenkov.com/java-util-concurrent/index.html
 Wyklady kalety,
+
+
+https://www.journaldev.com/1162/java-multithreading-concurrency-interview-questions-answers
+
 book: Java Concurrency in practice | concurrency cookbook
 
 0_:::MICROSERVICES:::
 Microservice vs monotlith,
-DDD,
-Resilience patters,
-Transaction patterns,
-Deployment patterns,
-Api gateway,
-Saga,
-CQRS,
-Event Sourcing,
-SOA
-
-https://microservices.io/
+https://microservices.io/patterns/microservices.html
 https://medium.com/@goodrebels/to-go-or-not-to-go-micro-the-pros-and-cons-of-microservices-7967418ff06
 https://cloudacademy.com/blog/microservices-architecture-challenge-advantage-drawback/
 https://tsh.io/blog/basics-of-microservices-pros-and-cons/
 https://www.springboottutorial.com/creating-microservices-with-spring-boot-part-1-getting-started
+DDD,
+https://microservices.io/patterns/data/domain-event.html
+Resilience patters,
+https://dzone.com/articles/circuit-breaker-pattern
+https://medium.com/@narengowda/what-is-circuitbreaking-in-microservices-2053f4f66882
+https://www.jrebel.com/blog/microservices-resilience-patterns
+Transaction patterns,
+https://medium.com/swlh/handling-transactions-in-the-microservice-world-c77b275813e0
+https://developers.redhat.com/blog/2018/10/01/patterns-for-distributed-transactions-within-a-microservices-architecture/
+Deployment patterns,
+Api gateway,
+https://medium.com/dev-genius/microservices-design-api-gateway-pattern-980e8d02bdd5
+Saga,
+CQRS,
+https://microservices.io/patterns/data/cqrs.html
+https://stackoverflow.com/questions/47048839/cqrs-and-event-sourcing-difference
+https://stackoverflow.com/questions/60523277/event-sourcing-and-cqrs-what-did-i-missed
+https://stackoverflow.com/questions/8820748/when-to-use-the-cqrs-design-pattern
+https://community.risingstack.com/when-to-use-cqrs/
+https://martinfowler.com/bliki/CQRS.html
+Event Sourcing,
+https://microservices.io/patterns/data/event-sourcing.html
+https://bulldogjob.pl/articles/122-cqrs-i-event-sourcing-czyli-latwa-droga-do-skalowalnosci-naszych-systemow_
+SOA
+
+https://microservices.io/
+
 
 
 Books: microservices patterns
@@ -97,15 +217,28 @@ https://hackernoon.com/5-courses-java-programmers-can-join-to-learn-junit-and-mo
 book: tdd teoria
 
 0_:::WEB_FRAMEWORKS:::
-Spring,
-Spring boot,
-Hibernate,
+:Spring,
+:Spring boot
+books: pro spring 5
+:Hibernate
+n+1 problem,
+https://stackoverflow.com/questions/97197/what-is-the-n1-selects-problem-in-orm-object-relational-mapping
+inheritance w hibernate,
+optimistic/pesimitic locking,
+versioning
+https://www.journaldev.com/3633/hibernate-interview-questions-and-answers
+https://www.edureka.co/blog/interview-questions/hibernate-interview-questions/
 
-Books: J2EE developer handbook | Core j2ee patterns – przejzec | 00 – przejrzec, | hibernate in action | pro spring 5 |
+Books: hibernate in action 
+
+Books: J2EE developer handbook | Core j2ee patterns – przejzec | 00 – przejrzec
 
 0_:::WEBSERVICES:::
 SOAP,
-REST
+REST,
+https://blog.restcase.com/4-maturity-levels-of-rest-api-design/
+https://martinfowler.com/articles/richardsonMaturityModel.html
+https://restfulapi.net/richardson-maturity-model/
 RESTClient,
 HTTP (jak dziala, statusy, odpowiedzi, filtry, servlety),
 
@@ -113,8 +246,10 @@ Books: J2EE essentials | Java Web Services
 
 0_:::MESSAGING:::
 JMS,persistent vs nonpersistent | pub sub vs ptp | problem | queue vs topic,
-Kafka,
-JMS vs Kafka
+JMS vs Kafka,
+https://www.knowledgenile.com/blogs/apache-kafka-vs-jms
+http://cloudurable.com/blog/kafka-vs-jms/index.html
+https://stackoverflow.com/questions/42664894/jms-vs-kafka-in-specific-conditions
 
 0_:::FUNTIONAL_PROGRAMMING:::
 Prons and cons of functional programming,
@@ -127,8 +262,11 @@ Scala: implicit | functor vs applicative vs monad | hierarchia klas | case class
 https://docs.scala-lang.org/
 https://www.geeksforgeeks.org/scala-programming-language/
 
-Books: programming in scala | scala cookbook | funtional programming in scala |
-building applications with scala | Learning Concurrent Programming in Scala
+https://www.journaldev.com/8958/scala-interview-questions-answers
+https://www.journaldev.com/8960/scala-advanced-interview-questions
+https://www.journaldev.com/9663/scala-interview-questions
+
+Books: programming in scala | scala cookbook | funtional programming in scala |building applications with scala | Learning Concurrent Programming in Scala
 
 Scalaz: fpmortals | eed3 | catsdoc
 
@@ -173,6 +311,7 @@ Book: useful rozdzialy
 Zlozonosc obliczeniowa,
 Zlozonosc pamieciowa,
 Zlozonosc obliczeniowa struktur,
+https://stackoverflow.com/questions/4553624/hashmap-get-put-complexity
 Sortowania,
 binarySearch,
 rekursja,
@@ -199,6 +338,8 @@ Shell script tutorial
 Validacja backend,
 Validacja frontend,
 Validacja baza danych,
+
+https://www.journaldev.com/2167/java-exception-interview-questions-and-answers
 
 0_:::ENCRYPTION ENCODING HASLA HASH SALT:::
 Rodzaje autentykacji
@@ -249,8 +390,8 @@ IOB, GUPS, ALI, boss, bpa-configi
 
 
 0_:::SQL DATABASES:::
-inheritance hibernate, bazy grafowe, n+1 problem, problem transakcji(https://docs.oracle.com/javase/tutorial/jdbc/basics/transactions.html ),
-lazy vs eager, rodzaje joinow, procedury projektu na studia, caching, optimistic/pesimitic locking, versioning
+ bazy grafowe, problem transakcji(https://docs.oracle.com/javase/tutorial/jdbc/basics/transactions.html ),
+lazy vs eager, rodzaje joinow, procedury projektu na studia, caching,
 
 https://www.oracletutorial.com/oracle-basics/oracle-not-exists/
 http://www.dba-oracle.com/t_tuning_where_not_exists_sql.htm
