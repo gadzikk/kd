@@ -62,9 +62,16 @@ https://www.journaldev.com/1330/java-collections-interview-questions-and-answers
 book: Effective Java | Thinking in Java | Clean code | Designing Data-Intensive Applications
 
 :JVM
-Garbage collector struktura,
-Garbage collector zasada dzialania,
+Garbage collector struktura dzialanie,
+https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html
+
 Garbage collector tryby (oraz plusy I minusy),
+https://www.baeldung.com/jvm-garbage-collectors
+https://www.overops.com/blog/garbage-collectors-serial-vs-parallel-vs-cms-vs-the-g1-and-whats-new-in-java-8/
+https://javapapers.com/java/types-of-java-garbage-collectors/
+Metaspace,
+https://www.baeldung.com/java-permgen-metaspace
+https://www.geeksforgeeks.org/metaspace-in-java-8-with-examples/
 Monitorowanie,
 https://www.google.com/search?client=firefox-b-d&q=JVisualVM
 https://blog.gceasy.io/2016/11/22/resolve-memory-leak/
@@ -72,24 +79,41 @@ https://docs.oracle.com/cd/E13150_01/jrockit_jvm/jrockit/geninfo/diagnos/using_t
 https://helpx.adobe.com/pl/experience-manager/kb/TakeThreadDump.html
 https://howtodoinjava.com/linux/how-to-get-thread-dump-in-linux-using-jstack/
 stackOverFlowError,
+https://stackoverflow.com/questions/214741/what-is-a-stackoverflowerror
 outOfMemoryError,
+https://stackoverflow.com/questions/37335/how-to-deal-with-java-lang-outofmemoryerror-java-heap-space-error
+https://stackoverflow.com/questions/1596009/java-lang-outofmemoryerror-java-heap-space
+https://www.baeldung.com/java-heap-dump-capture
+https://docs.oracle.com/javase/7/docs/webnotes/tsg/TSG-VM/html/clopts.html
 Jstack, jmap,
 https://www.journaldev.com/1053/java-thread-dump-visualvm-jstack-kill-3-jcmd
 https://www.baeldung.com/java-heap-dump-capture
 https://linuxhint.com/jmap-and-jstack-tutorial/
 https://docs.oracle.com/javase/8/docs/technotes/tools/unix/jstack.html
-
 Alokacja obiektow,
+https://www.baeldung.com/java-stack-heap
+https://stackoverflow.com/questions/258120/what-is-the-memory-consumption-of-an-object-in-java
+https://www.geeksforgeeks.org/g-fact-46/
+https://javarevisited.blogspot.com/2013/01/difference-between-stack-and-heap-java.html#axzz6cg0eRsjW
 Alkokacja watkow,
+https://stackoverflow.com/questions/36898701/how-does-java-jvm-allocate-stack-for-each-thread
+https://dzone.com/articles/how-much-memory-does-a-java-thread-take
+https://stackoverflow.com/questions/10554604/memory-allocation-with-thread
 JVM vs JRE vs JVM,
 https://www.programiz.com/java-programming/jvm-jre-jdk
 https://www.journaldev.com/546/difference-jdk-vs-jre-vs-jvm
 Heap and stack
 https://www.journaldev.com/4098/java-heap-space-vs-stack-memory
+https://blog.usejournal.com/til-9-stack-and-heap-in-a-nutshell-48e61fe5d140
 String pool,
 https://medium.com/edureka/java-string-pool-5b5b3b327bdf
 https://www.baeldung.com/java-string-pool
 https://www.journaldev.com/797/what-is-java-string-pool
+Early late bindings,
+https://www.baeldung.com/java-static-dynamic-binding
+https://www.techiedelight.com/difference-between-early-late-binding-java/
+https://beginnersbook.com/2013/04/java-static-dynamic-binding/
+
 
 
 https://dzone.com/articles/understanding-jvm-internals
@@ -99,6 +123,7 @@ https://www.infoworld.com/article/3336222/java-challengers-6-thread-behavior-in-
 https://www.infoworld.com/article/2076971/how-the-java-virtual-machine-performs-thread-synchronization.html
 https://blog.jamesdbloom.com/JVMInternals.html
 http://tutorials.jenkov.com/java-performance/index.html
+https://www.journaldev.com/2856/java-jvm-memory-model-memory-management-in-java
 
 
 https://www.journaldev.com/349/java-classloader
@@ -141,7 +166,10 @@ https://dzone.com/articles/20-useful-open-source-libraries-for-java-programme
 0_:::CONCURRENCY:::
 Prons and cons of concurrency,
 https://stackoverflow.com/questions/4315292/concurrency-processes-vs-threads
+http://tutorials.jenkov.com/java-concurrency/benefits.html
+http://tutorials.jenkov.com/java-concurrency/costs.html
 Deadlock, starvation,
+https://medium.com/@recepinancc/til-10-what-is-a-deadlock-c00753c349f6
 Producer consumer,
 Dinning philosopers
 Race condition,
@@ -152,6 +180,8 @@ https://stackoverflow.com/questions/19744508/volatile-vs-atomic
 https://stackoverflow.com/questions/3786825/volatile-boolean-vs-atomicboolean
 https://stackoverflow.com/questions/3519664/difference-between-volatile-and-synchronized-in-java
 https://javarevisited.blogspot.com/2020/04/difference-between-atomic-volatile-and-synchronized-in-java-multi-threading.html#axzz6cYHaqKSJ
+Optimistic pessimistic locking,
+https://medium.com/@recepinancc/til-9-optimistic-vs-pessimistic-locking-79a349b76dc8
 Jenkov,
 http://tutorials.jenkov.com/java-concurrency/index.html
 http://tutorials.jenkov.com/java-util-concurrent/index.html
@@ -340,6 +370,7 @@ Validacja frontend,
 Validacja baza danych,
 
 https://www.journaldev.com/2167/java-exception-interview-questions-and-answers
+https://stackoverflow.com/questions/35409216/how-to-handle-stackoverflowerror
 
 0_:::ENCRYPTION ENCODING HASLA HASH SALT:::
 Rodzaje autentykacji
