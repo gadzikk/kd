@@ -3,11 +3,14 @@ java,
 https://www.journaldev.com/3884/java-is-pass-by-value-and-not-pass-by-reference
 https://hackr.io/blog/what-is-java
 http://tutorials.jenkov.com/java/what-is-java.html
+https://www.geeksforgeeks.org/java-platform-independent/
+https://www.geeksforgeeks.org/dynamic-method-dispatch-runtime-polymorphism-java/
 OOP,
 Zasady programowania obiektowego,
 https://javapapers.com/oops/association-aggregation-composition-abstraction-generalization-realization-dependency/
 https://raygun.com/blog/oop-concepts-java/
 https://ell.stackexchange.com/questions/10749/realization-vs-implementation-of-a-computer-program
+https://www.geeksforgeeks.org/understanding-classes-and-objects-in-java/
 SOLID,
 https://www.oodesign.com/design-principles.html
 https://itnext.io/solid-principles-explanation-and-examples-715b975dcad4
@@ -20,17 +23,22 @@ Static (pelne przeznaczenie),
 https://www.baeldung.com/java-static
 https://www.geeksforgeeks.org/difference-between-static-and-non-static-method-in-java
 https://www.geeksforgeeks.org/difference-between-static-and-non-static-variables-in-java
+https://www.quora.com/When-do-Static-Variables-get-Garbage-Collected-in-Java
+https://stackoverflow.com/questions/453023/are-static-fields-open-for-garbage-collection
 Final (pelne przeznaczenie),
 https://www.geeksforgeeks.org/final-keyword-java
 Nested claseses (roznice),
 http://tutorials.jenkov.com/java/nested-classes.html
 https://stackoverflow.com/questions/70324/java-inner-class-and-static-nested-class
+https://www.geeksforgeeks.org/anonymous-inner-class-java/
+https://www.geeksforgeeks.org/local-inner-class-java/
 Kolejnosc wykonania(constructor, postConstruct, static block, dependency injection),
 https://www.baeldung.com/java-initialization
 https://stackoverflow.com/questions/38068303/spring-autowiring-order-and-postconstruct
 https://www.knitelius.com/2016/10/05/understanding-dependency-injection-part-2-postconstruct-and-constructor-injection/
 https://www.programmersought.com/article/2749180297/
 https://stackoverflow.com/questions/19561332/in-what-order-do-static-blocks-and-initialization-blocks-execute-when-using-inhe/35001374
+https://www.geeksforgeeks.org/g-fact-26-the-initializer-block-in-java/
 Recursion,
 https://www.pixelstech.net/article/1474689232-Traditional-recursion-vs-Tail-recursion
 https://www.geeksforgeeks.org/tail-recursion/
@@ -51,9 +59,11 @@ https://www.geeksforgeeks.org/difference-between-abstract-class-and-interface-in
 https://stackoverflow.com/questions/18777989/how-should-i-have-explained-the-difference-between-an-interface-and-an-abstract
 Inheritance
 https://www.journaldev.com/1775/multiple-inheritance-in-java
-Serializacja,
+https://www.interviewsansar.com/order-execution-constructors-java-inheritance/
+Rozne,
 https://www.journaldev.com/2452/serialization-in-java
-
+https://www.geeksforgeeks.org/instanceof-operator-vs-isinstance-method-in-java/
+https://www.geeksforgeeks.org/strictfp-keyword-java/
 
 https://www.geeksforgeeks.org/java
 https://www.journaldev.com/2366/core-java-interview-questions-and-answers
@@ -78,6 +88,7 @@ https://blog.gceasy.io/2016/11/22/resolve-memory-leak/
 https://docs.oracle.com/cd/E13150_01/jrockit_jvm/jrockit/geninfo/diagnos/using_threaddumps.html
 https://helpx.adobe.com/pl/experience-manager/kb/TakeThreadDump.html
 https://howtodoinjava.com/linux/how-to-get-thread-dump-in-linux-using-jstack/
+http://openjdk.java.net/projects/code-tools/jmh/
 stackOverFlowError,
 https://stackoverflow.com/questions/214741/what-is-a-stackoverflowerror
 outOfMemoryError,
@@ -113,6 +124,12 @@ Early late bindings,
 https://www.baeldung.com/java-static-dynamic-binding
 https://www.techiedelight.com/difference-between-early-late-binding-java/
 https://beginnersbook.com/2013/04/java-static-dynamic-binding/
+https://www.geeksforgeeks.org/static-vs-dynamic-binding-in-java/
+Weak strong refrence
+https://stackoverflow.com/questions/9809074/java-difference-between-strong-soft-weak-phantom-reference
+https://stackoverflow.com/questions/299659/whats-the-difference-between-softreference-and-weakreference-in-java
+https://www.baeldung.com/java-weak-reference
+programmr.com/blogs/what-every-java-developer-should-know-strong-and-weak-references
 
 
 
@@ -124,7 +141,9 @@ https://www.infoworld.com/article/2076971/how-the-java-virtual-machine-performs-
 https://blog.jamesdbloom.com/JVMInternals.html
 http://tutorials.jenkov.com/java-performance/index.html
 https://www.journaldev.com/2856/java-jvm-memory-model-memory-management-in-java
-
+https://www.geeksforgeeks.org/jvm-works-jvm-architecture/
+https://www.geeksforgeeks.org/jvm-shutdown-hook-java/
+https://www.geeksforgeeks.org/java-class-file/
 
 https://www.journaldev.com/349/java-classloader
 https://www.baeldung.com/java-classloaders
@@ -133,6 +152,10 @@ https://www.baeldung.com/java-classloaders
 Lambda, Streams, Map, reduce, collect, sorting, consumer, producer, supplier, function
 https://www.journaldev.com/2763/java-8-functional-interfaces
 https://www.journaldev.com/2774/java-8-stream
+https://www.geeksforgeeks.org/difference-between-streams-and-collections-in-java/
+https://stackoverflow.com/questions/39432699/what-is-the-difference-between-streams-and-collections-in-java-8
+https://www.java2novice.com/java_interview_questions/java-8-stream-terminal-operations/
+https://www.java2novice.com/java_interview_questions/java-8-stream-intermediate-operations/
 https://www.concretepage.com/java/java-8/
 https://mkyong.com/tutorials/java-8-tutorials/
 http://zetcode.com/java/streamreduce/
@@ -164,16 +187,44 @@ https://dzone.com/articles/20-useful-open-source-libraries-for-java-programme
 
 
 0_:::CONCURRENCY:::
-Prons and cons of concurrency,
+Concurrency ogolnie,
 https://stackoverflow.com/questions/4315292/concurrency-processes-vs-threads
 http://tutorials.jenkov.com/java-concurrency/benefits.html
 http://tutorials.jenkov.com/java-concurrency/costs.html
-Deadlock, starvation,
+https://javarevisited.blogspot.com/2015/05/top-10-java-multithreading-and.html#axzz5Neevu8QO
+https://www.codejava.net/java-core/concurrency/how-to-use-threads-in-java-create-start-pause-interrupt-and-join
+https://www.codejava.net/java-core/concurrency/understanding-thread-priorities-and-daemon-thread-in-java
+https://www.codejava.net/java-core/concurrency/understanding-thread-states-thread-life-cycle-in-java
+Deadlock,
+https://docs.oracle.com/javase/tutorial/essential/concurrency/deadlock.html
 https://medium.com/@recepinancc/til-10-what-is-a-deadlock-c00753c349f6
+https://www.baeldung.com/java-deadlock-livelock
+https://dev.to/javinpaul/java-concurrency-tutorial-how-to-avoid-deadlock-in-java-4aeb
+http://tutorials.jenkov.com/java-concurrency/deadlock.html
+http://tutorials.jenkov.com/java-concurrency/deadlock-prevention.html
+https://howtodoinjava.com/java/multi-threading/writing-a-deadlock-and-resolving-in-java/
+https://www.geeksforgeeks.org/deadlock-in-java-multithreading/
+Starvation,
+https://docs.oracle.com/javase/tutorial/essential/concurrency/starvelive.html
+http://tutorials.jenkov.com/java-concurrency/starvation-and-fairness.html
+https://www.codejava.net/java-core/concurrency/understanding-deadlock-livelock-and-starvation-with-code-examples-in-java
+https://www.netjstech.com/2017/10/thread-starvation-in-java-multi-threading.html
+https://www.logicbig.com/tutorials/core-java-tutorial/java-multi-threading/thread-starvation.html
+Pararellism,
+https://www.geeksforgeeks.org/introduction-to-parallel-computing/
+https://www.geeksforgeeks.org/what-is-parallel-processing/
 Producer consumer,
 Dinning philosopers
 Race condition,
+https://stackoverflow.com/questions/34510/what-is-a-race-condition
+http://tutorials.jenkov.com/java-concurrency/race-conditions-and-critical-sections.html
+https://javarevisited.blogspot.com/2012/02/what-is-race-condition-in.html#axzz6crABS0OE
+Critical Section
+https://stackoverflow.com/questions/416183/in-java-critical-sections-what-should-i-synchronize-on
 Synchronization, Mutex, Sempahores,
+https://stackoverflow.com/questions/16907992/synchronized-vs-semaphore
+https://stackoverflow.com/questions/5083818/is-it-better-to-synchronize-with-semaphores-or-with-monitors?lq=1
+https://stackoverflow.com/questions/2332765/lock-mutex-semaphore-whats-the-difference
 Volatile vs Atomic,
 https://www.geeksforgeeks.org/volatile-keyword-in-java/
 https://stackoverflow.com/questions/19744508/volatile-vs-atomic
@@ -182,19 +233,28 @@ https://stackoverflow.com/questions/3519664/difference-between-volatile-and-sync
 https://javarevisited.blogspot.com/2020/04/difference-between-atomic-volatile-and-synchronized-in-java-multi-threading.html#axzz6cYHaqKSJ
 Optimistic pessimistic locking,
 https://medium.com/@recepinancc/til-9-optimistic-vs-pessimistic-locking-79a349b76dc8
+Concurrent collections
+https://javarevisited.blogspot.com/2013/02/concurrenthashmap-in-java-example-tutorial-working.html#axzz6crABS0OE
+https://javarevisited.blogspot.com/2011/04/difference-between-concurrenthashmap.html#axzz6crABS0OE
+http://tutorials.jenkov.com/java-concurrency/blocking-queues.html
 Jenkov,
 http://tutorials.jenkov.com/java-concurrency/index.html
 http://tutorials.jenkov.com/java-util-concurrent/index.html
 Wyklady kalety,
+Rozne,
+https://www.geeksforgeeks.org/inter-thread-communication-java/
+http://tutorials.jenkov.com/java-concurrency/non-blocking-algorithms.html
 
-
+https://javarevisited.blogspot.com/2014/07/top-50-java-multithreading-interview-questions-answers.html#axzz4jaJmaqbE
 https://www.journaldev.com/1162/java-multithreading-concurrency-interview-questions-answers
 
-book: Java Concurrency in practice | concurrency cookbook
+book: Java Concurrency in practice | concurrency cookbook | https://medium.com/javarevisited/6-multithreading-and-concurrency-books-every-java-programmer-should-read-b6a08d2aae54
 
 0_:::MICROSERVICES:::
 Microservice vs monotlith,
 https://microservices.io/patterns/microservices.html
+https://www.geeksforgeeks.org/microservices-introduction/
+https://www.geeksforgeeks.org/monolithic-vs-microservices-architecture/
 https://medium.com/@goodrebels/to-go-or-not-to-go-micro-the-pros-and-cons-of-microservices-7967418ff06
 https://cloudacademy.com/blog/microservices-architecture-challenge-advantage-drawback/
 https://tsh.io/blog/basics-of-microservices-pros-and-cons/
@@ -239,7 +299,13 @@ testy E2E,
 junit5, assertJ, mockito
 
 TDD – podejscie, prons cons, praktyka
-Piramida testow
+Piramida testow,
+http://www.agilenutshell.com/episodes/41-testing-pyramid
+https://www.baeldung.com/spring-test-pyramid-practical-example
+https://martinfowler.com/articles/practical-test-pyramid.html
+https://martinfowler.com/bliki/TestPyramid.html
+https://medium.com/@mateuszroth/why-the-test-pyramid-is-a-bullshit-guide-to-testing-towards-modern-frontend-and-backend-apps-4246e89b87bd
+https://medium.com/better-programming/the-test-pyramid-80d77535573
 podejscie zastosowanie w praktyce
 narzedzia
 https://hackernoon.com/5-courses-java-programmers-can-join-to-learn-junit-and-mockito-in-2019-h74t38r4
@@ -345,6 +411,8 @@ https://stackoverflow.com/questions/4553624/hashmap-get-put-complexity
 Sortowania,
 binarySearch,
 rekursja,
+Divide and conquer,
+Np problem zupelny, 
 
 https://www.geeksforgeeks.org/fundamentals-of-algorithms/
 https://github.com/gadzikk/algorithms
@@ -489,6 +557,8 @@ e)react + redux
 0_:::STUDIA:::
 https://syllabuskrk.agh.edu.pl/2018-2019/pl/magnesite/study_plans/niestacjonarne-informatyka
 
+0_:::NIEZWIAZANE:::
+https://morethancoding.com/2011/05/22/the-programmer-pyramid/
 
 
 
