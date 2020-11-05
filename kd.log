@@ -64,6 +64,8 @@ Rozne,
 https://www.journaldev.com/2452/serialization-in-java
 https://www.geeksforgeeks.org/instanceof-operator-vs-isinstance-method-in-java/
 https://www.geeksforgeeks.org/strictfp-keyword-java/
+https://www.baeldung.com/java-fail-safe-vs-fail-fast-iterator
+https://akademiahakerow.pl/aktualnosci/pojedynczy-wpis/RoznicapomiedzyoperatoramiFail-safeaFail-fast
 
 https://www.geeksforgeeks.org/java
 https://www.journaldev.com/2366/core-java-interview-questions-and-answers
@@ -134,6 +136,7 @@ programmr.com/blogs/what-every-java-developer-should-know-strong-and-weak-refere
 
 
 https://dzone.com/articles/understanding-jvm-internals
+https://www.geeksforgeeks.org/jvm-works-jvm-architecture/
 https://medium.com/better-programming/understand-threads-and-threading-in-java-8f706fc44d13
 https://stackoverflow.com/questions/33344123/every-jvm-created-for-each-application-is-this-a-thread-or-a-process
 https://www.infoworld.com/article/3336222/java-challengers-6-thread-behavior-in-the-jvm.html
@@ -282,7 +285,16 @@ https://martinfowler.com/bliki/CQRS.html
 Event Sourcing,
 https://microservices.io/patterns/data/event-sourcing.html
 https://bulldogjob.pl/articles/122-cqrs-i-event-sourcing-czyli-latwa-droga-do-skalowalnosci-naszych-systemow_
-SOA
+SOA,
+Scalability,
+https://searchdatacenter.techtarget.com/definition/scalability
+https://medium.com/@Pointnity_Network/three-dimensions-of-distributed-system-scalability-design-8e0319163c8d
+https://medium.com/swlh/building-scalable-distributed-systems-part-1-introduction-to-scalable-systems-9ca471fd77d7
+https://www.math.unipd.it/~abujari/fis1819/lecSlides/scalability.pdf
+https://stackoverflow.com/questions/34711353/two-questions-about-distributed-systems-scalability-and-mutual-exclusion
+https://stackoverflow.com/questions/214246/what-does-scalability-mean-to-you
+https://www.quora.com/What-is-scalable-system-in-distributed-system
+https://stackoverflow.com/questions/63027668/is-distributed-systems-same-as-horizontal-scaling
 
 https://microservices.io/
 
