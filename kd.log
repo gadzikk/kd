@@ -147,6 +147,9 @@ https://www.journaldev.com/2856/java-jvm-memory-model-memory-management-in-java
 https://www.geeksforgeeks.org/jvm-works-jvm-architecture/
 https://www.geeksforgeeks.org/jvm-shutdown-hook-java/
 https://www.geeksforgeeks.org/java-class-file/
+https://en.wikipedia.org/wiki/Just-in-time_compilation
+https://stackoverflow.com/questions/16568253/difference-between-jvm-and-hotspot
+https://stackoverflow.com/questions/2423284/java-thread-garbage-collected-or-not
 
 https://www.journaldev.com/349/java-classloader
 https://www.baeldung.com/java-classloaders
@@ -191,13 +194,29 @@ https://dzone.com/articles/20-useful-open-source-libraries-for-java-programme
 
 0_:::CONCURRENCY:::
 Concurrency ogolnie,
-https://stackoverflow.com/questions/4315292/concurrency-processes-vs-threads
+https://practice.geeksforgeeks.org/problems/what-are-the-advantages-of-concurrency
 http://tutorials.jenkov.com/java-concurrency/benefits.html
 http://tutorials.jenkov.com/java-concurrency/costs.html
 https://javarevisited.blogspot.com/2015/05/top-10-java-multithreading-and.html#axzz5Neevu8QO
-https://www.codejava.net/java-core/concurrency/how-to-use-threads-in-java-create-start-pause-interrupt-and-join
+https://practice.geeksforgeeks.org/problems/what-are-the-advantages-of-concurrency
+https://sceweb.uhcl.edu/helm/RationalUnifiedProcess/process/workflow/ana_desi/co_cncry.htm
+https://docs.oracle.com/cd/E13203_01/tuxedo/tux71/html/pgthr5.htm
+https://www.programmersought.com/article/38971341326/
+http://www.justobjects.org/cowcatcher/browse/stdjava/slides/java-essential/core/thread/slide.0.4.html
+https://medium.com/@recepinancc/til-8-concurrency-and-parallelism-in-a-nutshell-d19f379241c9
+https://www.multisoftvirtualacademy.com/blog/common-advantages-and-disadvantages-of-multithreading-in-java/
+Watki ogolnie,
+https://stackoverflow.com/questions/4315292/concurrency-processes-vs-threads
 https://www.codejava.net/java-core/concurrency/understanding-thread-priorities-and-daemon-thread-in-java
 https://www.codejava.net/java-core/concurrency/understanding-thread-states-thread-life-cycle-in-java
+https://www.baeldung.com/java-thread-stop
+https://www.geeksforgeeks.org/killing-threads-in-java/
+https://www.codejava.net/java-core/concurrency/how-to-use-threads-in-java-create-start-pause-interrupt-and-join
+https://www.geeksforgeeks.org/difference-between-thread-start-and-thread-run-in-java/
+https://stackoverflow.com/questions/8579657/whats-the-difference-between-thread-start-and-runnable-run
+https://docs.oracle.com/javase/1.5.0/docs/guide/misc/threadPrimitiveDeprecation.html
+https://www.baeldung.com/java-daemon-thread
+https://stackoverflow.com/questions/2213340/what-is-a-daemon-thread-in-java
 Deadlock,
 https://docs.oracle.com/javase/tutorial/essential/concurrency/deadlock.html
 https://medium.com/@recepinancc/til-10-what-is-a-deadlock-c00753c349f6
@@ -207,6 +226,10 @@ http://tutorials.jenkov.com/java-concurrency/deadlock.html
 http://tutorials.jenkov.com/java-concurrency/deadlock-prevention.html
 https://howtodoinjava.com/java/multi-threading/writing-a-deadlock-and-resolving-in-java/
 https://www.geeksforgeeks.org/deadlock-in-java-multithreading/
+https://www.geeksforgeeks.org/deadlock-prevention/
+https://www.geeksforgeeks.org/deadlock-detection-recovery
+https://www.geeksforgeeks.org/deadlock-starvation-and-livelock/
+https://stackoverflow.com/questions/6155951/whats-the-difference-between-deadlock-and-livelock
 Starvation,
 https://docs.oracle.com/javase/tutorial/essential/concurrency/starvelive.html
 http://tutorials.jenkov.com/java-concurrency/starvation-and-fairness.html
@@ -322,7 +345,7 @@ podejscie zastosowanie w praktyce
 narzedzia
 https://hackernoon.com/5-courses-java-programmers-can-join-to-learn-junit-and-mockito-in-2019-h74t38r4
 
-book: tdd teoria
+book: tdd teoria, https://javarevisited.blogspot.com/2014/08/top-5-books-to-learn-unit-testing-junit-tdd-Java-programmers.htm
 
 0_:::WEB_FRAMEWORKS:::
 :Spring,
