@@ -240,7 +240,7 @@ Pararellism,
 https://www.geeksforgeeks.org/introduction-to-parallel-computing/
 https://www.geeksforgeeks.org/what-is-parallel-processing/
 Producer consumer,
-Dinning philosopers
+Dinning philosopers,
 Race condition,
 https://stackoverflow.com/questions/34510/what-is-a-race-condition
 http://tutorials.jenkov.com/java-concurrency/race-conditions-and-critical-sections.html
@@ -263,6 +263,40 @@ Concurrent collections
 https://javarevisited.blogspot.com/2013/02/concurrenthashmap-in-java-example-tutorial-working.html#axzz6crABS0OE
 https://javarevisited.blogspot.com/2011/04/difference-between-concurrenthashmap.html#axzz6crABS0OE
 http://tutorials.jenkov.com/java-concurrency/blocking-queues.html
+https://stackoverflow.com/questions/28979488/difference-between-copyonwritearraylist-and-synchronizedlist
+https://howtodoinjava.com/java/collections/arraylist/synchronize-arraylist/
+https://www.java67.com/2015/06/difference-between-synchronized-arraylist-and-copyOnWriteArrayList-java.html
+https://www.quora.com/What-are-the-pros-and-cons-of-CopyOnWriteArrayList-vs-Collections-SynchronizedList-When-do-we-choose-one-over-another
+https://stackoverflow.com/questions/8203864/choosing-the-best-concurrency-list-in-java
+https://stackoverflow.com/questions/6992608/why-there-is-no-concurrenthashset-against-concurrenthashmap
+https://javarevisited.blogspot.com/2017/08/how-to-create-thread-safe-concurrent-hashset-in-java-8.html#axzz6dJx1INNi
+https://www.java67.com/2017/08/how-to-create-concurrenthashset-from-concurrentHashMap-Java-example.html
+Locks,
+http://flex4java.blogspot.com/2015/02/lock-reentrantlock-reentrantreadwritelo.html
+https://examples.javacodegeeks.com/core-java/util/concurrent/locks-concurrent/reentrantlock/java-reentrantreadwritelock-example/
+https://www.overops.com/blog/java-8-stampedlocks-vs-readwritelocks-and-synchronized/
+https://bowenli86.github.io/2016/04/20/java/concurrency/Java-Concurrency-ReentrantLock/
+https://www.codejava.net/java-core/concurrency/java-readwritelock-and-reentrantreadwritelock-example
+https://docs.oracle.com/javase/7/docs/api/java/util/concurrent/locks/ReentrantReadWriteLock.html
+https://www.baeldung.com/java-concurrent-locks
+http://tutorials.jenkov.com/java-concurrency/read-write-locks.html
+http://tutorials.jenkov.com/java-concurrency/locks.html#reentrance
+https://stackoverflow.com/questions/36799339/whats-the-difference-between-lock-and-reentrantlock-in-java-5
+https://javarevisited.blogspot.com/2013/03/reentrantlock-example-in-java-synchronized-difference-vs-lock.html#axzz6dQCKLI2v
+Phaser,
+https://www.baeldung.com/java-phaser
+https://docs.oracle.com/javase/8/docs/api/java/util/concurrent/Phaser.html
+https://www.geeksforgeeks.org/java-util-concurrent-phaser-class-in-java-with-examples/
+https://www.netjstech.com/2016/01/phaser-in-java-concurrency.html
+Exhanger,
+https://codecouple.pl/2018/12/14/exchanger-czyli-wymieniamy-obiekty-pomiedzy-watkami/
+http://tutorials.jenkov.com/java-util-concurrent/exchanger.html
+https://docs.oracle.com/javase/7/docs/api/java/util/concurrent/Exchanger.html
+https://www.baeldung.com/java-exchanger
+https://javarevisited.blogspot.com/2020/04/how-to-use-exchanger-in-java-with-example.html#axzz6dQCKLI2v
+https://www.geeksforgeeks.org/java-util-concurrent-exchanger-class-with-examples/
+https://examples.javacodegeeks.com/core-java/util/concurrent/exchanger/java-util-concurrent-exchanger-example/
+https://www.netjstech.com/2016/02/exchanger-in-java-concurrency.html
 Jenkov,
 http://tutorials.jenkov.com/java-concurrency/index.html
 http://tutorials.jenkov.com/java-util-concurrent/index.html
@@ -287,6 +321,14 @@ https://tsh.io/blog/basics-of-microservices-pros-and-cons/
 https://www.springboottutorial.com/creating-microservices-with-spring-boot-part-1-getting-started
 DDD,
 https://microservices.io/patterns/data/domain-event.html
+https://martinfowler.com/bliki/DomainDrivenDesign.html
+https://martinfowler.com/bliki/DDD_Aggregate.html
+https://vaadin.com/learn/tutorials/ddd/strategic_domain_driven_design
+https://www.infoq.com/articles/ddd-in-practice/
+https://threedots.tech/post/ddd-lite-in-go-introduction/
+https://www.dddcommunity.org/learning-ddd/what_is_ddd/
+https://blog.aspiresys.pl/technology/introduction-to-domain-driven-design/
+https://www.geeksforgeeks.org/domain-driven-design-ddd/
 Resilience patters,
 https://dzone.com/articles/circuit-breaker-pattern
 https://medium.com/@narengowda/what-is-circuitbreaking-in-microservices-2053f4f66882
@@ -342,8 +384,11 @@ https://martinfowler.com/bliki/TestPyramid.html
 https://medium.com/@mateuszroth/why-the-test-pyramid-is-a-bullshit-guide-to-testing-towards-modern-frontend-and-backend-apps-4246e89b87bd
 https://medium.com/better-programming/the-test-pyramid-80d77535573
 podejscie zastosowanie w praktyce
-narzedzia
+narzedzia,
 https://hackernoon.com/5-courses-java-programmers-can-join-to-learn-junit-and-mockito-in-2019-h74t38r4
+Stress & load testing,
+https://stackoverflow.com/questions/18950746/performance-stress-testing-java-ee-applications
+https://www.softwaretestinghelp.com/performance-testing-tools-load-testing-tools/
 
 book: tdd teoria, https://javarevisited.blogspot.com/2014/08/top-5-books-to-learn-unit-testing-junit-tdd-Java-programmers.htm
 
@@ -352,9 +397,20 @@ book: tdd teoria, https://javarevisited.blogspot.com/2014/08/top-5-books-to-lear
 :Spring boot
 books: pro spring 5
 :Hibernate
+https://stackoverflow.com/questions/5370482/whats-the-advantage-of-load-vs-get-in-hibernate
+https://javarevisited.blogspot.com/2012/07/hibernate-get-and-load-difference-interview-question.html#axzz6dQCKLI2v
+https://howtodoinjava.com/hibernate/lazy-loading-in-hibernate/
+https://howtodoinjava.com/hibernate/understanding-hibernate-first-level-cache-with-example/
+https://howtodoinjava.com/hibernate/how-hibernate-second-level-cache-works/
+https://stackoverflow.com/questions/8046662/hibernate-opensession-vs-getcurrentsession
+https://java2blog.com/difference-opensession-getcurrentsession-hibernate/
 n+1 problem,
 https://stackoverflow.com/questions/97197/what-is-the-n1-selects-problem-in-orm-object-relational-mapping
 inheritance w hibernate,
+https://thorben-janssen.com/complete-guide-inheritance-strategies-jpa-hibernate/
+https://www.baeldung.com/hibernate-inheritance
+https://www.javatpoint.com/hibernate-inheritance-mapping-tutorial
+https://vladmihalcea.com/the-best-way-to-use-entity-inheritance-with-jpa-and-hibernate/
 optimistic/pesimitic locking,
 versioning
 https://www.journaldev.com/3633/hibernate-interview-questions-and-answers
