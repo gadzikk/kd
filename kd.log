@@ -318,8 +318,14 @@ https://www.geeksforgeeks.org/monolithic-vs-microservices-architecture/
 https://medium.com/@goodrebels/to-go-or-not-to-go-micro-the-pros-and-cons-of-microservices-7967418ff06
 https://cloudacademy.com/blog/microservices-architecture-challenge-advantage-drawback/
 https://tsh.io/blog/basics-of-microservices-pros-and-cons/
+https://martinfowler.com/articles/microservices.html
 https://www.springboottutorial.com/creating-microservices-with-spring-boot-part-1-getting-started
+https://searchapparchitecture.techtarget.com/tip/The-key-differences-between-stateless-and-stateful-microservices
+https://blog.container-solutions.com/microservices-thinking-outside-monolith
 DDD,
+https://stackoverflow.com/questions/5325836/what-is-domain-driven-design
+https://stackoverflow.com/questions/1222392/what-is-domain-driven-design-ddd/1222488#1222488
+https://en.wikipedia.org/wiki/Domain-driven_design
 https://microservices.io/patterns/data/domain-event.html
 https://martinfowler.com/bliki/DomainDrivenDesign.html
 https://martinfowler.com/bliki/DDD_Aggregate.html
@@ -329,10 +335,35 @@ https://threedots.tech/post/ddd-lite-in-go-introduction/
 https://www.dddcommunity.org/learning-ddd/what_is_ddd/
 https://blog.aspiresys.pl/technology/introduction-to-domain-driven-design/
 https://www.geeksforgeeks.org/domain-driven-design-ddd/
+https://simpleprogrammer.com/importance-domain-driven-design/
+https://dzone.com/articles/an-introduction-to-domain-driven-design-and-its-be
+https://airbrake.io/blog/software-design/domain-driven-design
+https://www.informit.com/articles/article.aspx?p=1944876&seqNum=4
 Resilience patters,
 https://dzone.com/articles/circuit-breaker-pattern
-https://medium.com/@narengowda/what-is-circuitbreaking-in-microservices-2053f4f66882
+https://medium.com/asos-techblog/improve-availability-and-resilience-of-your-micro-services-using-this-7-cloud-design-patterns-16006eaf32b1
 https://www.jrebel.com/blog/microservices-resilience-patterns
+https://searchapparchitecture.techtarget.com/tip/3-microservices-resiliency-patterns-for-better-reliability
+https://blog.codecentric.de/en/2019/06/resilience-design-patterns-retry-fallback-timeout-circuit-breaker/
+https://dzone.com/articles/libraries-for-microservices-development
+https://dzone.com/articles/making-your-microservices-resilient-and-fault-tole-1
+https://medium.com/@narengowda/what-is-circuitbreaking-in-microservices-2053f4f66882
+https://docs.microsoft.com/en-us/azure/architecture/patterns/circuit-breaker
+https://stackoverflow.com/questions/39622142/resilient-microservices-design-pattern
+retry | timeout | curcuit breaker | bulkhead | stateless service | compensating transaction | throttling | rate limiter | health endpoint monitoring | load leveling | external configuration | correlation id
+https://www.vinsguru.com/circuit-breaker-pattern/
+https://www.vinsguru.com/timeout-pattern-microservice-design-patterns/
+https://www.vinsguru.com/retry-pattern-microservice-design-patterns/
+https://www.vinsguru.com/bulkhead-pattern-microservice-design-patterns/
+https://docs.microsoft.com/en-us/azure/architecture/patterns/bulkhead
+https://stackoverflow.com/questions/30391809/what-is-bulkhead-pattern-used-by-hystrix
+https://akfpartners.com/growth-blog/bulkhead-pattern
+https://stackoverflow.com/questions/60990475/what-is-the-difference-between-a-circuit-breaker-and-a-bulkhead-pattern
+https://www.vinsguru.com/rate-limiter-pattern/
+https://use-cases.org/2020/04/23/differences-between-rate-limiting-and-throttling/
+https://medium.com/@thisara.udaya/api-throttling-and-rate-limiting-4835ce901857
+https://membrane-soa.org/service-proxy-doc/4.2/rate-limiting.htm
+https://akfpartners.com/growth-blog/microservice-aggregator-pattern
 Transaction patterns,
 https://medium.com/swlh/handling-transactions-in-the-microservice-world-c77b275813e0
 https://developers.redhat.com/blog/2018/10/01/patterns-for-distributed-transactions-within-a-microservices-architecture/
@@ -394,6 +425,7 @@ book: tdd teoria, https://javarevisited.blogspot.com/2014/08/top-5-books-to-lear
 
 0_:::WEB_FRAMEWORKS:::
 :Spring,
+http://www.vinsguru.com/reactive-programming-a-simple-introduction/
 :Spring boot
 books: pro spring 5
 :Hibernate
