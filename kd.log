@@ -322,6 +322,8 @@ https://martinfowler.com/articles/microservices.html
 https://www.springboottutorial.com/creating-microservices-with-spring-boot-part-1-getting-started
 https://searchapparchitecture.techtarget.com/tip/The-key-differences-between-stateless-and-stateful-microservices
 https://blog.container-solutions.com/microservices-thinking-outside-monolith
+https://dzone.com/articles/patterns-for-microservices-sync-vs-async
+https://dzone.com/articles/design-patterns-for-microservices
 DDD,
 https://stackoverflow.com/questions/5325836/what-is-domain-driven-design
 https://stackoverflow.com/questions/1222392/what-is-domain-driven-design-ddd/1222488#1222488
@@ -367,10 +369,30 @@ https://akfpartners.com/growth-blog/microservice-aggregator-pattern
 Transaction patterns,
 https://medium.com/swlh/handling-transactions-in-the-microservice-world-c77b275813e0
 https://developers.redhat.com/blog/2018/10/01/patterns-for-distributed-transactions-within-a-microservices-architecture/
+https://techrocking.com/patterns-for-transaction-in-microservices/
+https://thorben-janssen.com/distributed-transactions-microservices/
+Saga,
+https://microservices.io/patterns/data/saga.html
+https://techrocking.com/microservices-orchestration-command-pattern/
+https://techrocking.com/microservices-choreography-event-pattern/
+https://dzone.com/articles/saga-pattern-how-to-implement-business-transaction-1
+https://github.com/berndruecker/trip-booking-saga-java/blob/master/src/main/java/io/flowing/trip/saga/camunda/springboot/TripBookingSaga.java
+https://medium.com/@ydorego/microservices-orchestration-vs-choreography-the-eternal-saga-d58c35e07d81
+https://blog.couchbase.com/saga-pattern-implement-business-transactions-using-microservices-part/
+Two Phase Commit,
+https://stackoverflow.com/questions/7389382/two-phase-commit
+https://medium.com/@sauravomar01/2pc-two-phase-commit-protocol-4ba47e441cdf
+https://www.educative.io/edpresso/what-is-the-two-phase-commit-protocol
 Deployment patterns,
+https://microservices.io/patterns/
+https://dzone.com/articles/right-strategies-for-microservices-deployment
+https://www.nginx.com/blog/deploying-microservices/
 Api gateway,
 https://medium.com/dev-genius/microservices-design-api-gateway-pattern-980e8d02bdd5
-Saga,
+https://techrocking.com/spring-cloud-zuul-proxy-as-api-gateway/
+https://microservices.io/patterns/apigateway.html
+https://www.nginx.com/learn/api-gateway/
+https://codecouple.pl/2018/03/16/31-spring-boot-zuul-api-gateway/
 CQRS,
 https://microservices.io/patterns/data/cqrs.html
 https://stackoverflow.com/questions/47048839/cqrs-and-event-sourcing-difference
@@ -378,9 +400,22 @@ https://stackoverflow.com/questions/60523277/event-sourcing-and-cqrs-what-did-i-
 https://stackoverflow.com/questions/8820748/when-to-use-the-cqrs-design-pattern
 https://community.risingstack.com/when-to-use-cqrs/
 https://martinfowler.com/bliki/CQRS.html
+https://stackoverflow.com/questions/33279680/what-are-the-disadvantages-of-using-event-sourcing-and-cqrs
+https://www.infoq.com/news/2015/05/cqrs-advantages/
+https://docs.microsoft.com/pl-pl/azure/architecture/patterns/cqrs
+https://www.beautifulcode.co/blog/3-advantages-of-separating-command-query-responsibilities-for-a-dat
+https://nexocode.com/blog/posts/cqrs-and-event-sourcing/
+https://stackoverflow.com/questions/3234831/cqrs-synchronizing-the-write-and-read-databases
+https://thenewstack.io/how-cqrs-works-with-spring-tools/
 Event Sourcing,
 https://microservices.io/patterns/data/event-sourcing.html
 https://bulldogjob.pl/articles/122-cqrs-i-event-sourcing-czyli-latwa-droga-do-skalowalnosci-naszych-systemow_
+https://socodeit.pl/2019/09/event-sourcing/
+https://martinfowler.com/eaaDev/EventSourcing.html
+https://www.euvic.pl/event-sourcing-bez-tajemnic/
+https://eventuate.io/whyeventsourcing.html
+https://docs.microsoft.com/pl-pl/azure/architecture/patterns/event-sourcing
+https://softwaremill.com/entry-level-event-sourcing/
 SOA,
 Scalability,
 https://searchdatacenter.techtarget.com/definition/scalability
@@ -476,7 +511,19 @@ Monads,
 Functional programming patterns
 
 0_:::SCALA:::
-Scala: implicit | functor vs applicative vs monad | hierarchia klas | case classes vs classes | sealed classes | currying | partial functions
+Scala ogolnie,
+https://stackoverflow.com/questions/1345713/what-are-the-benefits-of-scala
+https://www.quora.com/Why-should-a-Java-developer-consider-switching-to-Scala?q=scala%20java
+https://www.newgenapps.com/blog/advantages-of-using-scala/
+https://www.quora.com/Is-the-Scala-language-better-than-Java
+https://www.quora.com/What-are-the-advantages-of-Scala-over-Java-functional-programming
+https://www.educba.com/scala-vs-java/
+https://jaxenter.com/5-reasons-why-scala-is-better-than-java-130863.html
+https://venturi-group.com/scala-vs-java-differences-similarities/
+https://www.amazon.com/Functional-Programming-Patterns-Scala-Clojure/dp/1937785475
+https://www.bti360.com/scala-vs-java-8-in-a-java-8-world/
+https://www.infoq.com/articles/java-8-vs-scala/
+implicit | functor vs applicative vs monad | hierarchia klas | case classes vs classes | sealed classes | currying | partial functions
 
 https://docs.scala-lang.org/
 https://www.geeksforgeeks.org/scala-programming-language/
