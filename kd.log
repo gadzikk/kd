@@ -449,18 +449,38 @@ https://martinfowler.com/articles/practical-test-pyramid.html
 https://martinfowler.com/bliki/TestPyramid.html
 https://medium.com/@mateuszroth/why-the-test-pyramid-is-a-bullshit-guide-to-testing-towards-modern-frontend-and-backend-apps-4246e89b87bd
 https://medium.com/better-programming/the-test-pyramid-80d77535573
-podejscie zastosowanie w praktyce
-narzedzia,
-https://hackernoon.com/5-courses-java-programmers-can-join-to-learn-junit-and-mockito-in-2019-h74t38r4
-Stress & load testing,
+manual vs automated testing,
+https://www.guru99.com/difference-automated-vs-manual-testing.html
+https://dzone.com/articles/automated-testing-vs-manual-testing
+https://www.testim.io/blog/test-automation-vs-manual-testing/
+https://www.qamadness.com/manual-testing-vs-automated-testing/
+blackbox testing,
+https://softwaretestingfundamentals.com/black-box-testing/
+https://www.imperva.com/learn/application-security/black-box-testing/
+https://www.softwaretestinghelp.com/black-box-testing/
+rodzaje testow,
+https://www.guru99.com/load-testing-tutorial.html
+https://www.guru99.com/performance-testing.html
+https://www.guru99.com/scalability-testing.html
+https://www.geeksforgeeks.org/software-testing-scalability-testing/
 https://stackoverflow.com/questions/18950746/performance-stress-testing-java-ee-applications
 https://www.softwaretestinghelp.com/performance-testing-tools-load-testing-tools/
+https://www.geeksforgeeks.org/differences-between-black-box-testing-vs-white-box-testing/
+https://www.geeksforgeeks.org/differences-between-white-box-testing-and-gray-box-testing/
+https://www.geeksforgeeks.org/difference-between-black-box-testing-and-gray-box-testing/
+https://www.javatpoint.com/black-box-testing-vs-white-box-testing-vs-grey-box-testing
+https://www.javatpoint.com/acceptance-testing
+narzedzia,
+https://hackernoon.com/5-courses-java-programmers-can-join-to-learn-junit-and-mockito-in-2019-h74t38r4
+https://www.softwaretestinghelp.com/performance-testing-tools-load-testing-tools/
+https://www.guru99.com/performance-testing-tools.html
 
 book: tdd teoria, https://javarevisited.blogspot.com/2014/08/top-5-books-to-learn-unit-testing-junit-tdd-Java-programmers.htm
 
 0_:::WEB_FRAMEWORKS:::
 :Spring,
 http://www.vinsguru.com/reactive-programming-a-simple-introduction/
+https://docs.spring.io/spring-hateoas/docs/current/reference/html/#reference
 :Spring boot
 books: pro spring 5
 :Hibernate
@@ -490,11 +510,24 @@ Books: J2EE developer handbook | Core j2ee patterns – przejzec | 00 – przejr
 0_:::WEBSERVICES:::
 SOAP,
 REST,
+https://restfulapi.net/
+https://www.mulesoft.com/resources/api/what-is-rest-api-design
 https://blog.restcase.com/4-maturity-levels-of-rest-api-design/
+https://searchapparchitecture.techtarget.com/definition/RESTful-API
+https://stackoverflow.com/questions/671118/what-exactly-is-restful-programming
+https://stackoverflow.com/questions/2190836/what-is-the-difference-between-http-and-rest
 https://martinfowler.com/articles/richardsonMaturityModel.html
 https://restfulapi.net/richardson-maturity-model/
+https://bykowski.pl/hateoas-czym-jest-jak-wdrozyc-i-po-co-to-komu/
+https://geek.justjoin.it/hateoas-api-moze-byc-lepsze
+https://www.infoq.com/news/2009/04/hateoas-restful-api-advantages/
+https://softwareengineering.stackexchange.com/questions/149124/what-is-the-benefit-of-hypermedia-hateoas
+https://medium.com/@andreasreiser94/why-hateoas-is-useless-and-what-that-means-for-rest-a65194471bc8
+https://varunpatil.me/blog/posts/hateoas/
 RESTClient,
 HTTP (jak dziala, statusy, odpowiedzi, filtry, servlety),
+https://www.restapitutorial.com/httpstatuscodes.html
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
 
 Books: J2EE essentials | Java Web Services
 
@@ -504,11 +537,53 @@ JMS vs Kafka,
 https://www.knowledgenile.com/blogs/apache-kafka-vs-jms
 http://cloudurable.com/blog/kafka-vs-jms/index.html
 https://stackoverflow.com/questions/42664894/jms-vs-kafka-in-specific-conditions
+https://www.oracle.com/technical-resources/articles/java/intro-java-message-service.html
 
 0_:::FUNTIONAL_PROGRAMMING:::
-Prons and cons of functional programming,
+Fp ogolnie,
+https://www.tutorialspoint.com/functional_programming/functional_programming_introduction.htm
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0
+https://en.wikipedia.org/wiki/Functional_programming
+https://en.wikipedia.org/wiki/First-class_function
+https://en.wikipedia.org/wiki/Pure_function
+https://en.wikipedia.org/wiki/Side_effect_(computer_science)
+https://www.geeksforgeeks.org/functional-programming-paradigm/
+https://wiki.haskell.org/Functional_programming
+https://serokell.io/blog/introduction-to-functional-programming
+Pros and cons of functional programming,
+https://spin.atomicobject.com/2019/08/29/functional-prog-pros-cons/
+https://www.researchgate.net/post/What-are-the-advantages-and-disadvantages-of-functional-programming
+https://syndicode.com/blog/pros-and-cons-of-functional-programming/
+https://www.quora.com/What-are-the-advantages-of-functional-programming-over-object-oriented-programming-What-are-some-languages-that-are-mainly-functional
+https://hackr.io/blog/functional-programming
+https://blog.knoldus.com/functional-programming-a-paradigm/
+http://alvinalexander.com/scala/fp-book/benefits-of-functional-programming/
+https://alvinalexander.com/scala/fp-book/disadvantages-of-functional-programming/
 Monads,
-Functional programming patterns
+https://blog.knoldus.com/understanding-monads-an-introduction/
+https://stackoverflow.com/questions/14576543/why-can-applicative-functors-have-side-effects-but-functors-cant
+https://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html
+https://medium.com/@lettier/your-easy-guide-to-monads-applicatives-functors-862048d61610
+Lazy evauluation,
+https://www.tutorialspoint.com/functional_programming/functional_programming_lazy_evaluation.htm
+Higher order functions
+https://www.magicweb.pl/programowanie/programowanie-funkcyjne-higher-order-functions/
+https://docs.scala-lang.org/tour/higher-order-functions.html
+Closures,
+https://stackoverflow.com/questions/36636/what-is-a-closure
+https://stackoverflow.com/questions/220658/what-is-the-difference-between-a-closure-and-a-lambda/36878651#36878651
+https://stackoverflow.com/questions/40089429/the-place-of-closures-in-functional-programming
+https://softwareengineering.stackexchange.com/questions/40454/what-is-a-closure
+https://medium.com/beginners-guide-to-mobile-web-development/closures-in-functional-programming-and-javascript-3ed730e08fc2
+Functional programming patterns,
+https://github.com/caiorss/Functional-Programming/blob/master/haskell/Functional_Programming_Concepts.org
+https://spin.atomicobject.com/2019/08/22/functional-programming-patterns/
+https://www.freecodecamp.org/news/functional-programming-patterns-cookbook-3a0dfe2d7e0a/
+https://www.slideshare.net/ScottWlaschin/fp-patterns-buildstufflt
+https://www.quora.com/What-are-some-functional-programming-design-patterns
+https://csmith111.gitbooks.io/functional-reactive-programming-with-elm/content/FPpatterns.html
+TypeClass,
+https://blog.knoldus.com/getting-started-with-scala-cats/
 
 0_:::SCALA:::
 Scala ogolnie,
@@ -523,28 +598,49 @@ https://venturi-group.com/scala-vs-java-differences-similarities/
 https://www.amazon.com/Functional-Programming-Patterns-Scala-Clojure/dp/1937785475
 https://www.bti360.com/scala-vs-java-8-in-a-java-8-world/
 https://www.infoq.com/articles/java-8-vs-scala/
+https://blog.outsource2india.com/the-advantages-of-using-scala/
+https://softwareengineering.stackexchange.com/questions/130335/why-is-scala-more-scalable-than-other-languages
+https://data-flair.training/blogs/scala-advantages/
 implicit | functor vs applicative vs monad | hierarchia klas | case classes vs classes | sealed classes | currying | partial functions
 
 https://docs.scala-lang.org/
 https://www.geeksforgeeks.org/scala-programming-language/
+https://blog.knoldus.com/scala-map-vs-flatmap/
 
 https://www.journaldev.com/8958/scala-interview-questions-answers
 https://www.journaldev.com/8960/scala-advanced-interview-questions
 https://www.journaldev.com/9663/scala-interview-questions
 
-Books: programming in scala | scala cookbook | funtional programming in scala |building applications with scala | Learning Concurrent Programming in Scala
+Books: programming in scala | scala cookbook | funtional programming in scala |building applications with scala | Learning Concurrent Programming in Scala | https://softwareengineering.stackexchange.com/questions/89273/where-are-all-the-functional-programming-design-patterns
 
 Scalaz: fpmortals | eed3 | catsdoc
+Cats: https://blog.knoldus.com/a-quick-start-to-cats-library/
 
 
 
 0_:::MODERN_TOOLS:::
 :Kafka,
+http://cloudurable.com/blog/kafka-architecture-low-level/index.html
+http://cloudurable.com/blog/what-is-kafka/index.html
+http://cloudurable.com/blog/kafka-architecture/index.html
+http://cloudurable.com/blog/kafka-architecture-topics/index.html
+http://cloudurable.com/blog/kafka-architecture-consumers/index.html
+http://cloudurable.com/blog/kafka-architecture-producers/index.html
+http://cloudurable.com/blog/kafka-architecture-log-compaction/index.html
 partitioning | leaders | rebalance | controller | replica | retention | compation | producer-modes | ack statuses | streams | kafka vs jms | commit log | message key | join group request | sync async commitoff | request-consumer-producer
 
 Books: Kafka – definitive guide
 
 :Akka,
+https://blog.knoldus.com/introduction-to-akka/
+https://blog.knoldus.com/understanding-akka-actor-lifecycle/
+https://blog.knoldus.com/what-is-ask-pattern-in-akka/
+https://blog.knoldus.com/circuit-breaker-in-akka/
+https://blog.knoldus.com/achieving-concurrency-with-akka-actors/
+https://blog.knoldus.com/concurrency-using-scala-problems-vs-tools/
+https://blog.knoldus.com/akka-streams-all-about-materialization/
+https://blog.knoldus.com/akka-stream-map-and-mapasync/
+https://blog.knoldus.com/scale-out-with-cluster-sharding/
 
 Books: Akka in Action
 
@@ -554,10 +650,16 @@ invertedindex | replica | primary shard | rodzaje wyszukiwania | mapping | analy
 Books: ElatsticSearch definitive guide
 
 :Spark
+https://blog.knoldus.com/what-make-spark-so-powerful-part-1/
+https://blog.knoldus.com/spark-structured-streaming-part-1-introduction/
+https://blog.knoldus.com/spark-streaming-datasets/
+https://blog.knoldus.com/stateful-streaming-in-spark/
+
 
 Books:
 
 :Elastic Logstash Kibana
+https://blog.knoldus.com/what-is-the-elk-stack/
 
 Books:
 
