@@ -66,6 +66,7 @@ https://www.geeksforgeeks.org/instanceof-operator-vs-isinstance-method-in-java/
 https://www.geeksforgeeks.org/strictfp-keyword-java/
 https://www.baeldung.com/java-fail-safe-vs-fail-fast-iterator
 https://akademiahakerow.pl/aktualnosci/pojedynczy-wpis/RoznicapomiedzyoperatoramiFail-safeaFail-fast
+https://stackoverflow.com/questions/8759868/java-logical-operator-short-circuiting
 
 https://www.geeksforgeeks.org/java
 https://www.journaldev.com/2366/core-java-interview-questions-and-answers
@@ -169,6 +170,7 @@ https://mkyong.com/java8/java-8-convert-list-to-map/
 https://mkyong.com/java8/java-8-convert-a-stream-to-list/
 https://mkyong.com/java8/java-8-how-to-sum-bigdecimal-using-stream/
 https://javadevcentral.com/java-stream-sum
+https://stackoverflow.com/questions/21219667/stream-and-lazy-evaluation
 
 Nowe wersje javy co wprowadzono,
 https://mkyong.com/java/what-is-new-in-java-11/
@@ -559,6 +561,12 @@ https://hackr.io/blog/functional-programming
 https://blog.knoldus.com/functional-programming-a-paradigm/
 http://alvinalexander.com/scala/fp-book/benefits-of-functional-programming/
 https://alvinalexander.com/scala/fp-book/disadvantages-of-functional-programming/
+Fp for concurrency
+https://softwareengineering.stackexchange.com/questions/310159/is-functional-programming-faster-in-multithreading-because-i-write-things-differ
+https://www.quora.com/Why-does-functional-programming-favor-concurrency
+https://freecontent.manning.com/the-foundations-of-functional-concurrency/
+https://dzone.com/articles/java-using-immutable-classes-for-concurrent-programming
+https://stackoverflow.com/questions/214714/mutable-vs-immutable-objects
 Monads,
 https://blog.knoldus.com/understanding-monads-an-introduction/
 https://stackoverflow.com/questions/14576543/why-can-applicative-functors-have-side-effects-but-functors-cant
@@ -566,6 +574,11 @@ https://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.
 https://medium.com/@lettier/your-easy-guide-to-monads-applicatives-functors-862048d61610
 Lazy evauluation,
 https://www.tutorialspoint.com/functional_programming/functional_programming_lazy_evaluation.htm
+https://stackoverflow.com/questions/265392/why-is-lazy-evaluation-useful
+https://www.learningjournal.guru/article/scala/functional-programming/non-strict-lazy-evaluations-in-functional-programming/
+https://stackoverflow.com/questions/24704503/lazy-evaluation-why-is-it-faster-advantages-vs-disadvantages-mechanics-why-i
+https://www.geeksforgeeks.org/scala-lazy-evaluation/
+https://softwareengineering.stackexchange.com/questions/124500/why-isnt-lazy-evaluation-used-everywhere
 Higher order functions
 https://www.magicweb.pl/programowanie/programowanie-funkcyjne-higher-order-functions/
 https://docs.scala-lang.org/tour/higher-order-functions.html
@@ -575,6 +588,7 @@ https://stackoverflow.com/questions/220658/what-is-the-difference-between-a-clos
 https://stackoverflow.com/questions/40089429/the-place-of-closures-in-functional-programming
 https://softwareengineering.stackexchange.com/questions/40454/what-is-a-closure
 https://medium.com/beginners-guide-to-mobile-web-development/closures-in-functional-programming-and-javascript-3ed730e08fc2
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36
 Functional programming patterns,
 https://github.com/caiorss/Functional-Programming/blob/master/haskell/Functional_Programming_Concepts.org
 https://spin.atomicobject.com/2019/08/22/functional-programming-patterns/
@@ -582,8 +596,6 @@ https://www.freecodecamp.org/news/functional-programming-patterns-cookbook-3a0df
 https://www.slideshare.net/ScottWlaschin/fp-patterns-buildstufflt
 https://www.quora.com/What-are-some-functional-programming-design-patterns
 https://csmith111.gitbooks.io/functional-reactive-programming-with-elm/content/FPpatterns.html
-TypeClass,
-https://blog.knoldus.com/getting-started-with-scala-cats/
 
 0_:::SCALA:::
 Scala ogolnie,
@@ -601,6 +613,17 @@ https://www.infoq.com/articles/java-8-vs-scala/
 https://blog.outsource2india.com/the-advantages-of-using-scala/
 https://softwareengineering.stackexchange.com/questions/130335/why-is-scala-more-scalable-than-other-languages
 https://data-flair.training/blogs/scala-advantages/
+TypeClass,
+https://blog.knoldus.com/getting-started-with-scala-cats/
+https://medium.com/virtuslab/typeclasses-scala-be35c0ef0ee9
+https://alvinalexander.com/scala/fp-book/type-classes-101-introduction/
+https://scalac.io/typeclasses-in-scala/
+https://medium.com/@kolemannix/an-introduction-to-typeclasses-in-scala-26d4dc5fdf58
+Rozne,
+https://stackoverflow.com/questions/60128207/whats-the-difference-between-lazylist-and-stream-in-scala
+https://stackoverflow.com/questions/2312881/what-is-the-difference-between-scalas-case-class-and-class?rq=1
+https://stackoverflow.com/questions/8000903/what-are-all-the-uses-of-an-underscore-in-scala?rq=1
+https://stackoverflow.com/questions/1791408/what-is-the-difference-between-a-var-and-val-definition-in-scala?rq=1
 implicit | functor vs applicative vs monad | hierarchia klas | case classes vs classes | sealed classes | currying | partial functions
 
 https://docs.scala-lang.org/
@@ -632,6 +655,12 @@ partitioning | leaders | rebalance | controller | replica | retention | compatio
 Books: Kafka – definitive guide
 
 :Akka,
+akka Pros and cons,
+https://softwareengineering.stackexchange.com/questions/300396/why-is-akka-good-for-concurrency
+https://softwareengineering.stackexchange.com/questions/212754/when-is-it-not-good-to-use-actors-in-akka-erlang
+https://stackoverflow.com/questions/4493001/what-are-the-best-use-cases-for-akka-framework
+https://www.oreilly.com/library/view/scala-reactive-programming/9781787288645/af49b94a-7c9f-4316-9173-6807a95539b1.xhtml
+
 https://blog.knoldus.com/introduction-to-akka/
 https://blog.knoldus.com/understanding-akka-actor-lifecycle/
 https://blog.knoldus.com/what-is-ask-pattern-in-akka/
@@ -641,6 +670,15 @@ https://blog.knoldus.com/concurrency-using-scala-problems-vs-tools/
 https://blog.knoldus.com/akka-streams-all-about-materialization/
 https://blog.knoldus.com/akka-stream-map-and-mapasync/
 https://blog.knoldus.com/scale-out-with-cluster-sharding/
+https://blog.knoldus.com/introduction-actor-model-akka-nutshell-1/
+https://blog.knoldus.com/supervision-and-monitoring-in-akka/
+https://www.signifytechnology.com/blog/2018/04/introduction-to-akka-actors-in-java-by-baeldung
+https://www.oreilly.com/library/view/scala-reactive-programming/9781787288645/af49b94a-7c9f-4316-9173-6807a95539b1.xhtml
+https://www.slideshare.net/krivachy/the-dark-side-of-akka-and-the-remedy
+https://dzone.com/articles/3-reasons-why-akka-typed-helps-you-write-better-co
+https://sap1ens.com/blog/2015/10/25/actors-streams-and-futures-in-akka/
+https://eng.localytics.com/akka-streams-akka-without-the-actors/
+https://manuel.bernhardt.io/2018/08/06/akka-anti-patterns-many-actors/
 
 Books: Akka in Action
 
@@ -663,11 +701,24 @@ https://blog.knoldus.com/what-is-the-elk-stack/
 
 Books:
 
+Rozne,
+https://blog.knoldus.com/akka-streams-streaming-done-right/
+https://dzone.com/articles/comparing-akka-streams-kafka-streams-and-spark-str
+
 0_:::NO_SQL:::
-NoSQL prons and cons,
+NoSQL pros and cons,
+https://www.mongodb.com/scale/nosql-databases-pros-and-cons
+https://stackoverflow.com/questions/5244437/pros-and-cons-of-mongodb
+https://www.freecodecamp.org/news/nosql-databases-5f6639ed9574/
+https://stackoverflow.com/questions/3342497/explanation-of-base-terminology
 NoSQL vs SQL,
+https://www.guru99.com/sql-vs-nosql.html
+https://www.bmc.com/blogs/sql-vs-nosql/
 Cassandra,
 mongoDb,
+https://www.guru99.com/what-is-mongodb.html
+https://docs.mongodb.com/manual/applications/data-models-relationships/
+https://stackoverflow.com/questions/5373198/mongodb-relationships-embed-or-reference
 
 0_:::SIECI:::
 Protokoly: TCP/IP HTTP, Telnet, FTP, TFTP, SNMP, DNS, SMTP
@@ -720,8 +771,16 @@ Metody enkodowania
 
 0_:::DEVOPS:::
 Docker,
+https://www.guru99.com/docker-tutorial.html
+https://www.rangeforce.com/blog/docker-software-basics
+Kubernetes,
 Azure,
 AWS,
+
+Rozne,
+https://www.guru99.com/kubernetes-vs-docker.html
+
+https://www.guru99.com/docker-interview-questions.html
 
 Books: docker folder
 
@@ -763,7 +822,7 @@ IOB, GUPS, ALI, boss, bpa-configi
 0_:::SQL DATABASES:::
  bazy grafowe, problem transakcji(https://docs.oracle.com/javase/tutorial/jdbc/basics/transactions.html ),
 lazy vs eager, rodzaje joinow, procedury projektu na studia, caching,
-
+https://en.wikipedia.org/wiki/ACID
 https://www.oracletutorial.com/oracle-basics/oracle-not-exists/
 http://www.dba-oracle.com/t_tuning_where_not_exists_sql.htm
 
