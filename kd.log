@@ -481,8 +481,17 @@ book: tdd teoria, https://javarevisited.blogspot.com/2014/08/top-5-books-to-lear
 
 0_:::WEB_FRAMEWORKS:::
 :Spring,
+https://stackoverflow.com/questions/7779509/setter-di-vs-constructor-di-in-spring/22033945
+https://stackoverflow.com/questions/21218868/explain-why-constructor-inject-is-better-than-other-options
 http://www.vinsguru.com/reactive-programming-a-simple-introduction/
 https://docs.spring.io/spring-hateoas/docs/current/reference/html/#reference
+http://olivergierke.de/2013/11/why-field-injection-is-evil/
+https://stackoverflow.com/questions/9403155/what-is-dependency-injection-and-inversion-of-control-in-spring-framework
+https://stackoverflow.com/questions/1099025/spring-transactional-what-happens-in-background
+https://docs.spring.io/spring-framework/docs/4.2.x/spring-framework-reference/html/beans.html#beans-setter-injection
+https://javarevisited.blogspot.com/2012/11/difference-between-setter-injection-vs-constructor-injection-spring-framework.html#axzz6e4gAepjG
+https://stackoverflow.com/questions/17193365/what-in-the-world-are-spring-beans
+https://stackoverflow.com/questions/44475523/how-to-understand-bean-in-spring
 :Spring boot
 books: pro spring 5
 :Hibernate
@@ -650,6 +659,11 @@ http://cloudurable.com/blog/kafka-architecture-topics/index.html
 http://cloudurable.com/blog/kafka-architecture-consumers/index.html
 http://cloudurable.com/blog/kafka-architecture-producers/index.html
 http://cloudurable.com/blog/kafka-architecture-log-compaction/index.html
+https://beagle1984.github.io/silverback/docs/kafka/message-key
+https://stackoverflow.com/questions/29511521/is-key-required-as-part-of-sending-messages-to-kafka
+https://linuxhint.com/apache_kafka_partitions/
+https://www.confluent.io/stream-processing-cookbook/ksql-recipes/setting-kafka-message-key/
+
 partitioning | leaders | rebalance | controller | replica | retention | compation | producer-modes | ack statuses | streams | kafka vs jms | commit log | message key | join group request | sync async commitoff | request-consumer-producer
 
 Books: Kafka – definitive guide
@@ -692,7 +706,9 @@ https://blog.knoldus.com/what-make-spark-so-powerful-part-1/
 https://blog.knoldus.com/spark-structured-streaming-part-1-introduction/
 https://blog.knoldus.com/spark-streaming-datasets/
 https://blog.knoldus.com/stateful-streaming-in-spark/
-
+https://blog.knoldus.com/broadcast-variables-in-spark-how-and-when-to-use-them/
+https://www.tutorialspoint.com/apache_spark/advanced_spark_programming.htm
+https://spark.apache.org/docs/latest/quick-start.html
 
 Books:
 
@@ -773,6 +789,9 @@ Metody enkodowania
 Docker,
 https://www.guru99.com/docker-tutorial.html
 https://www.rangeforce.com/blog/docker-software-basics
+https://vsupalov.com/6-docker-basics/
+https://thenewstack.io/docker-station-part-one-essential-docker-concepts-tools-terminology/
+https://www.tutorialspoint.com/docker/docker_containers.htm
 Kubernetes,
 Azure,
 AWS,
@@ -833,6 +852,9 @@ SQL Performance Tuning
 optimalization DB
 https://www.toptal.com/sql-server/sql-database-tuning-for-developers
 types (graph DB, NoSQL) and deep
+
+http://nbcampus.com/home/postgresql/postgresql-dba-interview-questions-2020/
+https://www.onlineinterviewquestions.com/postgresql-interview-questions/
 
 book: hibernate in action, oracle performance survival guide, High-Performance Java Persistence | java persistence with hibernate | postgresql 10 high performance | OCA Oracle Database 12c | podrecznik jezyka sql - przejrzec | podstawy jezyka sql - przejrzec
 
