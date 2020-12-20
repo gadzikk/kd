@@ -539,6 +539,7 @@ RESTClient,
 HTTP (jak dziala, statusy, odpowiedzi, filtry, servlety),
 https://www.restapitutorial.com/httpstatuscodes.html
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
+https://pl.wikipedia.org/wiki/Hypertext_Transfer_Protocol
 
 Books: J2EE essentials | Java Web Services
 
@@ -633,11 +634,18 @@ https://stackoverflow.com/questions/60128207/whats-the-difference-between-lazyli
 https://stackoverflow.com/questions/2312881/what-is-the-difference-between-scalas-case-class-and-class?rq=1
 https://stackoverflow.com/questions/8000903/what-are-all-the-uses-of-an-underscore-in-scala?rq=1
 https://stackoverflow.com/questions/1791408/what-is-the-difference-between-a-var-and-val-definition-in-scala?rq=1
+https://stackoverflow.com/questions/214714/mutable-vs-immutable-objects
+https://docs.scala-lang.org/overviews/collections/overview.html
+https://www.baeldung.com/scala/mutability
+https://blog.knoldus.com/scala-map-vs-flatmap/
+https://stackoverflow.com/questions/26140757/what-to-choose-between-require-and-assert-in-scala
+https://www.geeksforgeeks.org/scala-preconditionsassert-assume-require-ensuring/
+https://maxondev.com/scala-preconditions-assert-assume-require-ensuring/
+
 implicit | functor vs applicative vs monad | hierarchia klas | case classes vs classes | sealed classes | currying | partial functions
 
 https://docs.scala-lang.org/
 https://www.geeksforgeeks.org/scala-programming-language/
-https://blog.knoldus.com/scala-map-vs-flatmap/
 
 https://www.journaldev.com/8958/scala-interview-questions-answers
 https://www.journaldev.com/8960/scala-advanced-interview-questions
@@ -709,6 +717,8 @@ https://blog.knoldus.com/stateful-streaming-in-spark/
 https://blog.knoldus.com/broadcast-variables-in-spark-how-and-when-to-use-them/
 https://www.tutorialspoint.com/apache_spark/advanced_spark_programming.htm
 https://spark.apache.org/docs/latest/quick-start.html
+https://www.tutorialkart.com/apache-spark/spark-parallelize-example/
+https://sparkbyexamples.com/spark/spark-read-text-file-rdd-dataframe/
 
 Books:
 
@@ -738,8 +748,12 @@ https://stackoverflow.com/questions/5373198/mongodb-relationships-embed-or-refer
 
 0_:::SIECI:::
 Protokoly: TCP/IP HTTP, Telnet, FTP, TFTP, SNMP, DNS, SMTP
+https://www.javatpoint.com/computer-network-http
+https://www.javatpoint.com/tcp-vs-udp
 
 Book: useful rozdzialy
+
+0_:::GIT:::
 
 
 0_:::ALGORYTMY:::
@@ -913,6 +927,57 @@ https://syllabuskrk.agh.edu.pl/2018-2019/pl/magnesite/study_plans/niestacjonarne
 0_:::NIEZWIAZANE:::
 https://morethancoding.com/2011/05/22/the-programmer-pyramid/
 
+
+
+zadanko spark:
+https://sparkbyexamples.com/spark/sparksession-vs-sparkcontext/
+https://stackoverflow.com/questions/49574511/what-is-difference-between-sparksession-and-sparkcontext
+https://stackoverflow.com/questions/43802809/difference-between-sparkcontext-javasparkcontext-sqlcontext-and-sparksession/43803558#43803558
+https://data-flair.training/forums/topic/sparksession-vs-sparkcontext-in-apache-spark/
+https://medium.com/@aristo_alex/how-apache-sparks-transformations-and-action-works-ceb0d03b00d0
+https://training.databricks.com/visualapi.pdf
+https://data-flair.training/blogs/spark-rdd-operations-transformations-actions/
+
+https://stackoverflow.com/questions/32887595/how-does-spark-achieve-sort-order
+https://stackoverflow.com/questions/36963319/spark-rdd-sort-by-two-values
+https://stackoverflow.com/questions/46638504/sorting-using-spark
+https://blog.knoldus.com/simplifying-sorting-spark-dataframes/
+https://spark.apache.org/docs/latest/rdd-programming-guide.html
+
+https://blog.knoldus.com/sorting-in-scala-using-sortedsortby-and-sortwith-function/
+https://stackoverflow.com/questions/57455860/what-is-the-solution-in-spark-scala-to-sort-the-data-on-non-key-non-integer-colu
+https://timepasstechies.com/spark-sortby-sortbykey-example-java-scala/
+https://alvinalexander.com/scala/how-to-define-methods-variable-arguments-varargs-fields/
+https://stackoverflow.com/questions/43364432/spark-difference-between-reducebykey-vs-groupbykey-vs-aggregatebykey-vs-combineb
+https://medium.com/build-and-learn/spark-aggregating-your-data-the-fast-way-e37b53314fad
+https://www.edureka.co/community/11996/groupbykey-vs-reducebykey-in-apache-spark
+https://databricks.gitbooks.io/databricks-spark-knowledge-base/content/best_practices/prefer_reducebykey_over_groupbykey.html
+
+https://blog.knoldus.com/sorting-in-scala-using-sortedsortby-and-sortwith-function/
+https://stackoverflow.com/questions/57455860/what-is-the-solution-in-spark-scala-to-sort-the-data-on-non-key-non-integer-colu
+https://timepasstechies.com/spark-sortby-sortbykey-example-java-scala/
+https://alvinalexander.com/scala/how-to-define-methods-variable-arguments-varargs-fields/
+https://stackoverflow.com/questions/43364432/spark-difference-between-reducebykey-vs-groupbykey-vs-aggregatebykey-vs-combineb
+https://medium.com/build-and-learn/spark-aggregating-your-data-the-fast-way-e37b53314fad
+https://www.edureka.co/community/11996/groupbykey-vs-reducebykey-in-apache-spark
+https://databricks.gitbooks.io/databricks-spark-knowledge-base/content/best_practices/prefer_reducebykey_over_groupbykey.html
+
+https://stackoverflow.com/questions/48657771/sum-up-into-a-new-column-from-a-range-of-values-of-a-column-in-spark-using-scala?rq=1
+https://stackoverflow.com/questions/44677617/how-to-identify-the-intersection-between-two-arrays-in-scala-spark
+https://www.waitingforcode.com/apache-spark-sql/apache-spark-2.4.0-features-except-all-intersect-all/read
+http://homepage.cs.latrobe.edu.au/zhe/ZhenHeSparkRDDAPIExamples.html
+https://stackoverflow.com/questions/8295597/adding-an-item-to-an-immutable-seq
+https://stackoverflow.com/questions/8489829/converting-mutable-collection-to-immutable
+
+http://bigdatapassion.pl/blog/spark/spark-programming-rdd/
+https://stackoverflow.com/questions/48657771/sum-up-into-a-new-column-from-a-range-of-values-of-a-column-in-spark-using-scala?rq=1
+https://stackoverflow.com/questions/44677617/how-to-identify-the-intersection-between-two-arrays-in-scala-spark
+https://www.waitingforcode.com/apache-spark-sql/apache-spark-2.4.0-features-except-all-intersect-all/read
+http://homepage.cs.latrobe.edu.au/zhe/ZhenHeSparkRDDAPIExamples.html
+https://stackoverflow.com/questions/8295597/adding-an-item-to-an-immutable-seq
+https://stackoverflow.com/questions/8489829/converting-mutable-collection-to-immutable
+https://stackoverflow.com/questions/17158535/split-an-int-array-of-non-contiguous-values-into-several-contiguous-int-arrays/17158624
+https://www.geeksforgeeks.org/check-array-contains-contiguous-integers-duplicates-allowed/
 
 
 
