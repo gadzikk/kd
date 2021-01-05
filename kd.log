@@ -641,6 +641,7 @@ https://blog.knoldus.com/scala-map-vs-flatmap/
 https://stackoverflow.com/questions/26140757/what-to-choose-between-require-and-assert-in-scala
 https://www.geeksforgeeks.org/scala-preconditionsassert-assume-require-ensuring/
 https://maxondev.com/scala-preconditions-assert-assume-require-ensuring/
+https://alvinalexander.com/scala/differences-java-thread-vs-scala-future/
 
 implicit | functor vs applicative vs monad | hierarchia klas | case classes vs classes | sealed classes | currying | partial functions
 
