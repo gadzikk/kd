@@ -1,3 +1,33 @@
+SPIS:
+:::JAVA:::
+:::CONCURRENCY:::
+:::MICROSERVICES:::
+:::TESTOWANIE:::
+:::WEB_FRAMEWORKS:::
+:::WEBSERVICES:::
+:::MESSAGING:::
+:::FUNTIONAL_PROGRAMMING:::
+:::SCALA:::
+:::MODERN_TOOLS:::
+:::NO_SQL:::
+:::GIT:::
+:::ALGORYTMY:::
+:::ANGIELSKI:::
+:::LINUX GREP SYSTEMY:::
+:::ERROR EXCEPTIONS VALIDACJA:::
+:::ENCRYPTION ENCODING HASLA HASH SALT:::
+:::DEVOPS:::
+:::KONFIGURACJA:::
+:::CONTINOUS DEPLOYMENT:::
+:::WIEDZA Z ARTYKULOW:::
+:::PRAKTYCZNE PROJEKTY:::
+:::SQL DATABASES:::
+:::RxJava:::
+:::JAVASCRIPT:::
+:::STUDIA:::
+:::NIEZWIAZANE:::
+
+
 0_:::JAVA:::
 java,
 https://www.journaldev.com/3884/java-is-pass-by-value-and-not-pass-by-reference
@@ -67,6 +97,10 @@ https://www.geeksforgeeks.org/strictfp-keyword-java/
 https://www.baeldung.com/java-fail-safe-vs-fail-fast-iterator
 https://akademiahakerow.pl/aktualnosci/pojedynczy-wpis/RoznicapomiedzyoperatoramiFail-safeaFail-fast
 https://stackoverflow.com/questions/8759868/java-logical-operator-short-circuiting
+https://stackoverflow.com/questions/322715/when-to-use-linkedlist-over-arraylist-in-java
+https://www.javatpoint.com/difference-between-arraylist-and-linkedlist
+https://stackoverflow.com/questions/10656471/performance-differences-between-arraylist-and-linkedlist
+https://stackoverflow.com/questions/18734705/which-one-runs-faster-arraylist-or-linkedlist?noredirect=1&lq=1
 
 https://www.geeksforgeeks.org/java
 https://www.journaldev.com/2366/core-java-interview-questions-and-answers
@@ -830,7 +864,7 @@ Tomcat,
 Praktyka: BBH, CL
 
 
-0_:::CONTINOUS DEPLOYMENT::
+0_:::CONTINOUS DEPLOYMENT:::
 Jenkins,
 sonarCube,
 
@@ -859,6 +893,20 @@ lazy vs eager, rodzaje joinow, procedury projektu na studia, caching,
 https://en.wikipedia.org/wiki/ACID
 https://www.oracletutorial.com/oracle-basics/oracle-not-exists/
 http://www.dba-oracle.com/t_tuning_where_not_exists_sql.htm
+https://www.techonthenet.com/postgresql/vacuum.php
+https://www.w3schools.com/sql/sql_injection.asp
+https://stackoverflow.com/questions/1388059/sql-server-index-columns-used-in-like
+https://use-the-index-luke.com/sql/testing-scalability
+https://stackoverflow.com/questions/6142235/sql-like-vs-performance
+https://stackoverflow.com/questions/2955459/what-is-an-index-in-sql
+https://stackoverflow.com/questions/1108/how-does-database-indexing-work
+https://www.sqlteam.com/articles/sql-server-indexes-the-basics
+https://docs.microsoft.com/en-us/sql/relational-databases/indexes/clustered-and-nonclustered-indexes-described?redirectedfrom=MSDN&view=sql-server-ver15
+https://www.red-gate.com/simple-talk/sql/learn-sql-server/sql-server-index-basics/
+https://www.geeksforgeeks.org/sql-indexes/
+https://www.sqlshack.com/top-10-questions-answers-sql-server-indexes/
+http://sqlszkolenia.pl/aktualnosci/18-jak-dziala-join-w-sql-server
+https://www.geeksforgeeks.org/sql-join-set-1-inner-left-right-and-full-joins/
 
 
 https://www.quora.com/What-is-a-good-book-on-implementing-a-Relational-Database
@@ -872,6 +920,12 @@ http://nbcampus.com/home/postgresql/postgresql-dba-interview-questions-2020/
 https://www.onlineinterviewquestions.com/postgresql-interview-questions/
 
 book: hibernate in action, oracle performance survival guide, High-Performance Java Persistence | java persistence with hibernate | postgresql 10 high performance | OCA Oracle Database 12c | podrecznik jezyka sql - przejrzec | podstawy jezyka sql - przejrzec
+
+0_:::RxJava:::
+https://github.com/ReactiveX/RxJava
+https://javastart.pl/b/java/rxjava-wprowadzenie/
+https://bartlomiejchmielewski.pl/rxjava/
+https://www.baeldung.com/rx-java
 
 0_:::JAVASCRIPT:::
 a)plain js
