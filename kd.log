@@ -574,6 +574,15 @@ HTTP (jak dziala, statusy, odpowiedzi, filtry, servlety),
 https://www.restapitutorial.com/httpstatuscodes.html
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
 https://pl.wikipedia.org/wiki/Hypertext_Transfer_Protocol
+Internetowe,
+https://www.journaldev.com/1907/java-session-management-servlet-httpsession-url-rewriting
+https://hazelcast.com/glossary/web-session/
+http://www.rodsonluo.com/client-session-vs-server-session
+https://stackoverflow.com/questions/3467114/how-are-cookies-passed-in-the-http-protocol
+https://humanwhocodes.com/blog/2009/05/05/http-cookies-explained/
+https://en.wikipedia.org/wiki/Cross-site_request_forgery
+https://en.wikipedia.org/wiki/Cross-site_scripting
+https://blog.sean-wright.com/session-management-client-side-vs-server-side/
 
 Books: J2EE essentials | Java Web Services
 
@@ -844,6 +853,7 @@ https://www.tutorialspoint.com/docker/docker_containers.htm
 Kubernetes,
 Azure,
 AWS,
+https://www.javatpoint.com/aws-global-infrastructure
 
 Rozne,
 https://www.guru99.com/kubernetes-vs-docker.html
