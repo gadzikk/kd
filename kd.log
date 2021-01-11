@@ -8,6 +8,7 @@ SPIS:
 :::MESSAGING:::
 :::FUNTIONAL_PROGRAMMING:::
 :::SCALA:::
+:::HASKELL:::
 :::MODERN_TOOLS:::
 :::NO_SQL:::
 :::GIT:::
@@ -429,6 +430,13 @@ https://techrocking.com/spring-cloud-zuul-proxy-as-api-gateway/
 https://microservices.io/patterns/apigateway.html
 https://www.nginx.com/learn/api-gateway/
 https://codecouple.pl/2018/03/16/31-spring-boot-zuul-api-gateway/
+Service Registration,
+https://dzone.com/articles/getting-started-with-microservices-2
+https://vaadin.com/learn/tutorials/microservices/service-registration-and-discovery
+https://microservices.io/patterns/service-registry.html
+https://microservices.io/patterns/self-registration.html
+https://microservices.io/patterns/3rd-party-registration.html
+https://www.nginx.com/blog/service-discovery-in-a-microservices-architecture/
 CQRS,
 https://microservices.io/patterns/data/cqrs.html
 https://stackoverflow.com/questions/47048839/cqrs-and-event-sourcing-difference
@@ -538,6 +546,9 @@ https://stackoverflow.com/questions/8046662/hibernate-opensession-vs-getcurrents
 https://java2blog.com/difference-opensession-getcurrentsession-hibernate/
 n+1 problem,
 https://stackoverflow.com/questions/97197/what-is-the-n1-selects-problem-in-orm-object-relational-mapping
+https://stackoverflow.com/questions/6838574/difference-between-left-join-and-left-join-fetch-in-hibernate
+https://stackoverflow.com/questions/49118193/hibernate-left-join-fetch-with-multiple-columns-for-the-join
+https://stackoverflow.com/questions/17431312/what-is-the-difference-between-join-and-join-fetch-when-using-jpa-and-hibernate
 inheritance w hibernate,
 https://thorben-janssen.com/complete-guide-inheritance-strategies-jpa-hibernate/
 https://www.baeldung.com/hibernate-inheritance
@@ -700,6 +711,26 @@ Books: programming in scala | scala cookbook | funtional programming in scala |b
 Scalaz: fpmortals | eed3 | catsdoc
 Cats: https://blog.knoldus.com/a-quick-start-to-cats-library/
 
+0_:::HASKELL:::
+https://mmhaskell.com/liftoff
+https://mmhaskell.com/real-world
+https://wiki.haskell.org/Tutorials
+https://www.cis.upenn.edu/~cis194/spring13/lectures/04-higher-order.html
+http://learnyouahaskell.com/introduction
+https://www.tutorialspoint.com/haskell/haskell_functor.htm
+https://www.schoolofhaskell.com/school/starting-with-haskell/basics-of-haskell
+https://bartoszmilewski.com/2016/11/21/monads-programmers-definition/
+https://acm.wustl.edu/functional/haskell.php
+https://cnds.jacobs-university.de/courses/ics-2019/hs-intro.pdf
+
+https://www.reddit.com/r/haskell/comments/aif4rn/ok_ill_bite_what_does_haskell_do_better_than_scala/
+https://stackoverflow.com/questions/9952602/does-haskell-require-a-garbage-collector
+https://stackoverflow.com/questions/36772017/reducing-garbage-collection-pause-time-in-a-haskell-program
+https://stackoverflow.com/questions/9547741/garbage-collection-in-haskell-parallel-computations?rq=1
+https://www.fpcomplete.com/blog/2016/11/comparison-scala-and-haskell/
+https://www.reddit.com/r/haskell/comments/3bx93a/haskellghc_garbage_collection/
+https://docs.haskellstack.org/en/stable/README/
+https://tech.channable.com/posts/2020-04-07-lessons-in-managing-haskell-memory.html
 
 
 0_:::MODERN_TOOLS:::
@@ -854,6 +885,13 @@ Kubernetes,
 Azure,
 AWS,
 https://www.javatpoint.com/aws-global-infrastructure
+https://medium.com/javarevisited/top-10-courses-to-learn-amazon-web-services-aws-cloud-in-2020-best-and-free-317f10d7c21d
+https://towardsdatascience.com/top-12-ways-to-learn-aws-for-free-1113af329d06
+https://aws.amazon.com/training/
+https://aws.amazon.com/getting-started/fundamentals-core-concepts/?e=gs2020&p=fundoverview
+https://aws.amazon.com/getting-started/
+https://www.guru99.com/aws-tutorial.html
+https://www.quora.com/What-is-the-best-resource-for-learning-AWS
 
 Rozne,
 https://www.guru99.com/kubernetes-vs-docker.html
@@ -917,6 +955,13 @@ https://www.geeksforgeeks.org/sql-indexes/
 https://www.sqlshack.com/top-10-questions-answers-sql-server-indexes/
 http://sqlszkolenia.pl/aktualnosci/18-jak-dziala-join-w-sql-server
 https://www.geeksforgeeks.org/sql-join-set-1-inner-left-right-and-full-joins/
+https://www.softwaretestinghelp.com/inner-join-vs-outer-join/
+https://www.toolbox.com/tech/data-management/question/join-performance-inner-join-or-left-outer-join-030110/
+https://dba.stackexchange.com/questions/229165/why-is-this-left-join-faster-than-an-inner-join
+https://www.sqlshack.com/design-sql-queries-better-performance-select-exists-vs-vs-joins/
+https://forums.mysql.com/read.php?115,647656,647656
+https://stackoverflow.com/questions/2726657/inner-join-vs-left-join-performance-in-sql-server
+
 
 
 https://www.quora.com/What-is-a-good-book-on-implementing-a-Relational-Database
@@ -957,6 +1002,7 @@ https://m.youtube.com/watch?v=1qXypjZu0sU
 https://typeofweb.com/2017/11/14/this-js-kontekst-wywolania-funkcji/
 https://typeofweb.com/2017/10/23/kilka-faktow-na-temat-promise/
 http://www.algosmart.pl/zakresy-powtorka-reactjs-7/
+https://www.w3.org/TR/REC-DOM-Level-1/introduction.html
 
 info:  https://4programmers.net/Forum/JavaScript/284930-jak_uczyc_sie_javascript_przeczytaj_zanim_zadasz_pytanie_na_temat_materialow_do_nauki?page=1
 b)angularJS
