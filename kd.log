@@ -75,6 +75,7 @@ https://www.pixelstech.net/article/1474689232-Traditional-recursion-vs-Tail-recu
 https://www.geeksforgeeks.org/tail-recursion/
 https://stackoverflow.com/questions/21426688/the-difference-between-head-tail-recursion
 https://stackoverflow.com/questions/33923/what-is-tail-recursion
+http://learnyouahaskell.com/recursion
 Plik buffery,
 http://tutorials.jenkov.com/java-io/index.html
 https://docs.oracle.com/javase/tutorial/essential/exceptions/tryResourceClose.html
@@ -683,6 +684,7 @@ https://medium.com/virtuslab/typeclasses-scala-be35c0ef0ee9
 https://alvinalexander.com/scala/fp-book/type-classes-101-introduction/
 https://scalac.io/typeclasses-in-scala/
 https://medium.com/@kolemannix/an-introduction-to-typeclasses-in-scala-26d4dc5fdf58
+https://www.baeldung.com/scala/type-classes
 Rozne,
 https://stackoverflow.com/questions/60128207/whats-the-difference-between-lazylist-and-stream-in-scala
 https://stackoverflow.com/questions/2312881/what-is-the-difference-between-scalas-case-class-and-class?rq=1
@@ -722,6 +724,7 @@ https://www.schoolofhaskell.com/school/starting-with-haskell/basics-of-haskell
 https://bartoszmilewski.com/2016/11/21/monads-programmers-definition/
 https://acm.wustl.edu/functional/haskell.php
 https://cnds.jacobs-university.de/courses/ics-2019/hs-intro.pdf
+http://learnyouahaskell.com/higher-order-functions
 
 https://www.reddit.com/r/haskell/comments/aif4rn/ok_ill_bite_what_does_haskell_do_better_than_scala/
 https://stackoverflow.com/questions/9952602/does-haskell-require-a-garbage-collector
@@ -732,6 +735,19 @@ https://www.reddit.com/r/haskell/comments/3bx93a/haskellghc_garbage_collection/
 https://docs.haskellstack.org/en/stable/README/
 https://tech.channable.com/posts/2020-04-07-lessons-in-managing-haskell-memory.html
 
+https://joelburget.com/data-newtype-instance-class/
+https://stackoverflow.com/questions/12529439/what-is-the-differences-between-class-and-instance-declarations
+https://stackoverflow.com/questions/44886668/what-does-instance-mean-in-haskell
+https://wiki.haskell.org/Newtype
+https://wiki.haskell.org/OOP_vs_type_classes
+https://en.wikibooks.org/wiki/Haskell/Classes_and_types
+https://wiki.haskell.org/Smart_constructors
+https://www.parsonsmatt.org/2017/02/17/ooph_data_inheritance.html
+https://stackoverflow.com/questions/51509949/what-do-haskell-data-constructors-construct
+https://stackoverflow.com/questions/10313349/haskell-way-to-go-about-enums
+https://stackoverflow.com/questions/6000511/better-way-to-define-an-enum-in-haskell
+
+https://github.com/krispo/awesome-haskell
 
 0_:::MODERN_TOOLS:::
 :Kafka,
