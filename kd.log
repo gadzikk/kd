@@ -245,6 +245,9 @@ https://medium.com/@recepinancc/til-8-concurrency-and-parallelism-in-a-nutshell-
 https://www.multisoftvirtualacademy.com/blog/common-advantages-and-disadvantages-of-multithreading-in-java/
 Watki ogolnie,
 https://stackoverflow.com/questions/4315292/concurrency-processes-vs-threads
+https://www.geeksforgeeks.org/difference-between-process-and-thread/
+https://techdifferences.com/difference-between-process-and-thread-in-java.html
+https://www.guru99.com/difference-between-process-and-thread.html
 https://www.codejava.net/java-core/concurrency/understanding-thread-priorities-and-daemon-thread-in-java
 https://www.codejava.net/java-core/concurrency/understanding-thread-states-thread-life-cycle-in-java
 https://www.baeldung.com/java-thread-stop
@@ -595,6 +598,9 @@ https://humanwhocodes.com/blog/2009/05/05/http-cookies-explained/
 https://en.wikipedia.org/wiki/Cross-site_request_forgery
 https://en.wikipedia.org/wiki/Cross-site_scripting
 https://blog.sean-wright.com/session-management-client-side-vs-server-side/
+https://mansfeld.pl/bezpieczenstwo/cors-co-to-jest-jak-obejsc-ajax/
+https://sekurak.pl/czym-jest-cors-cross-origin-resource-sharing-i-jak-wplywa-na-bezpieczenstwo/
+https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
 
 Books: J2EE essentials | Java Web Services
 
@@ -605,6 +611,11 @@ https://www.knowledgenile.com/blogs/apache-kafka-vs-jms
 http://cloudurable.com/blog/kafka-vs-jms/index.html
 https://stackoverflow.com/questions/42664894/jms-vs-kafka-in-specific-conditions
 https://www.oracle.com/technical-resources/articles/java/intro-java-message-service.html
+Integration patterns,
+https://www.javacodegeeks.com/2012/11/introduction-to-enterprise-integration-patterns.html
+https://dzone.com/articles/introduction-to-integration-patterns
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/Introduction.html
+
 
 0_:::FUNTIONAL_PROGRAMMING:::
 Fp ogolnie,
@@ -836,6 +847,10 @@ mongoDb,
 https://www.guru99.com/what-is-mongodb.html
 https://docs.mongodb.com/manual/applications/data-models-relationships/
 https://stackoverflow.com/questions/5373198/mongodb-relationships-embed-or-reference
+https://docs.mongodb.com/manual/reference/method/db.collection.aggregate/
+https://docs.mongodb.com/manual/aggregation/
+https://www.compose.com/articles/aggregations-in-mongodb-by-example/
+
 
 0_:::SIECI:::
 Protokoly: TCP/IP HTTP, Telnet, FTP, TFTP, SNMP, DNS, SMTP
@@ -955,6 +970,8 @@ IOB, GUPS, ALI, boss, bpa-configi
  bazy grafowe, problem transakcji(https://docs.oracle.com/javase/tutorial/jdbc/basics/transactions.html ),
 lazy vs eager, rodzaje joinow, procedury projektu na studia, caching,
 https://en.wikipedia.org/wiki/ACID
+https://www.geeksforgeeks.org/acid-properties-in-dbms/
+https://www.bmc.com/blogs/acid-atomic-consistent-isolated-durable/
 https://www.oracletutorial.com/oracle-basics/oracle-not-exists/
 http://www.dba-oracle.com/t_tuning_where_not_exists_sql.htm
 https://www.techonthenet.com/postgresql/vacuum.php
@@ -1028,6 +1045,10 @@ https://www.udemy.com/learn-angularjs/
 https://youtube.com/channel/UCJ1GreMvJv6U5JtPGCinwJw/playlists?view=50&sort=dd&shelf_id=12
 
 b2) angular
+https://github.com/sudheerj/angular-interview-questions
+https://www.interviewbit.com/angular-interview-questions/
+https://www.edureka.co/blog/interview-questions/top-angularjs-interview-questions-2016/
+
 dokumentacja
 projekt GUPS
 projekt IOB
