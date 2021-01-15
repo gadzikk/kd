@@ -628,6 +628,7 @@ https://en.wikipedia.org/wiki/Side_effect_(computer_science)
 https://www.geeksforgeeks.org/functional-programming-paradigm/
 https://wiki.haskell.org/Functional_programming
 https://serokell.io/blog/introduction-to-functional-programming
+https://medium.com/virtuslab/oop-vs-fp-the-pursuit-of-extensibility-part-1-31029591c3b4
 Pros and cons of functional programming,
 https://spin.atomicobject.com/2019/08/29/functional-prog-pros-cons/
 https://www.researchgate.net/post/What-are-the-advantages-and-disadvantages-of-functional-programming
@@ -648,6 +649,8 @@ https://blog.knoldus.com/understanding-monads-an-introduction/
 https://stackoverflow.com/questions/14576543/why-can-applicative-functors-have-side-effects-but-functors-cant
 https://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html
 https://medium.com/@lettier/your-easy-guide-to-monads-applicatives-functors-862048d61610
+https://stackoverflow.com/questions/44965/what-is-a-monad
+https://stackoverflow.com/questions/35698485/how-is-list-a-monad
 Lazy evauluation,
 https://www.tutorialspoint.com/functional_programming/functional_programming_lazy_evaluation.htm
 https://stackoverflow.com/questions/265392/why-is-lazy-evaluation-useful
@@ -661,6 +664,7 @@ https://docs.scala-lang.org/tour/higher-order-functions.html
 Closures,
 https://stackoverflow.com/questions/36636/what-is-a-closure
 https://stackoverflow.com/questions/220658/what-is-the-difference-between-a-closure-and-a-lambda/36878651#36878651
+https://stackoverflow.com/questions/220658/what-is-the-difference-between-a-closure-and-a-lambda
 https://stackoverflow.com/questions/40089429/the-place-of-closures-in-functional-programming
 https://softwareengineering.stackexchange.com/questions/40454/what-is-a-closure
 https://medium.com/beginners-guide-to-mobile-web-development/closures-in-functional-programming-and-javascript-3ed730e08fc2
@@ -672,6 +676,11 @@ https://www.freecodecamp.org/news/functional-programming-patterns-cookbook-3a0df
 https://www.slideshare.net/ScottWlaschin/fp-patterns-buildstufflt
 https://www.quora.com/What-are-some-functional-programming-design-patterns
 https://csmith111.gitbooks.io/functional-reactive-programming-with-elm/content/FPpatterns.html
+Monad vs Applicative
+https://stackoverflow.com/questions/17409260/what-advantage-does-monad-give-us-over-an-applicative
+https://stackoverflow.com/questions/45252709/what-is-the-difference-between-a-functor-and-a-monad
+https://stackoverflow.com/questions/23342184/difference-between-monad-and-applicative-in-haskell
+https://hackernoon.com/functor-applicative-and-monads-fp1e32eh
 
 0_:::SCALA:::
 Scala ogolnie,
@@ -694,13 +703,15 @@ https://blog.knoldus.com/getting-started-with-scala-cats/
 https://medium.com/virtuslab/typeclasses-scala-be35c0ef0ee9
 https://alvinalexander.com/scala/fp-book/type-classes-101-introduction/
 https://scalac.io/typeclasses-in-scala/
+https://gist.github.com/anonymous/b3bac2b3a2614c35b14365e2a0823a55
 https://medium.com/@kolemannix/an-introduction-to-typeclasses-in-scala-26d4dc5fdf58
 https://www.baeldung.com/scala/type-classes
 Rozne,
+https://github.com/Baeldung/scala-tutorials/tree/master/scala-core-fp
 https://stackoverflow.com/questions/60128207/whats-the-difference-between-lazylist-and-stream-in-scala
-https://stackoverflow.com/questions/2312881/what-is-the-difference-between-scalas-case-class-and-class?rq=1
-https://stackoverflow.com/questions/8000903/what-are-all-the-uses-of-an-underscore-in-scala?rq=1
-https://stackoverflow.com/questions/1791408/what-is-the-difference-between-a-var-and-val-definition-in-scala?rq=1
+https://blog.knoldus.com/getting-lazy-with-scala/
+https://stackoverflow.com/questions/8000903/what-are-all-the-uses-of-an-underscore-in-scala
+https://stackoverflow.com/questions/1791408/what-is-the-difference-between-a-var-and-val-definition-in-scala
 https://stackoverflow.com/questions/214714/mutable-vs-immutable-objects
 https://docs.scala-lang.org/overviews/collections/overview.html
 https://www.baeldung.com/scala/mutability
@@ -710,7 +721,22 @@ https://www.geeksforgeeks.org/scala-preconditionsassert-assume-require-ensuring/
 https://maxondev.com/scala-preconditions-assert-assume-require-ensuring/
 https://alvinalexander.com/scala/differences-java-thread-vs-scala-future/
 
-implicit | functor vs applicative vs monad | hierarchia klas | case classes vs classes | sealed classes | currying | partial functions
+Implicit,
+https://alvinalexander.com/scala/scala-2.10-implicit-class-example/
+https://www.baeldung.com/scala/implicit-classes
+https://docs.scala-lang.org/overviews/core/implicit-classes.html
+https://docs.scala-lang.org/tour/implicit-parameters.html
+Hierarchia klas,
+https://docs.scala-lang.org/tour/unified-types.html
+Case classes vs classes,
+https://stackoverflow.com/questions/2312881/what-is-the-difference-between-scalas-case-class-and-class
+Sealed,
+https://www.baeldung.com/scala/sealed-keyword
+https://www.geeksforgeeks.org/scala-sealed-trait/
+Currying partial functions,
+https://dzone.com/articles/difference-between-currying-amp-partially-applied
+https://alvinalexander.com/scala/fp-book/partially-applied-functions-currying-in-scala/
+https://stackoverflow.com/questions/46347879/best-use-cases-for-currying-functions-and-partially-applied-functions-in-scala
 
 https://docs.scala-lang.org/
 https://www.geeksforgeeks.org/scala-programming-language/
@@ -787,6 +813,8 @@ https://www.oreilly.com/library/view/scala-reactive-programming/9781787288645/af
 
 https://blog.knoldus.com/introduction-to-akka/
 https://blog.knoldus.com/understanding-akka-actor-lifecycle/
+https://www.baeldung.com/akka-actors-java
+https://www.baeldung.com/scala/typed-akka
 https://blog.knoldus.com/what-is-ask-pattern-in-akka/
 https://blog.knoldus.com/circuit-breaker-in-akka/
 https://blog.knoldus.com/achieving-concurrency-with-akka-actors/
@@ -803,6 +831,7 @@ https://dzone.com/articles/3-reasons-why-akka-typed-helps-you-write-better-co
 https://sap1ens.com/blog/2015/10/25/actors-streams-and-futures-in-akka/
 https://eng.localytics.com/akka-streams-akka-without-the-actors/
 https://manuel.bernhardt.io/2018/08/06/akka-anti-patterns-many-actors/
+https://manuel.bernhardt.io/2019/07/11/tour-of-akka-typed-protocols-and-behaviors/
 
 Books: Akka in Action
 
