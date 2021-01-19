@@ -737,6 +737,8 @@ https://alvinalexander.com/scala/scala-2.10-implicit-class-example/
 https://www.baeldung.com/scala/implicit-classes
 https://docs.scala-lang.org/overviews/core/implicit-classes.html
 https://docs.scala-lang.org/tour/implicit-parameters.html
+https://stackoverflow.com/questions/50593346/implicit-functions-in-scala-how-is-this-working
+https://docs.scala-lang.org/tour/implicit-conversions.html
 Hierarchia klas,
 https://docs.scala-lang.org/tour/unified-types.html
 Case classes vs classes,
@@ -762,8 +764,24 @@ Scalaz:
 https://leanpub.com/fpmortals-pl/read
 http://eed3si9n.com/learning-scalaz/index.html
 
-Cats: https://blog.knoldus.com/a-quick-start-to-cats-library/
+Cats: 
+https://blog.knoldus.com/a-quick-start-to-cats-library/
+https://typelevel.org/cats-effect/datatypes/io.html
+https://typelevel.org/cats/
+https://typelevel.org/cats-effect/
+https://typelevel.org/cats/nomenclature.html
+https://typelevel.org/cats/typelevelEcosystem.html
+https://medium.com/@TamasPolgar/hack-how-to-use-scala-futures-with-cats-io-9278c7febc37
+https://degoes.net/articles/only-one-io
 
+Monix:
+https://monix.io/
+
+ZIO:
+https://zio.dev/docs/overview/overview_index
+https://degoes.net/articles/zio-cats-effect
+
+Requests:
 https://github.com/lihaoyi/requests-scala
 https://www.lihaoyi.com/post/HowtoworkwithHTTPJSONAPIsinScala.html
 http://www.lihaoyi.com/upickle/#uJson
