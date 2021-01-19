@@ -1071,10 +1071,12 @@ https://typeofweb.com/2017/11/14/this-js-kontekst-wywolania-funkcji/
 https://typeofweb.com/2017/10/23/kilka-faktow-na-temat-promise/
 http://www.algosmart.pl/zakresy-powtorka-reactjs-7/
 https://www.w3.org/TR/REC-DOM-Level-1/introduction.html
+info:  https://4programmers.net/Forum/JavaScript/284930-jak_uczyc_sie_javascript_przeczytaj_zanim_zadasz_pytanie_na_temat_materialow_do_nauki?page=1
 
 https://www.guru99.com/javascript-interview-questions-answers.html
 https://www.w3schools.com/js/default.asp
 https://dev.to/macmacky/70-javascript-interview-questions-5gfi
+
 https://developer.mozilla.org/pl/docs/Web/JavaScript/EventLoop
 https://geek.justjoin.it/event-loop-a-kolejnosc-wykonywania-kodu-javascript
 https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5
@@ -1085,15 +1087,22 @@ https://www.tutorialsteacher.com/javascript/prototype-in-javascript
 https://medium.com/@parsyval/javascript-prototype-vs-class-a7015d5473b
 https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9
 https://javascript.info/prototype-inheritance
+https://www.tutorialsteacher.com/javascript/immediately-invoked-function-expression-iife
+https://stackoverflow.com/questions/762011/whats-the-difference-between-using-let-and-var
+https://bulldogjob.pl/news/1062-var-let-i-const-hoisting-i-zasieg-w-javascript
+https://www.tutorialsteacher.com/javascript/javascript-hoisting
+https://www.tutorialsteacher.com/javascript/javascript-strict
+https://www.tutorialsteacher.com/javascript/javascript-eval
+https://stackoverflow.com/questions/51716808/when-use-a-interface-or-class-in-typescript
+https://medium.com/front-end-weekly/typescript-class-vs-interface-99c0ae1c2136
+https://medium.com/javascript-in-plain-english/interfaces-and-classes-in-typescript-part-6-3-7fee77b7518b
 
-info:  https://4programmers.net/Forum/JavaScript/284930-jak_uczyc_sie_javascript_przeczytaj_zanim_zadasz_pytanie_na_temat_materialow_do_nauki?page=1
-b)angularJS
-projekt harp
-swoj projekt w repo
-https://www.udemy.com/learn-angularjs/
-https://youtube.com/channel/UCJ1GreMvJv6U5JtPGCinwJw/playlists?view=50&sort=dd&shelf_id=12
+b) angular
+https://www.angular.love/2018/07/04/rxjs-w-angular-co-wypada-wiedziec/
+https://jasonwatmore.com/post/2019/02/07/angular-7-communicating-between-components-with-observable-subject
+https://angular.io/guide/attribute-directives
+https://www.sitepoint.com/practical-guide-angular-directives/
 
-b2) angular
 https://github.com/sudheerj/angular-interview-questions
 https://www.interviewbit.com/angular-interview-questions/
 https://www.edureka.co/blog/interview-questions/top-angularjs-interview-questions-2016/
@@ -1102,6 +1111,12 @@ dokumentacja
 projekt GUPS
 projekt IOB
 angular animations
+
+b2)angularJS
+projekt harp
+swoj projekt w repo
+https://www.udemy.com/learn-angularjs/
+https://youtube.com/channel/UCJ1GreMvJv6U5JtPGCinwJw/playlists?view=50&sort=dd&shelf_id=12
 
 c)rxjs
 https://www.google.com/search?q=rxjs&ie=utf-8&oe=utf-8&client=firefox-b-e
