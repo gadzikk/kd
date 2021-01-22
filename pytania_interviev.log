@@ -257,3 +257,17 @@ viewChild,
 immutable,
 changeDetection angular,
 wzorce kreacyjne
+:::SCALAC:::
+fuctions totality, pure z przykladami,
+tail recursion(co to jest, co robi z nim complier),
+case class vs class (braklo apply, pattern matching),
+mozliwosci tworzenia obiektu (new apply),
+lazy evaluation jak dziala co to jest (braklo co compiler z tym robi bool false, var result),
+refferential transparency,
+typeclass co to, w czym jest lepsza od normalnego interfejsu,
+future,
+future vs monix task,
+for comprehensions jak jest ewaluowana kolejnosc oraz translacja jako map i flatmap,
+zadanie z reversem generycznej listy na reverse i foldzie,
+docker,
+git rebase squash
