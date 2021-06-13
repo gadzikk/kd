@@ -259,6 +259,7 @@ https://stackoverflow.com/questions/8579657/whats-the-difference-between-thread-
 https://docs.oracle.com/javase/1.5.0/docs/guide/misc/threadPrimitiveDeprecation.html
 https://www.baeldung.com/java-daemon-thread
 https://stackoverflow.com/questions/2213340/what-is-a-daemon-thread-in-java
+https://www.baeldung.com/java-threading-models
 Deadlock,
 https://docs.oracle.com/javase/tutorial/essential/concurrency/deadlock.html
 https://medium.com/@recepinancc/til-10-what-is-a-deadlock-c00753c349f6
@@ -466,6 +467,10 @@ https://eventuate.io/whyeventsourcing.html
 https://docs.microsoft.com/pl-pl/azure/architecture/patterns/event-sourcing
 https://softwaremill.com/entry-level-event-sourcing/
 SOA,
+Architektura Hexagonalna,
+https://www.jcommerce.pl/jpro/artykuly/porty-i-adaptery-w-praktyce
+https://blog.allegro.tech/2020/05/hexagonal-architecture-by-example.html
+https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749
 Scalability,
 https://searchdatacenter.techtarget.com/definition/scalability
 https://medium.com/@Pointnity_Network/three-dimensions-of-distributed-system-scalability-design-8e0319163c8d
@@ -539,17 +544,35 @@ https://docs.spring.io/spring-framework/docs/4.2.x/spring-framework-reference/ht
 https://javarevisited.blogspot.com/2012/11/difference-between-setter-injection-vs-constructor-injection-spring-framework.html#axzz6e4gAepjG
 https://stackoverflow.com/questions/17193365/what-in-the-world-are-spring-beans
 https://stackoverflow.com/questions/44475523/how-to-understand-bean-in-spring
+https://www.baeldung.com/java-threading-models
+https://www.baeldung.com/spring-framework-design-patterns
+https://www.e4developer.com/2018/03/30/introduction-to-concurrency-in-spring-boot/
+https://www.baeldung.com/spring-framework-design-patterns
+https://springframework.guru/gang-of-four-design-patterns/proxy-pattern/
+https://dzone.com/articles/spring-and-threads-taskexecutor
+https://docs.spring.io/spring-framework/docs/4.0.x/spring-framework-reference/html/overview.html
+https://stackoverflow.com/questions/53579112/inject-list-of-all-beans-with-a-certain-interface/53579193
 
+:Spring webflux-reactor
+https://stackoverflow.com/questions/45019486/threading-model-of-spring-webflux-and-reactor
+https://singhkaushal.medium.com/spring-webflux-eventloop-vs-thread-per-request-model-a42d07ee8502
 https://dzone.com/articles/spring-webflux-eventloop-vs-thread-per-request-mod
 https://piotrminkowski.com/2020/03/30/a-deep-dive-into-spring-webflux-threading-model/
 https://www.baeldung.com/spring-webflux-concurrency
-https://www.baeldung.com/java-threading-models
+https://bykowski.pl/programowanie-reaktywne-czym-jest-i-kiedy-stosowac/
+https://bykowski.pl/spring-webflux-programowanie-reaktywne-w-spring/
+https://www.reactivemanifesto.org/
+https://www.baeldung.com/spring-webflux
+https://nullpointerexception.pl/spring-webflux-reaktywny-spring/
+https://howtodoinjava.com/spring-webflux/spring-webflux-tutorial/
+https://projectreactor.io/docs/core/release/reference/
+https://dzone.com/articles/spring-webflux-eventloop-vs-thread-per-request-mod
+https://piotrminkowski.com/2020/03/30/a-deep-dive-into-spring-webflux-threading-model/
 https://stackoverflow.com/questions/45019486/threading-model-of-spring-webflux-and-reactor
-https://www.e4developer.com/2018/03/30/introduction-to-concurrency-in-spring-boot/
-https://singhkaushal.medium.com/spring-webflux-eventloop-vs-thread-per-request-model-a42d07ee8502
-https://www.baeldung.com/spring-framework-design-patterns
 
-:Spring boot
+
+
+
 books: pro spring 5
 :Hibernate
 https://stackoverflow.com/questions/5370482/whats-the-advantage-of-load-vs-get-in-hibernate
@@ -559,11 +582,19 @@ https://howtodoinjava.com/hibernate/understanding-hibernate-first-level-cache-wi
 https://howtodoinjava.com/hibernate/how-hibernate-second-level-cache-works/
 https://stackoverflow.com/questions/8046662/hibernate-opensession-vs-getcurrentsession
 https://java2blog.com/difference-opensession-getcurrentsession-hibernate/
+https://www.javatpoint.com/jpa-vs-hibernate
+https://stackoverflow.com/questions/9881611/whats-the-difference-between-jpa-and-hibernate
+https://dzone.com/articles/what-is-the-difference-between-hibernate-and-sprin-1
 n+1 problem,
 https://stackoverflow.com/questions/97197/what-is-the-n1-selects-problem-in-orm-object-relational-mapping
 https://stackoverflow.com/questions/6838574/difference-between-left-join-and-left-join-fetch-in-hibernate
 https://stackoverflow.com/questions/49118193/hibernate-left-join-fetch-with-multiple-columns-for-the-join
 https://stackoverflow.com/questions/17431312/what-is-the-difference-between-join-and-join-fetch-when-using-jpa-and-hibernate
+lazy initalization exception,
+https://thorben-janssen.com/lazyinitializationexception/
+https://vladmihalcea.com/the-best-way-to-handle-the-lazyinitializationexception/
+https://www.baeldung.com/hibernate-initialize-proxy-exception
+https://stackoverflow.com/questions/21574236/how-to-fix-org-hibernate-lazyinitializationexception-could-not-initialize-prox
 inheritance w hibernate,
 https://thorben-janssen.com/complete-guide-inheritance-strategies-jpa-hibernate/
 https://www.baeldung.com/hibernate-inheritance
@@ -638,8 +669,15 @@ https://en.wikipedia.org/wiki/Pure_function
 https://en.wikipedia.org/wiki/Side_effect_(computer_science)
 https://www.geeksforgeeks.org/functional-programming-paradigm/
 https://wiki.haskell.org/Functional_programming
+https://wiki.haskell.org/Partial_functions
 https://serokell.io/blog/introduction-to-functional-programming
 https://medium.com/virtuslab/oop-vs-fp-the-pursuit-of-extensibility-part-1-31029591c3b4
+https://nrinaudo.github.io/scala-best-practices/definitions/referential_transparency.html
+https://en.wikipedia.org/wiki/Referential_transparency
+https://www.sitepoint.com/what-is-referential-transparency/
+https://lispcast.com/what-is-a-total-function/
+https://softwareengineering.stackexchange.com/questions/334874/in-the-context-of-functional-programming-what-are-total-functions-and-partia
+https://en.wikipedia.org/wiki/Total_functional_programming
 Pros and cons of functional programming,
 https://spin.atomicobject.com/2019/08/29/functional-prog-pros-cons/
 https://www.researchgate.net/post/What-are-the-advantages-and-disadvantages-of-functional-programming
@@ -776,6 +814,9 @@ https://degoes.net/articles/only-one-io
 
 Monix:
 https://monix.io/
+https://scalac.io/blog/monix-why-you-should-care-about/
+http://www.beyondthelines.net/programming/futures-vs-tasks/
+https://www.slideshare.net/hermannhueck/future-vs-monix-task
 
 ZIO:
 https://zio.dev/docs/overview/overview_index
@@ -929,6 +970,8 @@ DNS,
 https://ns1.com/resources/dns-protocol
 https://www.cloudflare.com/learning/dns/what-is-dns/
 https://www.javatpoint.com/computer-network-dns
+Rozne,
+https://dlainformatyka.blogspot.com/2018/05/polecenie-netstat.html
 
 Book: useful rozdzialy
 
@@ -938,6 +981,14 @@ https://stackoverflow.com/questions/16666089/whats-the-difference-between-git-me
 https://blog.j-labs.pl/git-rebase-vs-merge
 https://medium.com/datadriveninvestor/git-rebase-vs-merge-cc5199edd77c
 https://www.atlassian.com/git/tutorials/merging-vs-rebasing
+https://stackoverflow.com/questions/9069061/what-is-the-difference-between-git-merge-and-git-merge-no-ff
+https://nvie.com/posts/a-successful-git-branching-model/
+https://www.atlassian.com/git/tutorials/syncing/git-fetch
+https://www.atlassian.com/git/tutorials/undoing-changes/git-reset
+https://panizkomputerem.pl/3-sposoby-na-git-merge/
+https://garrytrinder.github.io/2020/03/squashing-commits-using-interactive-rebase
+https://stackoverflow.com/questions/2427238/what-is-the-difference-between-merge-squash-and-rebase
+https://stackoverflow.com/questions/804115/when-do-you-use-git-rebase-instead-of-git-merge
 
 0_:::ALGORYTMY:::
 Zlozonosc obliczeniowa,
@@ -983,6 +1034,8 @@ https://blog.risingstack.com/web-authentication-methods-explained/
 https://blog.bearer.sh/the-three-most-common-api-authentication-methods/
 https://dzone.com/articles/four-most-used-rest-api-authentication-methods
 https://blog.restcase.com/4-most-used-rest-api-authentication-methods/
+https://www.csoonline.com/article/3216404/what-is-oauth-how-the-open-authorization-framework-works.html
+https://sekurak.pl/oauth-2-0-jak-dziala-jak-testowac-problemy-bezpieczenstwa/
 Rodzaje autoryzacji,
 Metody enkrypcji,
 Metody enkodowania,
@@ -994,6 +1047,7 @@ https://www.rangeforce.com/blog/docker-software-basics
 https://vsupalov.com/6-docker-basics/
 https://thenewstack.io/docker-station-part-one-essential-docker-concepts-tools-terminology/
 https://www.tutorialspoint.com/docker/docker_containers.htm
+https://searchitoperations.techtarget.com/definition/Docker-image
 Kubernetes,
 Azure,
 AWS,
@@ -1016,6 +1070,7 @@ http://www.serverspace.co.uk/blog/containerisation-vs-virtualisation-whats-the-d
 https://www.guru99.com/kubernetes-vs-docker.html
 
 https://www.guru99.com/docker-interview-questions.html
+https://training.play-with-docker.com/
 
 Books: docker folder
 
@@ -1082,6 +1137,7 @@ https://dba.stackexchange.com/questions/229165/why-is-this-left-join-faster-than
 https://www.sqlshack.com/design-sql-queries-better-performance-select-exists-vs-vs-joins/
 https://forums.mysql.com/read.php?115,647656,647656
 https://stackoverflow.com/questions/2726657/inner-join-vs-left-join-performance-in-sql-server
+https://pl.wikipedia.org/wiki/Posta%C4%87_normalna_(bazy_danych)
 
 
 
@@ -1151,12 +1207,17 @@ https://www.tutorialsteacher.com/javascript/javascript-eval
 https://stackoverflow.com/questions/51716808/when-use-a-interface-or-class-in-typescript
 https://medium.com/front-end-weekly/typescript-class-vs-interface-99c0ae1c2136
 https://medium.com/javascript-in-plain-english/interfaces-and-classes-in-typescript-part-6-3-7fee77b7518b
+https://developer.mozilla.org/pl/docs/orphaned/Web/Guide/HTML/HTML5
+https://dev.to/steelvoltage/if-javascript-is-single-threaded-how-is-it-asynchronous-56gd
 
 b) angular
 https://www.angular.love/2018/07/04/rxjs-w-angular-co-wypada-wiedziec/
 https://jasonwatmore.com/post/2019/02/07/angular-7-communicating-between-components-with-observable-subject
 https://angular.io/guide/attribute-directives
 https://www.sitepoint.com/practical-guide-angular-directives/
+https://blog.angular-university.io/how-does-angular-2-change-detection-really-work/
+https://www.angular.love/2017/01/15/angular-2-change-detector-mechanizmy-detekcji-oraz-strategia-onpush/
+https://medium.com/@bencabanes/angular-change-detection-strategy-an-introduction-819aaa7204e7
 
 https://github.com/sudheerj/angular-interview-questions
 https://www.interviewbit.com/angular-interview-questions/
