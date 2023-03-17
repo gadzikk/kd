@@ -166,6 +166,12 @@ https://stackoverflow.com/questions/47651162/connecting-spark-and-elasticsearch
 https://www.bmc.com/blogs/spark-elasticsearch-hadoop/
 https://stackoverflow.com/questions/38771569/connecting-from-spark-to-elasticsearch-using-hadoop-not-working
 https://discuss.elastic.co/t/elasticsearch-spark-eshadoopnonodesleftexception-in-cluster-mode/21367/7
+:::sparkOgolnie:::
+https://stackoverflow.com/questions/60599007/spark-scala-groupby-multiple-columns-with-values
+https://stackoverflow.com/questions/41771327/spark-dataframe-groupby-multiple-times
+https://stackoverflow.com/questions/59841033/spark-scala-group-by-multiple-columns-with-aggregation-logic
+https://stackoverflow.com/questions/69897818/how-to-groupby-in-spark-using-two-columns-and-in-both-directions
+https://stackoverflow.com/questions/34954771/multiple-aggregate-operations-on-the-same-column-of-a-spark-dataframe?rq=1
 
 :::scalaC:::
 https://stackoverflow.com/questions/34293113/how-to-properly-call-akka-http-client-for-multiple-10k-100k-requests/34297497#34297497

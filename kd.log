@@ -48,6 +48,9 @@ https://www.oodesign.com/design-principles.html
 https://itnext.io/solid-principles-explanation-and-examples-715b975dcad4
 https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
 Design patterns,
+https://www.digitalocean.com/community/tutorials/java-design-patterns-example-tutorial
+https://www.javatpoint.com/design-patterns-in-java
+https://refactoring.guru/design-patterns/java
 https://github.com/gadzikk/algorithms/tree/master/src/main/java/design_patterns
 https://www.dofactory.com/forum/1590/factory-pattern-vs-abstract-factory-pattern
 https://stackoverflow.com/questions/5739611/what-are-the-differences-between-abstract-factory-and-factory-design-patterns
@@ -64,6 +67,16 @@ http://tutorials.jenkov.com/java/nested-classes.html
 https://stackoverflow.com/questions/70324/java-inner-class-and-static-nested-class
 https://www.geeksforgeeks.org/anonymous-inner-class-java/
 https://www.geeksforgeeks.org/local-inner-class-java/
+String,
+https://www.javatpoint.com/why-string-is-immutable-or-final-in-java
+https://www.baeldung.com/java-string-immutable
+https://www.digitalocean.com/community/tutorials/string-immutable-final-java
+Hashmap,
+https://www.baeldung.com/java-hashmap
+https://www.digitalocean.com/community/tutorials/java-hashmap
+https://javarevisited.blogspot.com/2011/02/how-hashmap-works-in-java.html#axzz7uoOVtqqR
+https://levelup.gitconnected.com/how-does-hashmap-work-internally-612dd950822f
+https://medium.com/zero-equals-false/how-hashmap-works-a-missing-piece-of-hood-29dd28c4c01e
 Kolejnosc wykonania(constructor, postConstruct, static block, dependency injection),
 https://www.baeldung.com/java-initialization
 https://stackoverflow.com/questions/38068303/spring-autowiring-order-and-postconstruct
@@ -104,6 +117,9 @@ https://stackoverflow.com/questions/322715/when-to-use-linkedlist-over-arraylist
 https://www.javatpoint.com/difference-between-arraylist-and-linkedlist
 https://stackoverflow.com/questions/10656471/performance-differences-between-arraylist-and-linkedlist
 https://stackoverflow.com/questions/18734705/which-one-runs-faster-arraylist-or-linkedlist?noredirect=1&lq=1
+https://www.geeksforgeeks.org/internal-working-of-treemap-in-java
+https://www.geeksforgeeks.org/hashmap-treemap-java
+https://www.geeksforgeeks.org/internal-working-of-arraylist-in-java
 
 https://www.geeksforgeeks.org/java
 https://www.journaldev.com/2366/core-java-interview-questions-and-answers
@@ -119,6 +135,8 @@ Garbage collector tryby (oraz plusy I minusy),
 https://www.baeldung.com/jvm-garbage-collectors
 https://www.overops.com/blog/garbage-collectors-serial-vs-parallel-vs-cms-vs-the-g1-and-whats-new-in-java-8/
 https://javapapers.com/java/types-of-java-garbage-collectors/
+(szczegolowe opisy poszczegolnych gcolectorow)
+https://docs.oracle.com/en/java/javase/17/gctuning/garbage-first-g1-garbage-collector1.html#GUID-CE6F94B6-71AF-45D5-829E-DEADD9BA929D
 Metaspace,
 https://www.baeldung.com/java-permgen-metaspace
 https://www.geeksforgeeks.org/metaspace-in-java-8-with-examples/
@@ -165,14 +183,12 @@ https://www.baeldung.com/java-static-dynamic-binding
 https://www.techiedelight.com/difference-between-early-late-binding-java/
 https://beginnersbook.com/2013/04/java-static-dynamic-binding/
 https://www.geeksforgeeks.org/static-vs-dynamic-binding-in-java/
-Weak strong refrence
+Weak strong refrence,
 https://stackoverflow.com/questions/9809074/java-difference-between-strong-soft-weak-phantom-reference
 https://stackoverflow.com/questions/299659/whats-the-difference-between-softreference-and-weakreference-in-java
 https://www.baeldung.com/java-weak-reference
 programmr.com/blogs/what-every-java-developer-should-know-strong-and-weak-references
-
-
-
+Rozne,
 https://dzone.com/articles/understanding-jvm-internals
 https://www.geeksforgeeks.org/jvm-works-jvm-architecture/
 https://medium.com/better-programming/understand-threads-and-threading-in-java-8f706fc44d13
@@ -188,6 +204,7 @@ https://www.geeksforgeeks.org/java-class-file/
 https://en.wikipedia.org/wiki/Just-in-time_compilation
 https://stackoverflow.com/questions/16568253/difference-between-jvm-and-hotspot
 https://stackoverflow.com/questions/2423284/java-thread-garbage-collected-or-not
+https://www.geeksforgeeks.org/difference-between-byte-code-and-machine-code/
 
 https://www.journaldev.com/349/java-classloader
 https://www.baeldung.com/java-classloaders
@@ -244,6 +261,9 @@ https://www.programmersought.com/article/38971341326/
 http://www.justobjects.org/cowcatcher/browse/stdjava/slides/java-essential/core/thread/slide.0.4.html
 https://medium.com/@recepinancc/til-8-concurrency-and-parallelism-in-a-nutshell-d19f379241c9
 https://www.multisoftvirtualacademy.com/blog/common-advantages-and-disadvantages-of-multithreading-in-java/
+Concurrency vs Parallelism,
+https://www.geeksforgeeks.org/difference-between-concurrency-and-parallelism/
+https://www.baeldung.com/cs/concurrency-vs-parallelism
 Watki ogolnie,
 https://stackoverflow.com/questions/4315292/concurrency-processes-vs-threads
 https://www.geeksforgeeks.org/difference-between-process-and-thread/
@@ -344,9 +364,13 @@ Jenkov,
 http://tutorials.jenkov.com/java-concurrency/index.html
 http://tutorials.jenkov.com/java-util-concurrent/index.html
 Wyklady kalety,
+Data vs Task parallelism
+https://www.tutorialspoint.com/data-parallelism-vs-task-parallelism
 Rozne,
 https://www.geeksforgeeks.org/inter-thread-communication-java/
 http://tutorials.jenkov.com/java-concurrency/non-blocking-algorithms.html
+https://stackoverflow.com/questions/15267269/green-threads-and-native-threads-in-java
+https://stackoverflow.com/questions/5713142/green-threads-vs-non-green-threads
 
 https://javarevisited.blogspot.com/2014/07/top-50-java-multithreading-interview-questions-answers.html#axzz4jaJmaqbE
 https://www.journaldev.com/1162/java-multithreading-concurrency-interview-questions-answers
@@ -385,6 +409,7 @@ https://dzone.com/articles/an-introduction-to-domain-driven-design-and-its-be
 https://airbrake.io/blog/software-design/domain-driven-design
 https://www.informit.com/articles/article.aspx?p=1944876&seqNum=4
 Resilience patters,
+https://www.springcloud.io/post/2022-03/resilience-and-best-patterns/#gsc.tab=0
 https://dzone.com/articles/circuit-breaker-pattern
 https://medium.com/asos-techblog/improve-availability-and-resilience-of-your-micro-services-using-this-7-cloud-design-patterns-16006eaf32b1
 https://www.jrebel.com/blog/microservices-resilience-patterns
@@ -552,6 +577,8 @@ https://springframework.guru/gang-of-four-design-patterns/proxy-pattern/
 https://dzone.com/articles/spring-and-threads-taskexecutor
 https://docs.spring.io/spring-framework/docs/4.0.x/spring-framework-reference/html/overview.html
 https://stackoverflow.com/questions/53579112/inject-list-of-all-beans-with-a-certain-interface/53579193
+https://www.baeldung.com/spring-framework-design-patterns
+https://medium.com/@s.sreejith/proxy-in-spring-e21ffbb2953a
 
 :Spring webflux-reactor
 https://stackoverflow.com/questions/45019486/threading-model-of-spring-webflux-and-reactor
@@ -569,6 +596,8 @@ https://projectreactor.io/docs/core/release/reference/
 https://dzone.com/articles/spring-webflux-eventloop-vs-thread-per-request-mod
 https://piotrminkowski.com/2020/03/30/a-deep-dive-into-spring-webflux-threading-model/
 https://stackoverflow.com/questions/45019486/threading-model-of-spring-webflux-and-reactor
+https://www.e4developer.com/2018/03/30/introduction-to-concurrency-in-spring-boot/
+https://singhkaushal.medium.com/spring-webflux-eventloop-vs-thread-per-request-model-a42d07ee8502
 
 
 
@@ -631,6 +660,12 @@ HTTP (jak dziala, statusy, odpowiedzi, filtry, servlety),
 https://www.restapitutorial.com/httpstatuscodes.html
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
 https://pl.wikipedia.org/wiki/Hypertext_Transfer_Protocol
+Webhooks,
+https://www.contentful.com/developers/docs/concepts/webhooks/
+https://hookdeck.com/webhooks/guides/when-to-use-webhooks#examples-of-sites-that-use-webhooks
+https://webhooks.fyi/docs/webhook-primer
+https://codeopinion.com/building-a-webhooks-system-with-event-driven-architecture/
+https://ably.com/topic/webhooks
 Internetowe,
 https://www.journaldev.com/1907/java-session-management-servlet-httpsession-url-rewriting
 https://hazelcast.com/glossary/web-session/
@@ -700,6 +735,7 @@ https://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.
 https://medium.com/@lettier/your-easy-guide-to-monads-applicatives-functors-862048d61610
 https://stackoverflow.com/questions/44965/what-is-a-monad
 https://stackoverflow.com/questions/35698485/how-is-list-a-monad
+https://medium.com/@michelestieven/a-monad-is-just-a-monoid-a02bd2524f66
 Lazy evauluation,
 https://www.tutorialspoint.com/functional_programming/functional_programming_lazy_evaluation.htm
 https://stackoverflow.com/questions/265392/why-is-lazy-evaluation-useful
@@ -725,7 +761,23 @@ https://www.freecodecamp.org/news/functional-programming-patterns-cookbook-3a0df
 https://www.slideshare.net/ScottWlaschin/fp-patterns-buildstufflt
 https://www.quora.com/What-are-some-functional-programming-design-patterns
 https://csmith111.gitbooks.io/functional-reactive-programming-with-elm/content/FPpatterns.html
-Monad vs Applicative
+Tail recursion,
+http://www.cs.sjsu.edu/faculty/pearce/modules/lectures/scala/functions/Recursion.htm
+https://alvinalexander.com/scala/fp-book/recursion-jvm-stacks-stack-frames/
+https://alvinalexander.com/scala/fp-book/recursion-visual-look-jvm-stack-frames/
+https://www.baeldung.com/scala/loops-functional-scala
+https://rd.nz/2009/04/tail-calls-tailrec-and-trampolines.html
+https://stackoverflow.com/questions/310974/what-is-tail-call-optimization
+https://medium.com/@mattmichihara/scala-tail-call-optimization-f853b8f295dc
+https://stackoverflow.com/questions/31303708/what-is-the-time-and-space-complexity-of-a-scalas-head-tail-extractor
+https://stackoverflow.com/questions/12496959/summing-values-in-a-list
+https://alvinalexander.com/scala/scala-recursion-examples-recursive-programming/
+https://www.artima.com/pins1ed/functions-and-closures.html#i-170392618-1
+Tail Recursion Discussions,
+https://stackoverflow.com/questions/2651112/is-recursion-ever-faster-than-looping
+https://stackoverflow.com/questions/72209/recursion-or-iteration
+https://softwareengineering.stackexchange.com/questions/149167/are-functional-languages-better-at-recursion
+Monad vs Applicative,
 https://stackoverflow.com/questions/17409260/what-advantage-does-monad-give-us-over-an-applicative
 https://stackoverflow.com/questions/45252709/what-is-the-difference-between-a-functor-and-a-monad
 https://stackoverflow.com/questions/23342184/difference-between-monad-and-applicative-in-haskell
@@ -747,6 +799,9 @@ https://www.infoq.com/articles/java-8-vs-scala/
 https://blog.outsource2india.com/the-advantages-of-using-scala/
 https://softwareengineering.stackexchange.com/questions/130335/why-is-scala-more-scalable-than-other-languages
 https://data-flair.training/blogs/scala-advantages/
+Pattern Matching,
+https://stackoverflow.com/questions/38853449/why-cant-i-apply-pattern-matching-against-non-case-classes
+https://www.baeldung.com/scala/pattern-matching
 TypeClass,
 https://blog.knoldus.com/getting-started-with-scala-cats/
 https://medium.com/virtuslab/typeclasses-scala-be35c0ef0ee9
@@ -755,6 +810,23 @@ https://scalac.io/typeclasses-in-scala/
 https://gist.github.com/anonymous/b3bac2b3a2614c35b14365e2a0823a55
 https://medium.com/@kolemannix/an-introduction-to-typeclasses-in-scala-26d4dc5fdf58
 https://www.baeldung.com/scala/type-classes
+Pararellism,
+https://www.baeldung.com/scala/parallel-collections
+https://engineering.zalando.com/posts/2017/04/parallel-computing-with-scala.html
+https://medium.com/@PerrottaFrancisco/concurrent-programming-data-parallel-parallel-collections-with-scala-903f13988c1e
+Scala lazy val performance,
+https://stackoverflow.com/questions/4095170/scala-lazy-values-performance-penalty-threadsafe
+https://stackoverflow.com/questions/3041253/whats-the-hidden-cost-of-scalas-lazy-val
+http://code-o-matic.blogspot.com/2009/05/double-checked-locking-idiom-sweet-in.html
+Higher kinded type,
+https://www.baeldung.com/scala/higher-kinded-types
+https://medium.com/bigpanda-engineering/understanding-f-in-scala-4bec5996761f
+https://stackoverflow.com/questions/49762658/difference-between-f-and-ft-in-scala-when-used-in-type-constructors
+https://www.47deg.com/blog/what-is-F-with-hole-in-scala/#what-is-a-type-constructor-_-or-a-higher-kinded-type-2
+https://typelevel.org/blog/2016/08/21/hkts-moving-forward.html
+Scala3,
+https://medium.com/@sinisalouc/whats-new-in-scala-3-28d9c11eec30
+https://docs.scala-lang.org/scala3/reference/index.html#
 Rozne,
 https://github.com/Baeldung/scala-tutorials/tree/master/scala-core-fp
 https://stackoverflow.com/questions/60128207/whats-the-difference-between-lazylist-and-stream-in-scala
@@ -769,6 +841,16 @@ https://stackoverflow.com/questions/26140757/what-to-choose-between-require-and-
 https://www.geeksforgeeks.org/scala-preconditionsassert-assume-require-ensuring/
 https://maxondev.com/scala-preconditions-assert-assume-require-ensuring/
 https://alvinalexander.com/scala/differences-java-thread-vs-scala-future/
+https://stackoverflow.com/questions/12519894/explain-some-scala-code-beginner
+https://stackoverflow.com/tags/scala/info
+https://blog.rockthejvm.com/scala-variance-positions/
+https://docs.scala-lang.org/scala3/book/types-adts-gadts.html
+https://stackoverflow.com/questions/64780262/covariance-and-contravariance-in-scala
+https://blog.rockthejvm.com/semigroups-and-monoids-in-scala/
+https://alvinalexander.com/scala/sbt-how-to-compile-run-package-scala-project/
+https://alvinalexander.com/scala/how-use-fold-scala-option-some-none-syntax/
+https://alvinalexander.com/scala/how-to-split-sequences-subsets-groupby-partition-scala-cookbook/
+https://stackoverflow.com/questions/52543048/how-to-group-by-keys-in-a-list
 
 Implicit,
 https://alvinalexander.com/scala/scala-2.10-implicit-class-example/
@@ -803,6 +885,7 @@ https://leanpub.com/fpmortals-pl/read
 http://eed3si9n.com/learning-scalaz/index.html
 
 Cats: 
+https://www.baeldung.com/scala/cats-effects-intro
 https://blog.knoldus.com/a-quick-start-to-cats-library/
 https://typelevel.org/cats-effect/datatypes/io.html
 https://typelevel.org/cats/
@@ -811,6 +894,15 @@ https://typelevel.org/cats/nomenclature.html
 https://typelevel.org/cats/typelevelEcosystem.html
 https://medium.com/@TamasPolgar/hack-how-to-use-scala-futures-with-cats-io-9278c7febc37
 https://degoes.net/articles/only-one-io
+https://typelevel.org/cats-effect/docs/getting-started
+https://medium.com/virtuslab/meow-start-using-cats-in-your-project-right-now-91737e3b8af4
+https://blog.softwaremill.com/monad-transformers-and-cats-3-tips-for-beginners-196fabe58daa
+https://typelevel.org/cats/typeclasses/traverse.html
+https://bszwej.medium.com/composable-resource-management-in-scala-ce902bda48b2
+https://typelevel.org/blog/2018/04/13/rethinking-monaderror.html
+https://bow-swift.io/api-docs/Classes/EitherT.html
+https://freesoft.dev/program/169798302
+https://typelevel.org/cats/datatypes/kleisli.html
 
 Monix:
 https://monix.io/
@@ -876,6 +968,23 @@ https://beagle1984.github.io/silverback/docs/kafka/message-key
 https://stackoverflow.com/questions/29511521/is-key-required-as-part-of-sending-messages-to-kafka
 https://linuxhint.com/apache_kafka_partitions/
 https://www.confluent.io/stream-processing-cookbook/ksql-recipes/setting-kafka-message-key/
+https://www.conduktor.io/kafka/what-is-apache-kafka/
+https://stackoverflow.com/questions/29511521/is-key-required-as-part-of-sending-messages-to-kafka
+https://forum.confluent.io/t/what-should-i-use-as-the-key-for-my-kafka-message/312/2
+https://codingharbour.com/apache-kafka/the-introduction-to-kafka-topics-and-partitions/
+https://developer.confluent.io/learn-kafka/architecture/get-started/
+https://developer.confluent.io/learn-kafka/apache-kafka/events/
+https://www.confluent.io/blog/apache-kafka-data-access-semantics-consumers-and-membership/
+https://medium.com/event-driven-utopia/understanding-kafka-topic-partitions-ae40f80552e8
+https://towardsdatascience.com/kafka-no-longer-requires-zookeeper-ebfbf3862104
+https://www.confluent.io/blog/42-ways-zookeeper-removal-improves-kafka/
+https://www.morling.dev/blog/exploring-zookeeper-less-kafka/
+https://www.cloudkarafka.com/blog/cloudkarafka-what-is-zookeeper.html
+https://www.confluent.io/blog/removing-zookeeper-dependency-in-kafka/
+K-connect,
+https://wiadrodanych.pl/big-data/apache-kafka/kafka-connect-w-pigulce/
+https://www.baeldung.com/kafka-connectors-guide
+https://www.tutorialworks.com/kafka-vs-streams-vs-connect/
 
 partitioning | leaders | rebalance | controller | replica | retention | compation | producer-modes | ack statuses | streams | kafka vs jms | commit log | message key | join group request | sync async commitoff | request-consumer-producer
 
@@ -909,6 +1018,13 @@ https://sap1ens.com/blog/2015/10/25/actors-streams-and-futures-in-akka/
 https://eng.localytics.com/akka-streams-akka-without-the-actors/
 https://manuel.bernhardt.io/2018/08/06/akka-anti-patterns-many-actors/
 https://manuel.bernhardt.io/2019/07/11/tour-of-akka-typed-protocols-and-behaviors/
+https://stackoverflow.com/questions/27484460/akka-what-is-the-reason-of-processing-messages-one-at-a-time-in-an-actor
+https://stackoverflow.com/questions/13847963/akka-kill-vs-stop-vs-poison-pill
+https://doc.akka.io/docs/akka/snapshot/index-classic.html
+https://doc.akka.io/docs/akka/snapshot/typed/index.html
+https://doc.akka.io/docs/akka/current/general/actors.html
+https://www.freecodecamp.org/news/how-to-make-a-simple-application-with-akka-cluster-506e20a725cf/
+https://sachabarbs.wordpress.com/2016/08/02/akka-mailboxes/
 
 Books: Akka in Action
 
@@ -927,6 +1043,71 @@ https://www.tutorialspoint.com/apache_spark/advanced_spark_programming.htm
 https://spark.apache.org/docs/latest/quick-start.html
 https://www.tutorialkart.com/apache-spark/spark-parallelize-example/
 https://sparkbyexamples.com/spark/spark-read-text-file-rdd-dataframe/
+https://www.mikulskibartosz.name/shuffling-in-apache-spark/
+https://www.databricks.com/blog/2016/07/14/a-tale-of-three-apache-spark-apis-rdds-dataframes-and-datasets.html
+https://medium.com/virtuslab/spark-sql-under-the-hood-part-i-26077f85ebf0
+https://www.databricks.com/glossary/tungsten
+https://stackoverflow.com/questions/31508083/difference-between-dataframe-dataset-and-rdd-in-spark
+https://data-flair.training/blogs/fault-tolerance-in-apache-spark/
+https://spark.apache.org/docs/latest/rdd-programming-guide.html
+https://data-flair.training/blogs/apache-spark-rdd-persistence-caching/
+https://www.javatpoint.com/apache-spark-rdd-persistence
+https://towardsdatascience.com/apache-spark-performance-boosting-e072a3ec1179
+https://javagoal.com/immutable-collection-in-java/
+https://blog.knoldus.com/understanding-the-working-of-spark-driver-and-executor/
+https://blog.knoldus.com/apache-spark-repartitioning-v-s-coalesce/
+https://blog.knoldus.com/deep-dive-into-apache-spark-transformations-and-action/
+https://blog.knoldus.com/spark-actions-and-transformations/
+https://blog.knoldus.com/spark-introduction-to-datasets/
+https://blog.knoldus.com/difference-between-rdd-df-and-ds-in-spark/
+https://blog.knoldus.com/spark-why-should-we-use-sparksession/
+https://blog.knoldus.com/apache-spark-cluster-internals-how-spark-jobs-will-be-computed-by-the-spark-cluster/
+https://blog.knoldus.com/demystifying-asynchronous-actions-in-spark/
+https://stackoverflow.com/questions/30691385/how-spark-works-internally
+https://www.analyticsvidhya.com/blog/2021/08/understand-the-internal-working-of-apache-spark/
+https://techvidvan.com/tutorials/spark-architecture/
+https://blog.knoldus.com/introduction-to-accumulators-apache-spark/
+https://blog.knoldus.com/shufflling-and-repartitioning-of-rdds-in-apache-spark/
+https://blog.knoldus.com/how-spark-internally-executes-a-program/
+https://www.javatpoint.com/apache-spark-rdd-shared-variables
+https://blog.cloudera.com/how-to-tune-your-apache-spark-jobs-part-1/
+https://blog.clairvoyantsoft.com/bucketing-in-spark-878d2e02140f
+https://umbertogriffo.gitbook.io/apache-spark-best-practices-and-tuning/dataframe/joining-a-large-and-a-small-dataset
+https://medium.com/datakaresolutions/optimize-spark-sql-joins-c81b4e3ed7da
+https://medium.com/road-to-data-engineering/spark-performance-optimization-series-3-shuffle-104738a83a9e
+https://medium.com/swlh/revealing-apache-spark-shuffling-magic-b2c304306142
+https://medium.com/road-to-data-engineering/spark-performance-optimization-series-2-spill-685126e9d21f
+https://towardsdatascience.com/best-practices-for-caching-in-spark-sql-b22fb0f02d34
+https://medium.com/@adrianchang/apache-spark-checkpointing-ebd2ec065371
+https://towardsdatascience.com/the-art-of-joining-in-spark-dcbd33d693c
+https://docs.databricks.com/optimizations/aqe.html
+https://dzone.com/articles/why-your-spark-apps-are-slow-or-failing-part-ii-da#:~:text=Salting%20is%20a%20technique%20where,to%20match%20the%20random%20keys.
+https://towardsdatascience.com/should-i-repartition-836f7842298c
+https://medium.com/softwaresanders/improving-your-apache-spark-application-performance-ec5d64bc3c75
+https://medium.com/enigma-engineering/things-i-wish-id-known-about-spark-when-i-started-one-year-later-edition-d767430181ed
+https://luminousmen.com/post/spark-tips-partition-tuning
+https://robertovitillo.com/spark-best-practices/
+https://ch-nabarun.medium.com/apache-spark-optimization-techniques-54864d4fdc0c
+https://towardsdatascience.com/be-in-charge-of-query-execution-in-spark-sql-c83d1e16b9b8
+https://towardsdatascience.com/about-joins-in-spark-3-0-1e0ea083ea86
+https://medium.com/expedia-group-tech/part-3-efficient-executor-configuration-for-apache-spark-b4602929262
+https://data-flair.training/blogs/rdd-lineage/
+https://dzone.com/articles/common-reasons-your-spark-applications-are-slow-or
+https://medium.com/towards-data-science/apache-spark-optimization-techniques-fa7f20a9a2cf
+https://www.informit.com/articles/article.aspx?p=2928186
+https://blog.knoldus.com/understanding-sparks-logical-and-physical-plan-in-laymans-term/
+https://www.databricks.com/blog/2015/04/13/deep-dive-into-spark-sqls-catalyst-optimizer.html
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/9000630084352253/509646307872265/6405721786982255/latest.html
+https://stackoverflow.com/questions/55822462/scala-spark-collect-list-vs-array
+https://sparkbyexamples.com/spark/spark-collect-list-and-collect-set-functions/
+Advanced,
+https://mallikarjuna_g.gitbooks.io/spark/content/
+https://community.cloud.databricks.com/login.html
+
+:Fs2
+https://underscore.io/blog/posts/2018/03/20/fs2.html
+https://www.beyondthelines.net/programming/streaming-patterns-with-fs2/
+https://www.freecodecamp.org/news/a-streaming-library-with-a-superpower-fs2-and-functional-programming-6f602079f70a/
 
 Books:
 
@@ -961,9 +1142,12 @@ https://www.compose.com/articles/aggregations-in-mongodb-by-example/
 0_:::SIECI:::
 Protokoly: TCP/IP HTTP, Telnet, FTP, TFTP, SNMP, DNS, SMTP
 HTTP,
+https://www.tutorialspoint.com/http/http_overview.htm
 https://www.javatpoint.com/computer-network-http
 https://developer.mozilla.org/pl/docs/Web/HTTP/HTTP_wiadomosci_og%C3%B3lne
 https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:the-internet/xcae6f4a7ff015e7d:web-protocols/a/hypertext-transfer-protocol-http
+HTTPS,
+https://blog.bytebytego.com/p/how-does-https-work-episode-6
 TCP IP UDP,
 https://www.javatpoint.com/tcp-vs-udp
 DNS,
@@ -1059,6 +1243,12 @@ https://aws.amazon.com/getting-started/fundamentals-core-concepts/?e=gs2020&p=fu
 https://aws.amazon.com/getting-started/
 https://www.guru99.com/aws-tutorial.html
 https://www.quora.com/What-is-the-best-resource-for-learning-AWS
+https://aws.amazon.com/faqs/
+https://www.techtarget.com/searchcloudcomputing/tip/Compare-Amazon-ECS-vs-EKS
+https://bluexp.netapp.com/blog/aws-cvo-blg-aws-ecs-vs-eks-6-key-differences
+https://www.justaftermidnight247.com/insights/ebs-efs-and-s3-when-to-use-awss-three-storage-solutions/
+https://cloudteam.pl/sciezki/aws-certified-solutions-architect-associate/
+https://lepczynski.it/aws/jak-zdalem-egzamin-aws-certified-solutions-architect-associate-porady-ktore-pomagaja-zdac/
 
 Rozne,
 https://www.baeldung.com/cs/virtualization-vs-containerization
@@ -1098,6 +1288,7 @@ Scrum,
 Kanban,
 Extreme programming,
 
+https://www.guru99.com/scrum-vs-kanban.html
 https://en.wikipedia.org/wiki/Complement_(set_theory)#Relative_complement
 
 0_:::WIEDZA Z ARTYKULOW:::
@@ -1138,6 +1329,7 @@ https://www.sqlshack.com/design-sql-queries-better-performance-select-exists-vs-
 https://forums.mysql.com/read.php?115,647656,647656
 https://stackoverflow.com/questions/2726657/inner-join-vs-left-join-performance-in-sql-server
 https://pl.wikipedia.org/wiki/Posta%C4%87_normalna_(bazy_danych)
+https://stackoverflow.com/questions/3861558/what-are-the-benefits-of-using-database-cursor
 
 
 
@@ -1215,6 +1407,7 @@ https://www.angular.love/2018/07/04/rxjs-w-angular-co-wypada-wiedziec/
 https://jasonwatmore.com/post/2019/02/07/angular-7-communicating-between-components-with-observable-subject
 https://angular.io/guide/attribute-directives
 https://www.sitepoint.com/practical-guide-angular-directives/
+https://www.ag-grid.com/documentation/angular/getting-started/
 https://blog.angular-university.io/how-does-angular-2-change-detection-really-work/
 https://www.angular.love/2017/01/15/angular-2-change-detector-mechanizmy-detekcji-oraz-strategia-onpush/
 https://medium.com/@bencabanes/angular-change-detection-strategy-an-introduction-819aaa7204e7
@@ -1255,6 +1448,7 @@ https://syllabuskrk.agh.edu.pl/2018-2019/pl/magnesite/study_plans/niestacjonarne
 0_:::NIEZWIAZANE:::
 https://morethancoding.com/2011/05/22/the-programmer-pyramid/
 http://scala-poland.eu/companies/
+https://www.programcreek.com/scala/org.http4s.Uri
 
 
 
