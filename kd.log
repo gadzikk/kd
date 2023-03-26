@@ -111,7 +111,6 @@ https://www.journaldev.com/2452/serialization-in-java
 https://www.geeksforgeeks.org/instanceof-operator-vs-isinstance-method-in-java/
 https://www.geeksforgeeks.org/strictfp-keyword-java/
 https://www.baeldung.com/java-fail-safe-vs-fail-fast-iterator
-https://akademiahakerow.pl/aktualnosci/pojedynczy-wpis/RoznicapomiedzyoperatoramiFail-safeaFail-fast
 https://stackoverflow.com/questions/8759868/java-logical-operator-short-circuiting
 https://stackoverflow.com/questions/322715/when-to-use-linkedlist-over-arraylist-in-java
 https://www.javatpoint.com/difference-between-arraylist-and-linkedlist
@@ -120,6 +119,7 @@ https://stackoverflow.com/questions/18734705/which-one-runs-faster-arraylist-or-
 https://www.geeksforgeeks.org/internal-working-of-treemap-in-java
 https://www.geeksforgeeks.org/hashmap-treemap-java
 https://www.geeksforgeeks.org/internal-working-of-arraylist-in-java
+https://javagoal.com/immutable-collection-in-java/
 
 https://www.geeksforgeeks.org/java
 https://www.journaldev.com/2366/core-java-interview-questions-and-answers
@@ -144,7 +144,6 @@ Monitorowanie,
 https://www.google.com/search?client=firefox-b-d&q=JVisualVM
 https://blog.gceasy.io/2016/11/22/resolve-memory-leak/
 https://docs.oracle.com/cd/E13150_01/jrockit_jvm/jrockit/geninfo/diagnos/using_threaddumps.html
-https://helpx.adobe.com/pl/experience-manager/kb/TakeThreadDump.html
 https://howtodoinjava.com/linux/how-to-get-thread-dump-in-linux-using-jstack/
 http://openjdk.java.net/projects/code-tools/jmh/
 stackOverFlowError,
@@ -187,7 +186,6 @@ Weak strong refrence,
 https://stackoverflow.com/questions/9809074/java-difference-between-strong-soft-weak-phantom-reference
 https://stackoverflow.com/questions/299659/whats-the-difference-between-softreference-and-weakreference-in-java
 https://www.baeldung.com/java-weak-reference
-programmr.com/blogs/what-every-java-developer-should-know-strong-and-weak-references
 Rozne,
 https://dzone.com/articles/understanding-jvm-internals
 https://www.geeksforgeeks.org/jvm-works-jvm-architecture/
@@ -250,7 +248,6 @@ https://dzone.com/articles/20-useful-open-source-libraries-for-java-programme
 
 0_:::CONCURRENCY:::
 Concurrency ogolnie,
-https://practice.geeksforgeeks.org/problems/what-are-the-advantages-of-concurrency
 http://tutorials.jenkov.com/java-concurrency/benefits.html
 http://tutorials.jenkov.com/java-concurrency/costs.html
 https://javarevisited.blogspot.com/2015/05/top-10-java-multithreading-and.html#axzz5Neevu8QO
@@ -258,7 +255,6 @@ https://practice.geeksforgeeks.org/problems/what-are-the-advantages-of-concurren
 https://sceweb.uhcl.edu/helm/RationalUnifiedProcess/process/workflow/ana_desi/co_cncry.htm
 https://docs.oracle.com/cd/E13203_01/tuxedo/tux71/html/pgthr5.htm
 https://www.programmersought.com/article/38971341326/
-http://www.justobjects.org/cowcatcher/browse/stdjava/slides/java-essential/core/thread/slide.0.4.html
 https://medium.com/@recepinancc/til-8-concurrency-and-parallelism-in-a-nutshell-d19f379241c9
 https://www.multisoftvirtualacademy.com/blog/common-advantages-and-disadvantages-of-multithreading-in-java/
 Concurrency vs Parallelism,
@@ -337,7 +333,6 @@ https://www.java67.com/2017/08/how-to-create-concurrenthashset-from-concurrentHa
 Locks,
 http://flex4java.blogspot.com/2015/02/lock-reentrantlock-reentrantreadwritelo.html
 https://examples.javacodegeeks.com/core-java/util/concurrent/locks-concurrent/reentrantlock/java-reentrantreadwritelock-example/
-https://www.overops.com/blog/java-8-stampedlocks-vs-readwritelocks-and-synchronized/
 https://bowenli86.github.io/2016/04/20/java/concurrency/Java-Concurrency-ReentrantLock/
 https://www.codejava.net/java-core/concurrency/java-readwritelock-and-reentrantreadwritelock-example
 https://docs.oracle.com/javase/7/docs/api/java/util/concurrent/locks/ReentrantReadWriteLock.html
@@ -437,12 +432,9 @@ https://akfpartners.com/growth-blog/microservice-aggregator-pattern
 Transaction patterns,
 https://medium.com/swlh/handling-transactions-in-the-microservice-world-c77b275813e0
 https://developers.redhat.com/blog/2018/10/01/patterns-for-distributed-transactions-within-a-microservices-architecture/
-https://techrocking.com/patterns-for-transaction-in-microservices/
 https://thorben-janssen.com/distributed-transactions-microservices/
 Saga,
 https://microservices.io/patterns/data/saga.html
-https://techrocking.com/microservices-orchestration-command-pattern/
-https://techrocking.com/microservices-choreography-event-pattern/
 https://dzone.com/articles/saga-pattern-how-to-implement-business-transaction-1
 https://github.com/berndruecker/trip-booking-saga-java/blob/master/src/main/java/io/flowing/trip/saga/camunda/springboot/TripBookingSaga.java
 https://medium.com/@ydorego/microservices-orchestration-vs-choreography-the-eternal-saga-d58c35e07d81
@@ -457,7 +449,6 @@ https://dzone.com/articles/right-strategies-for-microservices-deployment
 https://www.nginx.com/blog/deploying-microservices/
 Api gateway,
 https://medium.com/dev-genius/microservices-design-api-gateway-pattern-980e8d02bdd5
-https://techrocking.com/spring-cloud-zuul-proxy-as-api-gateway/
 https://microservices.io/patterns/apigateway.html
 https://www.nginx.com/learn/api-gateway/
 https://codecouple.pl/2018/03/16/31-spring-boot-zuul-api-gateway/
@@ -582,7 +573,6 @@ https://medium.com/@s.sreejith/proxy-in-spring-e21ffbb2953a
 
 :Spring webflux-reactor
 https://stackoverflow.com/questions/45019486/threading-model-of-spring-webflux-and-reactor
-https://singhkaushal.medium.com/spring-webflux-eventloop-vs-thread-per-request-model-a42d07ee8502
 https://dzone.com/articles/spring-webflux-eventloop-vs-thread-per-request-mod
 https://piotrminkowski.com/2020/03/30/a-deep-dive-into-spring-webflux-threading-model/
 https://www.baeldung.com/spring-webflux-concurrency
@@ -595,9 +585,7 @@ https://howtodoinjava.com/spring-webflux/spring-webflux-tutorial/
 https://projectreactor.io/docs/core/release/reference/
 https://dzone.com/articles/spring-webflux-eventloop-vs-thread-per-request-mod
 https://piotrminkowski.com/2020/03/30/a-deep-dive-into-spring-webflux-threading-model/
-https://stackoverflow.com/questions/45019486/threading-model-of-spring-webflux-and-reactor
 https://www.e4developer.com/2018/03/30/introduction-to-concurrency-in-spring-boot/
-https://singhkaushal.medium.com/spring-webflux-eventloop-vs-thread-per-request-model-a42d07ee8502
 
 
 
@@ -669,7 +657,6 @@ https://ably.com/topic/webhooks
 Internetowe,
 https://www.journaldev.com/1907/java-session-management-servlet-httpsession-url-rewriting
 https://hazelcast.com/glossary/web-session/
-http://www.rodsonluo.com/client-session-vs-server-session
 https://stackoverflow.com/questions/3467114/how-are-cookies-passed-in-the-http-protocol
 https://humanwhocodes.com/blog/2009/05/05/http-cookies-explained/
 https://en.wikipedia.org/wiki/Cross-site_request_forgery
@@ -748,7 +735,6 @@ https://www.magicweb.pl/programowanie/programowanie-funkcyjne-higher-order-funct
 https://docs.scala-lang.org/tour/higher-order-functions.html
 Closures,
 https://stackoverflow.com/questions/36636/what-is-a-closure
-https://stackoverflow.com/questions/220658/what-is-the-difference-between-a-closure-and-a-lambda/36878651#36878651
 https://stackoverflow.com/questions/220658/what-is-the-difference-between-a-closure-and-a-lambda
 https://stackoverflow.com/questions/40089429/the-place-of-closures-in-functional-programming
 https://softwareengineering.stackexchange.com/questions/40454/what-is-a-closure
@@ -787,13 +773,10 @@ https://hackernoon.com/functor-applicative-and-monads-fp1e32eh
 Scala ogolnie,
 https://stackoverflow.com/questions/1345713/what-are-the-benefits-of-scala
 https://www.quora.com/Why-should-a-Java-developer-consider-switching-to-Scala?q=scala%20java
-https://www.newgenapps.com/blog/advantages-of-using-scala/
 https://www.quora.com/Is-the-Scala-language-better-than-Java
 https://www.quora.com/What-are-the-advantages-of-Scala-over-Java-functional-programming
 https://www.educba.com/scala-vs-java/
 https://jaxenter.com/5-reasons-why-scala-is-better-than-java-130863.html
-https://venturi-group.com/scala-vs-java-differences-similarities/
-https://www.amazon.com/Functional-Programming-Patterns-Scala-Clojure/dp/1937785475
 https://www.bti360.com/scala-vs-java-8-in-a-java-8-world/
 https://www.infoq.com/articles/java-8-vs-scala/
 https://blog.outsource2india.com/the-advantages-of-using-scala/
@@ -839,7 +822,6 @@ https://www.baeldung.com/scala/mutability
 https://blog.knoldus.com/scala-map-vs-flatmap/
 https://stackoverflow.com/questions/26140757/what-to-choose-between-require-and-assert-in-scala
 https://www.geeksforgeeks.org/scala-preconditionsassert-assume-require-ensuring/
-https://maxondev.com/scala-preconditions-assert-assume-require-ensuring/
 https://alvinalexander.com/scala/differences-java-thread-vs-scala-future/
 https://stackoverflow.com/questions/12519894/explain-some-scala-code-beginner
 https://stackoverflow.com/tags/scala/info
@@ -887,7 +869,7 @@ http://eed3si9n.com/learning-scalaz/index.html
 Cats: 
 https://www.baeldung.com/scala/cats-effects-intro
 https://blog.knoldus.com/a-quick-start-to-cats-library/
-https://typelevel.org/cats-effect/datatypes/io.html
+https://typelevel.org/cats/datatypes.html
 https://typelevel.org/cats/
 https://typelevel.org/cats-effect/
 https://typelevel.org/cats/nomenclature.html
@@ -911,7 +893,7 @@ http://www.beyondthelines.net/programming/futures-vs-tasks/
 https://www.slideshare.net/hermannhueck/future-vs-monix-task
 
 ZIO:
-https://zio.dev/docs/overview/overview_index
+https://zio.dev/overview/getting-started
 https://degoes.net/articles/zio-cats-effect
 
 Requests:
@@ -969,7 +951,6 @@ https://stackoverflow.com/questions/29511521/is-key-required-as-part-of-sending-
 https://linuxhint.com/apache_kafka_partitions/
 https://www.confluent.io/stream-processing-cookbook/ksql-recipes/setting-kafka-message-key/
 https://www.conduktor.io/kafka/what-is-apache-kafka/
-https://stackoverflow.com/questions/29511521/is-key-required-as-part-of-sending-messages-to-kafka
 https://forum.confluent.io/t/what-should-i-use-as-the-key-for-my-kafka-message/312/2
 https://codingharbour.com/apache-kafka/the-introduction-to-kafka-topics-and-partitions/
 https://developer.confluent.io/learn-kafka/architecture/get-started/
@@ -1011,7 +992,6 @@ https://blog.knoldus.com/scale-out-with-cluster-sharding/
 https://blog.knoldus.com/introduction-actor-model-akka-nutshell-1/
 https://blog.knoldus.com/supervision-and-monitoring-in-akka/
 https://www.signifytechnology.com/blog/2018/04/introduction-to-akka-actors-in-java-by-baeldung
-https://www.oreilly.com/library/view/scala-reactive-programming/9781787288645/af49b94a-7c9f-4316-9173-6807a95539b1.xhtml
 https://www.slideshare.net/krivachy/the-dark-side-of-akka-and-the-remedy
 https://dzone.com/articles/3-reasons-why-akka-typed-helps-you-write-better-co
 https://sap1ens.com/blog/2015/10/25/actors-streams-and-futures-in-akka/
@@ -1053,7 +1033,6 @@ https://spark.apache.org/docs/latest/rdd-programming-guide.html
 https://data-flair.training/blogs/apache-spark-rdd-persistence-caching/
 https://www.javatpoint.com/apache-spark-rdd-persistence
 https://towardsdatascience.com/apache-spark-performance-boosting-e072a3ec1179
-https://javagoal.com/immutable-collection-in-java/
 https://blog.knoldus.com/understanding-the-working-of-spark-driver-and-executor/
 https://blog.knoldus.com/apache-spark-repartitioning-v-s-coalesce/
 https://blog.knoldus.com/deep-dive-into-apache-spark-transformations-and-action/
@@ -1144,7 +1123,7 @@ Protokoly: TCP/IP HTTP, Telnet, FTP, TFTP, SNMP, DNS, SMTP
 HTTP,
 https://www.tutorialspoint.com/http/http_overview.htm
 https://www.javatpoint.com/computer-network-http
-https://developer.mozilla.org/pl/docs/Web/HTTP/HTTP_wiadomosci_og%C3%B3lne
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview
 https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:the-internet/xcae6f4a7ff015e7d:web-protocols/a/hypertext-transfer-protocol-http
 HTTPS,
 https://blog.bytebytego.com/p/how-does-https-work-episode-6
@@ -1169,7 +1148,6 @@ https://stackoverflow.com/questions/9069061/what-is-the-difference-between-git-m
 https://nvie.com/posts/a-successful-git-branching-model/
 https://www.atlassian.com/git/tutorials/syncing/git-fetch
 https://www.atlassian.com/git/tutorials/undoing-changes/git-reset
-https://panizkomputerem.pl/3-sposoby-na-git-merge/
 https://garrytrinder.github.io/2020/03/squashing-commits-using-interactive-rebase
 https://stackoverflow.com/questions/2427238/what-is-the-difference-between-merge-squash-and-rebase
 https://stackoverflow.com/questions/804115/when-do-you-use-git-rebase-instead-of-git-merge
@@ -1215,7 +1193,7 @@ https://stackoverflow.com/questions/35409216/how-to-handle-stackoverflowerror
 Rodzaje autentykacji,
 https://nordicapis.com/3-common-methods-api-authentication-explained/
 https://blog.risingstack.com/web-authentication-methods-explained/
-https://blog.bearer.sh/the-three-most-common-api-authentication-methods/
+https://dev.to/bearer/the-three-most-common-api-authentication-methods-2mnm
 https://dzone.com/articles/four-most-used-rest-api-authentication-methods
 https://blog.restcase.com/4-most-used-rest-api-authentication-methods/
 https://www.csoonline.com/article/3216404/what-is-oauth-how-the-open-authorization-framework-works.html
