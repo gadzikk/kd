@@ -359,13 +359,38 @@ Jenkov,
 http://tutorials.jenkov.com/java-concurrency/index.html
 http://tutorials.jenkov.com/java-util-concurrent/index.html
 Wyklady kalety,
-Data vs Task parallelism
+Data vs Task parallelism,
 https://www.tutorialspoint.com/data-parallelism-vs-task-parallelism
+Structured Concurrency,
+https://www.happycoders.eu/java/structured-concurrency-structuredtaskscope
+https://www.baeldung.com/java-structured-concurrency
+https://www.davidvlijmincx.com/posts/loom/jep_428_structured_concurrency
+https://howtodoinjava.com/java/multi-threading/structured-concurrency
+https://www.infoq.com/news/2022/06/java-structured-concurrency
+Rodzaje Watkow,
+https://stackoverflow.com/questions/74639116/what-is-the-difference-between-green-threads-and-virtual-threads
+https://docs.oracle.com/en/java/javase/19/docs/api/java.base/java/lang/Thread.html
+https://stackoverflow.com/questions/72116652/what-exactly-makes-java-virtual-threads-better
+https://www.infoq.com/articles/java-virtual-threads
+https://en.wikipedia.org/wiki/Fiber_(computer_science)
+https://graphitemaster.github.io/fibers
+https://stackoverflow.com/questions/796217/what-is-the-difference-between-a-thread-and-a-fiber
+https://www.baeldung.com/scala/cats-effect-fibers-concurrent-programming
+https://en.wikipedia.org/wiki/Green_thread
+https://softwareengineering.stackexchange.com/questions/254140/is-there-a-difference-between-fibers-coroutines-and-green-threads-and-if-that-i
+https://stackoverflow.com/questions/3324643/processes-threads-green-threads-protothreads-fibers-coroutines-whats-the
+https://zio.dev/reference/fiber
+https://developers.redhat.com/blog/2019/06/19/project-loom-lightweight-java-threads#project_loom
+https://stackoverflow.com/questions/15267269/green-threads-and-native-threads-in-java
+https://stackoverflow.com/questions/5713142/green-threads-vs-non-green-threads
 Rozne,
 https://www.geeksforgeeks.org/inter-thread-communication-java/
 http://tutorials.jenkov.com/java-concurrency/non-blocking-algorithms.html
-https://stackoverflow.com/questions/15267269/green-threads-and-native-threads-in-java
-https://stackoverflow.com/questions/5713142/green-threads-vs-non-green-threads
+https://en.wikipedia.org/wiki/Cooperative_multitasking
+https://www.geeksforgeeks.org/difference-between-preemptive-and-cooperative-multitasking/
+https://stackoverflow.com/questions/55703365/what-is-the-difference-between-cooperative-multitasking-and-preemptive-multitask
+
+
 
 https://javarevisited.blogspot.com/2014/07/top-50-java-multithreading-interview-questions-answers.html#axzz4jaJmaqbE
 https://www.journaldev.com/1162/java-multithreading-concurrency-interview-questions-answers
