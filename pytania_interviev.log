@@ -315,3 +315,15 @@ pytania o metryki,
 readiness probe health probe w kubernetesie (health sprawdza czy service jest w dobrym stanie, a readines sprawdza czy jest zdolny do obslugi requestow),
 metryka pause gc,
 jak zrobic dynamiczne zmiennne w dockerze (arg, zmienne srodowiskowe, config map)
+:::ZOWIE:::
+obliczanie wyrazenia onp odejmowanie z uzyciem plusa i dzielenie z uzyciem mnozenia, a nastepnie rozszerzenie rozwiazania za pomoca typeclass
+:::IBM:::
+opisz wyzwania w projektach z jakimi sie mierzyles,
+taski liderskie ktore wykonywales,
+mentoring czy miales okazje mentorowac kogos,
+kryteria wyboru jezyka lub narzedzia w projekcie,
+chat do zaimplementowania rest czy socket, ile procesow ile watkow (proces vs watek), czy uzylbys fiber jezeli tak to zalety i wady, co to jest fiber, czy sa jakies przeciwwskazania do uzycia fibera, mozliwe problemy przy uzyciu os watkow
+kubernetes,
+terraform,
+jaka jest zaleznosc terraform na kubernetes,
+wirtualizacja vs konteneryzacja na przykladzie docker

@@ -77,6 +77,7 @@ https://www.digitalocean.com/community/tutorials/java-hashmap
 https://javarevisited.blogspot.com/2011/02/how-hashmap-works-in-java.html#axzz7uoOVtqqR
 https://levelup.gitconnected.com/how-does-hashmap-work-internally-612dd950822f
 https://medium.com/zero-equals-false/how-hashmap-works-a-missing-piece-of-hood-29dd28c4c01e
+https://stackoverflow.com/questions/23977856/are-hashcodes-unique-for-strings
 Kolejnosc wykonania(constructor, postConstruct, static block, dependency injection),
 https://www.baeldung.com/java-initialization
 https://stackoverflow.com/questions/38068303/spring-autowiring-order-and-postconstruct
@@ -120,6 +121,7 @@ https://www.geeksforgeeks.org/internal-working-of-treemap-in-java
 https://www.geeksforgeeks.org/hashmap-treemap-java
 https://www.geeksforgeeks.org/internal-working-of-arraylist-in-java
 https://javagoal.com/immutable-collection-in-java/
+https://stackoverflow.com/questions/3368830/how-to-name-factory-like-methods
 
 https://www.geeksforgeeks.org/java
 https://www.journaldev.com/2366/core-java-interview-questions-and-answers
@@ -132,6 +134,7 @@ Garbage collector struktura dzialanie,
 https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html
 
 Garbage collector tryby (oraz plusy I minusy),
+https://developers.redhat.com/articles/2021/11/02/how-choose-best-java-garbage-collector
 https://www.baeldung.com/jvm-garbage-collectors
 https://www.overops.com/blog/garbage-collectors-serial-vs-parallel-vs-cms-vs-the-g1-and-whats-new-in-java-8/
 https://javapapers.com/java/types-of-java-garbage-collectors/
@@ -507,6 +510,9 @@ https://www.euvic.pl/event-sourcing-bez-tajemnic/
 https://eventuate.io/whyeventsourcing.html
 https://docs.microsoft.com/pl-pl/azure/architecture/patterns/event-sourcing
 https://softwaremill.com/entry-level-event-sourcing/
+https://www.tinybird.co/blog-posts/event-sourcing-with-kafka
+https://blog.consdata.tech/2018/11/15/czy-apache-kafka-nadaje-sie-do-event-sourcingu.html
+https://www.confluent.io/blog/event-sourcing-using-apache-kafka/
 SOA,
 Architektura Hexagonalna,
 https://www.jcommerce.pl/jpro/artykuly/porty-i-adaptery-w-praktyce
@@ -673,6 +679,7 @@ HTTP (jak dziala, statusy, odpowiedzi, filtry, servlety),
 https://www.restapitutorial.com/httpstatuscodes.html
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
 https://pl.wikipedia.org/wiki/Hypertext_Transfer_Protocol
+https://stackoverflow.com/questions/18709834/http-status-424-or-500-for-error-on-external-dependency
 Webhooks,
 https://www.contentful.com/developers/docs/concepts/webhooks/
 https://hookdeck.com/webhooks/guides/when-to-use-webhooks#examples-of-sites-that-use-webhooks
@@ -700,6 +707,9 @@ https://www.knowledgenile.com/blogs/apache-kafka-vs-jms
 http://cloudurable.com/blog/kafka-vs-jms/index.html
 https://stackoverflow.com/questions/42664894/jms-vs-kafka-in-specific-conditions
 https://www.oracle.com/technical-resources/articles/java/intro-java-message-service.html
+Kafka vs REST,
+https://medium.com/@vikalprusia/kafka-vs-http-757c6d49e23
+https://stackoverflow.com/questions/57852689/kafka-msg-vs-rest-calls
 Integration patterns,
 https://www.javacodegeeks.com/2012/11/introduction-to-enterprise-integration-patterns.html
 https://dzone.com/articles/introduction-to-integration-patterns
@@ -793,6 +803,19 @@ https://stackoverflow.com/questions/17409260/what-advantage-does-monad-give-us-o
 https://stackoverflow.com/questions/45252709/what-is-the-difference-between-a-functor-and-a-monad
 https://stackoverflow.com/questions/23342184/difference-between-monad-and-applicative-in-haskell
 https://hackernoon.com/functor-applicative-and-monads-fp1e32eh
+https://www.tobyhobson.com/posts/cats/applicatives-vs-monads/
+https://stackoverflow.com/questions/14576543/why-can-applicative-functors-have-side-effects-but-functors-cant
+Monad doesnt compose,
+https://stackoverflow.com/questions/7040844/applicatives-compose-monads-dont
+https://blog.tmorris.net/posts/monads-do-not-compose/
+https://www.reddit.com/r/haskell/comments/111y0vy/monads_doesnt_compose_well_why/
+Monad is monoid in the category of endofunctors,
+https://blog.softwaremill.com/monoid-in-the-category-of-endofunctors-b85bab43587b
+https://stackoverflow.com/questions/3870088/a-monad-is-just-a-monoid-in-the-category-of-endofunctors-whats-the-problem
+https://blog.rockthejvm.com/monads-are-monoids-in-the-category-of-endofunctors/
+https://stackoverflow.com/questions/10342876/differences-between-functors-and-endofunctors
+https://www.reddit.com/r/math/comments/ap25mr/a_monad_is_a_monoid_in_the_category_of
+https://ncatlab.org/nlab/show/endofunctor
 
 0_:::SCALA:::
 Scala ogolnie,
@@ -810,6 +833,14 @@ https://data-flair.training/blogs/scala-advantages/
 Pattern Matching,
 https://stackoverflow.com/questions/38853449/why-cant-i-apply-pattern-matching-against-non-case-classes
 https://www.baeldung.com/scala/pattern-matching
+https://blog.shangjiaming.com/scala%20tutorial/pattern-match/
+https://stackoverflow.com/questions/20748858/pattern-matching-symbol
+For Comprehensions,
+https://www.baeldung.com/scala/for-comprehension
+https://stackoverflow.com/questions/7949785/scalas-for-comprehension-if-statements
+https://stackoverflow.com/questions/43534499/for-comprehension-with-conditions
+https://alvinalexander.com/scala/how-to-for-loop-embedded-if-statements-guards-scala/
+https://stackoverflow.com/questions/4192227/how-can-i-do-if-else-inside-a-for-comprehension
 TypeClass,
 https://blog.knoldus.com/getting-started-with-scala-cats/
 https://medium.com/virtuslab/typeclasses-scala-be35c0ef0ee9
@@ -835,6 +866,38 @@ https://typelevel.org/blog/2016/08/21/hkts-moving-forward.html
 Scala3,
 https://medium.com/@sinisalouc/whats-new-in-scala-3-28d9c11eec30
 https://docs.scala-lang.org/scala3/reference/index.html#
+* Collections,
+https://alvinalexander.com/scala/collection-scala-flatmap-examples-map-flatten/
+https://alvinalexander.com/scala/how-to-filter-map-filterkeys-retain-scala-cookbook
+https://stackoverflow.com/questions/26402276/when-applying-filter-to-a-scala-map-how-can-i-also-check-what-entries-were-remo
+https://alvinalexander.com/scala/scala-immutable-map-class-methods-examples-syntax/
+https://alvinalexander.com/scala/how-to-add-update-remove-elements-immutable-maps-scala/
+https://stackoverflow.com/questions/37070203/understanding-foldleft-with-map-instead-of-list
+https://alvinalexander.com/scala/how-to-append-prepend-items-vector-seq-in-scala/
+https://stackoverflow.com/questions/7794063/appending-an-element-to-the-end-of-a-list-in-scala
+https://www.baeldung.com/scala/array-append-element
+https://stackoverflow.com/questions/5636717/what-is-an-idiomatic-scala-way-to-remove-one-element-from-an-immutable-list
+https://www.includehelp.com/scala/how-to-delete-elements-from-a-list-in-scala.aspx
+https://alvinalexander.com/scala/how-to-delete-elements-from-list-listbuffer-scala-cookbook/
+https://stackoverflow.com/questions/32431729/how-to-efficient-copy-an-array-to-another-in-scala
+https://stackoverflow.com/questions/17828431/convert-scalas-list-into-map-with-indicies-as-keys
+https://www.includehelp.com/scala/how-to-convert-list-to-map-in-scala.aspx
+https://users.scala-lang.org/t/list-to-map-conversion/5366
+https://stackoverflow.com/questions/6364468/how-to-iterate-scala-map
+https://www.baeldung.com/scala/iterate-map
+* ADT,
+https://code.egym.de/a-brief-introduction-to-the-algebra-of-types-df92f0820e5
+https://stanford-cs242.github.io/f19/lectures/03-2-algebraic-data-types.html
+https://stackoverflow.com/questions/74961117/difference-between-type-class-and-algebraic-data-types
+https://www.baeldung.com/scala/algebraic-data-types
+https://en.wikipedia.org/wiki/Algebraic_data_type
+https://stackoverflow.com/questions/44991429/what-is-an-algebraic-data-type-adt
+* AST,
+https://en.wikipedia.org/wiki/Abstract_syntax_tree
+https://www.twilio.com/blog/abstract-syntax-trees
+https://dev.to/balapriya/abstract-syntax-tree-ast-explained-in-plain-english-1h38
+https://medium.com/@dinis.cruz/ast-abstract-syntax-tree-538aa146c53b
+https://www.baeldung.com/scala/scala2-macros
 Rozne,
 https://github.com/Baeldung/scala-tutorials/tree/master/scala-core-fp
 https://stackoverflow.com/questions/60128207/whats-the-difference-between-lazylist-and-stream-in-scala
@@ -858,6 +921,15 @@ https://alvinalexander.com/scala/sbt-how-to-compile-run-package-scala-project/
 https://alvinalexander.com/scala/how-use-fold-scala-option-some-none-syntax/
 https://alvinalexander.com/scala/how-to-split-sequences-subsets-groupby-partition-scala-cookbook/
 https://stackoverflow.com/questions/52543048/how-to-group-by-keys-in-a-list
+https://stackoverflow.com/questions/29779135/what-is-the-difference-between-try-and-either
+https://blog.shangjiaming.com/scala%20tutorial/type-classes/
+https://stackoverflow.com/questions/33074000/scala-string-vs
+https://stackoverflow.com/questions/31064753/how-to-pass-scala-array-into-scala-vararg-method
+https://www.baeldung.com/scala/string-comparison
+https://stackoverflow.com/questions/45531198/warnings-while-building-scala-spark-project-with-sbt
+https://type-class.com/2017/07/13/covariant-and-contravariant-in-scala/
+https://stackoverflow.com/questions/1320139/why-is-appending-to-a-list-bad
+https://stackoverflow.com/questions/24268388/scala-does-optionboolean-makes-sense
 
 Implicit,
 https://alvinalexander.com/scala/scala-2.10-implicit-class-example/
@@ -886,12 +958,15 @@ https://www.journaldev.com/8960/scala-advanced-interview-questions
 https://www.journaldev.com/9663/scala-interview-questions
 
 Books: programming in scala | scala cookbook | funtional programming in scala |building applications with scala | Learning Concurrent Programming in Scala | https://softwareengineering.stackexchange.com/questions/89273/where-are-all-the-functional-programming-design-patterns
+https://leanpub.com/pfhais/read
+https://books.underscore.io/scala-with-cats/scala-with-cats.html
+https://books.underscore.io/essential-scala/essential-scala.html
 
 Scalaz:
 https://leanpub.com/fpmortals-pl/read
 http://eed3si9n.com/learning-scalaz/index.html
 
-Cats: 
+Cats:
 https://www.baeldung.com/scala/cats-effects-intro
 https://blog.knoldus.com/a-quick-start-to-cats-library/
 https://typelevel.org/cats/datatypes.html
@@ -910,6 +985,105 @@ https://typelevel.org/blog/2018/04/13/rethinking-monaderror.html
 https://bow-swift.io/api-docs/Classes/EitherT.html
 https://freesoft.dev/program/169798302
 https://typelevel.org/cats/datatypes/kleisli.html
+Cats docs,
+https://typelevel.org/cats-effect/docs/2.x/concurrency/basics
+https://typelevel.org/cats-effect/docs/2.x/concurrency/deferred
+https://typelevel.org/cats-effect/docs/2.x/concurrency/mvar
+https://stackoverflow.com/questions/64765566/effectful-update-of-ref-mvar
+https://typelevel.org/cats-effect/docs/2.x/concurrency/ref
+https://typelevel.org/cats-effect/docs/2.x/concurrency/semaphore
+https://typelevel.org/cats-effect/docs/2.x/guides/tutorial
+https://typelevel.org/cats-effect/docs/2.x/typeclasses/overview
+https://typelevel.org/cats-effect/docs/2.x/datatypes/io
+https://typelevel.org/cats-effect/docs/2.x/datatypes/fiber
+https://typelevel.org/cats-effect/docs/2.x/datatypes/resource
+https://typelevel.org/cats-effect/docs/2.x/datatypes/contextshift
+https://typelevel.org/cats-effect/docs/2.x/datatypes/timer
+https://typelevel.org/cats-effect/docs/2.x/datatypes/ioapp
+https://typelevel.org/cats-effect/docs/concepts
+https://typelevel.org/cats-effect/docs/tutorial
+https://typelevel.org/cats-effect/docs/thread-model
+https://typelevel.org/cats-effect/docs/schedulers
+https://typelevel.org/cats-effect/docs/core/starvation-and-tuning
+https://typelevel.org/cats-effect/docs/core/io-local
+https://typelevel.org/cats-effect/docs/typeclasses
+https://typelevel.org/cats-effect/docs/typeclasses/spawn
+https://typelevel.org/cats-effect/docs/typeclasses/concurrent
+https://typelevel.org/cats-effect/docs/typeclasses/temporal
+https://typelevel.org/cats-effect/docs/typeclasses/sync
+https://typelevel.org/cats-effect/docs/typeclasses/async
+https://typelevel.org/cats-effect/docs/faq
+https://typelevel.org/cats-effect/docs/std/atomic-cell
+https://typelevel.org/cats-effect/docs/std/backpressure
+https://typelevel.org/cats-effect/docs/std/dispatcher
+https://typelevel.org/cats-effect/docs/std/hotswap
+https://typelevel.org/cats-effect/docs/std/supervisor
+Cats concurrency,
+https://www.baeldung.com/scala/cats-effect-fibers-concurrent-programming
+https://typelevel.org/blog/2020/10/30/concurrency-in-ce3.html
+https://blog.rockthejvm.com/cats-effect-fibers/
+https://typelevel.org/blog/2021/02/21/fibers-fast-mkay.html
+https://blog.softwaremill.com/cats-concurrency-basics-with-ref-and-deferred-399e0335630
+https://softwaremill.com/concurrency-with-cats-effect/
+https://yadukrishnan.live/synchronisation-and-concurrent-access-in-cats-effect-3-part-7
+Cats what is effect,
+https://www.inner-product.com/posts/what-is-an-effect/
+https://alvinalexander.com/scala/what-effects-effectful-mean-in-functional-programming/
+Cats contexts description,
+https://daenyth.github.io/intro-cats-effect/#1
+https://github.com/peknight/demo/tree/master/demo-fp
+Cats advanced monads,
+https://typelevel.org/cats/datatypes/writer.html
+https://www.baeldung.com/scala/writer-monad-in-cats
+https://www.tobyhobson.com/posts/cats/writer-monad/
+https://typelevel.org/cats/datatypes/state.html
+https://typelevel.org/cats/datatypes/kleisli.html
+https://edward-huang.com/functional-programming/scala/cats/monad/tech/2020/01/29/how-to-set-up-your-own-dependency-injection-with-reader/
+https://blog.softwaremill.com/kleisli-category-from-theory-to-cats-fbd140bf396e
+https://medium.com/@supermanue/understanding-kleisli-in-scala-9c42ec1a5977
+https://blog.ssanj.net/posts/2017-06-07-composing-monadic-functions-with-kleisli-arrows.html
+https://www.freecodecamp.org/news/monadic-composition-and-kleisli-arrows-1d96979bb32/
+https://typelevel.org/cats/typeclasses/semigroup.html
+https://www.tobyhobson.com/posts/cats/semigroups/
+https://levelup.gitconnected.com/diving-into-scala-cats-semigroups-732ef2432042
+https://typelevel.org/cats/typeclasses/monad.html
+https://typelevel.org/cats/typeclasses/monoid.html
+https://www.tobyhobson.com/posts/cats/monoids/
+https://typelevel.org/cats/datatypes/nested.html
+Cats freemonads,
+https://typelevel.org/cats/datatypes/freemonad.html
+https://levelup.gitconnected.com/functional-dynamic-programming-scala-cats-and-free-monad-b71c34c209
+https://github.com/mtumilowicz/scala-cats-free-monad-workshop
+https://underscore.io/blog/posts/2015/04/14/free-monads-are-simple.html
+https://medium.com/@agaro1121/free-monad-vs-tagless-final-623f92313eac
+https://blog.rockthejvm.com/free-monad/
+https://scalac.io/blog/free-monad-cats-overview/
+https://stackoverflow.com/questions/46766192/what-is-the-advantage-of-free-monads-over-plain-old-traits-with-io-monads
+https://stackoverflow.com/questions/45039766/different-between-eff-monad-and-free-monad
+https://stackoverflow.com/questions/28186297/composing-free-monads-in-scala
+https://www.slideshare.net/hermannhueck/composing-an-app-with-free-monads-using-cats
+Cats work stealing pool,
+https://medium.com/iadvize-engineering/multiprocessing-on-the-jvm-scala-understanding-the-benefits-of-cats-effect-60bc403a67e1
+https://en.wikipedia.org/wiki/Work_stealing
+https://lightrun.com/answers/typelevel-cats-effect-different-exception-handling-on-the-work-stealing-runtime-compared-to-a-fixed-thread-executor
+https://publications.lib.chalmers.se/records/fulltext/219016/219016.pdf
+Cats rozne,
+https://rockthejvm.com/p/cats-effect/
+https://impurepics.com/posts/2018-07-13-referential-transparency-wild.html
+https://softwaremill.com/practical-guide-to-error-handling-in-scala-cats-and-cats-effect/
+https://betterprogramming.pub/functional-programming-anti-patterns-in-scala-23e57a7b9394
+https://itnext.io/benefits-of-identity-monad-in-scala-cats-a2cb0baef639
+https://yadukrishnan.live/cats-effect-3-for-beginners-part-1
+https://yadukrishnan.live/lazy-and-eager-computations-in-cats-using-eval
+https://yadukrishnan.live/common-apis-cats-effect-io-part-2
+https://yadukrishnan.live/traversing-cats-effect-ios-part-3
+https://yadukrishnan.live/common-operators-in-cats-effect-3-part-8
+https://yadukrishnan.live/cancellation-of-iofiber-in-cats-effect-3-part-6
+https://stackoverflow.com/questions/55953037/how-to-parse-dynamic-json-with-circe
+https://gist.github.com/Daenyth/e7ed8ca548b7f60cfeb924eb0e9a8811
+https://medium.com/@PerrottaFrancisco/foldable-and-traverse-with-scala-and-cats-bf4e5ab08b5b
+https://typelevel.org/blog/2018/06/07/shared-state-in-fp.html
+https://stackoverflow.com/questions/50354729/eagerly-evaluate-and-forget-behavior-for-cats-effect-io
 
 Monix:
 https://monix.io/
@@ -920,11 +1094,32 @@ https://www.slideshare.net/hermannhueck/future-vs-monix-task
 ZIO:
 https://zio.dev/overview/getting-started
 https://degoes.net/articles/zio-cats-effect
+https://softwaremill.com/cats-effect-vs-zio/
+https://softwaremill.com/getting-started-with-zio-part-1/
+https://softwaremill.com/structuring-zio-2-applications/
+
+http4s:
+https://blog.shangjiaming.com/scala%20tutorial/http4s-introduction-2/
+https://github.com/http4s/http4s/issues/2718
+https://http4s.org/v0.20/auth/
+https://github.com/cognitedata/http4s/blob/a7e2fc108de12f7b111d688d33288c20f6a5a085/server/src/test/scala/org/http4s/server/middleware/authentication/AuthMiddlewareSpec.scala#L211
+https://stackoverflow.com/questions/58446033/how-to-combine-authedroutes-and-httproutes-in-http4s
+https://stackoverflow.com/questions/75019894/pattern-type-is-incompatible-with-expected-type
+https://blog.rockthejvm.com/scala-http4s-authentication/
 
 Requests:
 https://github.com/lihaoyi/requests-scala
 https://www.lihaoyi.com/post/HowtoworkwithHTTPJSONAPIsinScala.html
 http://www.lihaoyi.com/upickle/#uJson
+
+Libraries:
+https://blog.softwaremill.com/figuring-out-scala-functional-programming-libraries-af8230efccb4
+https://github.com/oleg-py/better-monadic-for#define-implicits-in-for-comprehensions-or-matches
+https://timwspence.github.io/cats-stm/index.html
+https://tpolecat.github.io/doobie/docs/04-Selecting.html
+https://typelevel.org/cats-mtl/getting-started.html
+https://www.baeldung.com/scala/monocle-optics
+https://jmcardon.github.io/tsec/docs/http4s-auth.html
 
 0_:::HASKELL:::
 https://mmhaskell.com/liftoff
@@ -1112,6 +1307,12 @@ https://community.cloud.databricks.com/login.html
 https://underscore.io/blog/posts/2018/03/20/fs2.html
 https://www.beyondthelines.net/programming/streaming-patterns-with-fs2/
 https://www.freecodecamp.org/news/a-streaming-library-with-a-superpower-fs2-and-functional-programming-6f602079f70a/
+https://devon-miller.gitbook.io/test_private_book/sstream_model
+https://stackoverflow.com/questions/63402330/why-does-merging-with-empty-fs2-stream-change-programs-behavior
+https://www.reddit.com/r/scala/comments/td4dvd/fs2_stream_doesnt_work_as_i_expect_it_to/?rdt=51625
+https://speakerdeck.com/mpilquist/compositional-streaming-with-fs2
+https://impurepics.com/posts/2018-09-30-fs2-concurrency.html
+https://blog.rockthejvm.com/fs2/
 
 Books:
 
@@ -1125,6 +1326,46 @@ https://blog.knoldus.com/akka-streams-streaming-done-right/
 https://dzone.com/articles/comparing-akka-streams-kafka-streams-and-spark-str
 
 0_:::NO_SQL:::
+Nosql ogolnie,
+https://www.datastax.com/what-is/nosql
+https://www.baeldung.com/mongodb-vs-couchbase
+https://www.scaler.com/topics/couchbase-vs-mongodb/
+https://www.todaysoftmag.com/article/1506/introduction-to-couchbase-nosql-document-database
+https://db-engines.com/en/system/Couchbase%3BScyllaDB
+https://hackolade.com/help/Query-drivendatamodelingbasedona.html
+https://hackolade.com/help/MongoDB.html
+https://hackolade.com/help/Couchbase.html
+https://hackolade.com/help/Cassandra.html
+https://hackolade.com/help/ScyllaDB.html
+https://hevodata.com/learn/nosql-data-replication/
+https://www.toptal.com/database/the-definitive-guide-to-nosql-databases
+https://www.quora.com/How-do-I-check-for-duplicate-data-in-NoSQL-db
+https://www.quora.com/Data-replication-from-RDBMS-to-NOSQL-has-been-challenging-In-what-ways-can-we-replicate-data-from-any-RDBMS-to-NOSQL
+https://hackernoon.com/why-adopting-nosql-is-difficult-for-beginners-511659fb79d9
+https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/
+https://www.techighness.com/post/no-sql-data-modeling-1-to-1-1-to-many-many-to-many/
+https://www.techighness.com/post/nosql-many-to-many-bound-unbound-associative-examples/
+https://www.mongodb.com/blog/post/6-rules-of-thumb-for-mongodb-schema-design
+https://www.geeksforgeeks.org/secondary-indexing-in-databases/
+Embedding vs linking relationships,
+https://info.couchbase.com/rs/302-GJY-034/images/Relational_NoSQL_GetStarted.pdf
+https://medium.com/geekculture/mongodb-relationships-embedding-vs-linking-pro-and-cons-5f7583e655ab
+https://rspacesamuel.medium.com/nosql-modeling-considerations-b47f4e723e70
+https://stackoverflow.com/questions/26891484/mongodb-children-and-parent-structure
+https://stackoverflow.com/questions/21095809/links-vs-references-in-document-databases
+https://www.couchbase.com/blog/data-migration-from-oracle-to-couchbase/
+https://stackoverflow.com/questions/56400575/how-to-retrieve-the-child-of-the-parent-in-n1ql-query
+https://www.couchbase.com/blog/data-modelling-when-embed-or-refer/
+https://www.couchbase.com/blog/three-things-know-about-document-database-modelling-part-1/
+https://www.couchbase.com/blog/json-data-modeling-rdbms-users/
+https://www.couchbase.com/blog/a-json-data-modeling-guide/
+https://www.couchbase.com/blog/user-profile-store-advanced-data-modeling/
+https://www.openmymind.net/Multiple-Collections-Versus-Embedded-Documents/#1
+https://stackoverflow.com/questions/5373198/mongodb-relationships-embed-or-reference
+https://www.youtube.com/watch?v=FZ1nH7MDEvA
+https://www.youtube.com/watch?v=Hdi1awDJi3Q
+https://www.youtube.com/watch?v=ZDTGukrEj4k
+https://www.youtube.com/watch?v=zoZW0tM6hwU
 NoSQL pros and cons,
 https://www.mongodb.com/scale/nosql-databases-pros-and-cons
 https://stackoverflow.com/questions/5244437/pros-and-cons-of-mongodb
@@ -1133,14 +1374,186 @@ https://stackoverflow.com/questions/3342497/explanation-of-base-terminology
 NoSQL vs SQL,
 https://www.guru99.com/sql-vs-nosql.html
 https://www.bmc.com/blogs/sql-vs-nosql/
-Cassandra,
-mongoDb,
+Nosql duplicates changes,
+https://stackoverflow.com/questions/29329409/best-practices-to-update-asynchronously-duplicated-data-in-mongodb
+https://stackoverflow.com/questions/9537034/how-to-handle-changes-in-duplicated-data-in-nosql
+https://stackoverflow.com/questions/4010032/too-much-data-duplication-in-mongodb
+:Cassandra
+Cassandra ogolnie,
+https://cdn.sanity.io/files/bbnkhnhl/production/ac9c39a40cbdbe961577f9c4a94679ef234a5b1d.pdf
+https://www.guru99.com/cassandra-architecture.html
+https://docs.datastax.com/en/cassandra-oss/3.0/cassandra/architecture/archIntro.html
+https://docs.datastax.com/en/cassandra-oss/3.0/cassandra/dml/dmlHowDataWritten.html
+https://www.guru99.com/cassandra-tutorial.html
+https://stackoverflow.com/questions/60464009/how-cassandra-stores-the-column-data-on-disk
+https://dba.stackexchange.com/questions/322953/how-is-cassandra-data-stored-physically-on-disk
+https://data-flair.training/blogs/cassandra-architecture/
+https://www.simplilearn.com/tutorials/big-data-tutorial/cassandra-data-model
+https://thelastpickle.com/blog/2020/11/25/impacts-of-many-tables-on-cassandra.html
+https://www.datastax.com/what-is/cassandra
+https://viblo.asia/p/basic-data-modeling-with-cassandra-XQZGxogbvwA
+https://www.slideshare.net/edanuff/indexing-in-cassandra
+https://www.slideshare.net/carlyeks/cassandra-materialized-views
+https://dba.stackexchange.com/questions/320094/how-do-i-keep-data-in-denormalized-cassandra-tables-in-sync
+https://www.freecodecamp.org/news/the-apache-cassandra-beginner-tutorial/
+https://stackoverflow.com/questions/27281536/cassandra-denormalization-datamodel/27282905#27282905
+https://www.datastax.com/blog/introduction-to-apache-cassandra-the-lamborghini-of-the-nosql-world
+https://www.slideshare.net/nkorla1share/cass-summit-3
+Indexes,
+https://docs.datastax.com/en/dse/6.7/cql/cql/cql_using/useSecondaryIndex.html
+https://docs.datastax.com/en/dse/6.7/cql/cql/cql_using/useWhenIndex.html
+https://docs.datastax.com/en/dse/6.7/cql/cql/cql_using/useMultIndexes.html
+https://stackoverflow.com/questions/48734670/sasi-index-in-cassandra-and-how-it-differs-from-normal-indexing
+https://www.datastax.com/dev/cassandra-indexing
+https://pantheon.io/blog/cassandra-scale-problem-secondary-indexes
+https://batey.info/cassandra-sasi.html
+https://stackoverflow.com/questions/58685581/cassandra-secondary-index-vs-another-table
+https://stackoverflow.com/questions/61944845/why-secondary-indexes-are-less-efficient-in-cassandra
+https://www.baeldung.com/cassandra-secondary-indexes
+https://www.geeksforgeeks.org/secondary-indexes-on-map-collection-in-cassandra/
+https://anant.us/blog/events/apache-cassandra-lunch-57-using-secondary-indexes-in-cassandra/
+https://blog.knoldus.com/indexes-in-cassandra/
+Materialized views,
+https://docs.datastax.com/en/cql-oss/3.x/cql/cql_using/useCreateMV.html
+https://docs.datastax.com/en/cql-oss/3.3/cql/cql_using/useOverviewMV.html
+https://www.geeksforgeeks.org/materialized-views-in-cassandra/
+https://opencredo.com/blogs/everything-need-know-cassandra-materialized-views/
+https://blog.softwaremill.com/what-is-wrong-with-apache-cassandra-materialized-views-a7a25431dad
+https://docs.datastax.com/en/cql-oss/3.3/cql/cql_using/useCreateMV.html
+https://docs.datastax.com/en/cql-oss/3.3/cql/cql_using/knownLimitationsMV.html
+https://docs.datastax.com/en/cql-oss/3.3/cql/cql_using/understandMV.html
+Timeuuid,
+https://docs.datastax.com/en/cql-oss/3.3/cql/cql_reference/uuid_type_r.html
+https://stackoverflow.com/questions/17945677/cassandra-uuid-vs-timeuuid-benefits-and-disadvantages
+https://stackoverflow.com/questions/16084573/cassandra-generate-a-unique-id
+https://stackoverflow.com/questions/3935915/how-to-create-auto-increment-ids-in-cassandra
+https://stackoverflow.com/questions/16084573/cassandra-generate-a-unique-id/16085168#16085168
+https://stackoverflow.com/questions/49741745/how-to-select-data-in-cassandra-either-by-id-or-date
+https://stackoverflow.com/questions/23660397/cassandra-batch-operations-unique-id
+https://github.com/apache/cassandra/blob/cassandra-2.1/src/java/org/apache/cassandra/utils/UUIDGen.java
+https://stackoverflow.com/questions/24952066/how-to-generate-timeuuid-in-java-scala
+Batch and LWT,
+https://docs.datastax.com/en/archived/cql/3.3/cql/cql_reference/cqlBatch.html
+https://docs.datastax.com/en/archived/cql/3.3/cql/cql_using/useBatchGoodExample.html
+https://docs.datastax.com/en/archived/cql/3.3/cql/cql_using/useBatchBadExample.html
+https://docs.datastax.com/en/cql/dse/docs/reference/cql-commands/batch.html
+https://stackoverflow.com/questions/42929928/cassandra-batch-query-performance-on-tables-having-different-partition-keys
+https://docs.datastax.com/en/archived/cql/3.1/cql/cql_using/useBatch.html
+https://foundev.medium.com/cassandra-batch-loading-without-the-batch-keyword-40f00e35e23e#.npmx2cnsq
+https://www.baeldung.com/java-cql-cassandra-batch
+https://stackoverflow.com/questions/40996347/cassandra-batch-with-conditions-cannot-span-multiple-tables
+https://stackoverflow.com/questions/70940525/cassandra-insert-update-if-not-exists-or-field-value
+https://stackoverflow.com/questions/42929928/cassandra-batch-query-performance-on-tables-having-different-partition-keys/42946757#42946757
+https://stackoverflow.com/questions/42930498/cassandra-batch-query-vs-single-insert-performance/42947125#42947125
+https://stackoverflow.com/questions/39121092/how-single-partition-batch-in-cassandra-function-for-multiple-column-update
+https://stackoverflow.com/questions/49356986/cassandra-batch-statement-multiple-tables
+https://stackoverflow.com/questions/29909050/cassandra-batches-with-if-not-exists-condition
+https://stackoverflow.com/questions/27549437/cassandra-throws-bad-request-batch-with-conditions-cannot-span-multiple-tables
+https://stackoverflow.com/questions/34043564/batch-update-cassandra-with-lightweight-transaction
+https://docs.datastax.com/en/archived/cassandra/3.0/cassandra/dml/dmlLtwtTransactions.html
+https://www.datastax.com/blog/lightweight-transactions-cassandra-20
+Locking,
+https://stackoverflow.com/questions/45126146/cassandra-as-distributed-lock
+https://stackoverflow.com/questions/43975775/cassandra-write-lock
+https://stackoverflow.com/questions/35026198/row-level-locking-in-cassandra
+https://stackoverflow.com/questions/18446555/cassandra-row-level-locking-support-with-datastax-driver
+Rozne,
+https://stackoverflow.com/questions/75014514/cassandra-execution-order-of-insert-statements-in-a-batch-request
+https://docs.datastax.com/en/dev-app-drivers/docs/developing/synchronous-asynchronous.html
+https://stackoverflow.com/questions/43559589/why-is-my-cassandra-prepared-statement-ingest-of-data-so-slow/43559741#43559741
+https://stackoverflow.com/questions/30158246/how-to-run-asynchronous-queries-with-spring
+https://stackoverflow.com/questions/31571069/what-is-meaning-of-first-byte-of-the-hash-modulo-four
+https://stackoverflow.com/questions/17711240/cql-3-cassandra-1-2-counter-how-to-insert-primary-key
+https://blog.knoldus.com/cassandra-counter-column-and-table/
+https://stackoverflow.com/questions/16532227/difference-between-update-and-insert-in-cassandra
+https://stackoverflow.com/questions/41901797/insert-dummy-data-to-cassandra-counter-table
+https://stackoverflow.com/questions/43961209/cassandra-make-counter-update-and-normal-update-atomic
+https://stackoverflow.com/questions/19623432/how-to-get-current-timestamp-with-cql-while-using-command-line
+https://stackoverflow.com/questions/26999098/is-the-in-relation-in-cassandra-bad-for-queries
+https://stackoverflow.com/questions/18498445/how-to-perform-not-in-filter-in-cql3-query-select
+https://stackoverflow.com/questions/30388311/cassandra-selecting-a-range-of-timeuuids-using-the-datastax-java-driver
+https://stackoverflow.com/questions/19104629/selecting-timeuuid-columns-corresponding-to-a-specific-date
+https://docs.datastax.com/en/cql-oss/3.3/cql/cql_using/useToken.html
+https://stackoverflow.com/questions/41808393/cassandra-select-query-with-token-function
+https://stackoverflow.com/questions/39839133/understanding-the-token-function-in-cassandra
+https://www.bmc.com/blogs/cassandra-tokens/
+https://stackoverflow.com/questions/23625481/paging-resultsets-in-cassandra-with-compound-primary-keys-missing-out-on-rows
+https://stackoverflow.com/questions/52946935/caasandra-primary-key-column-user-cannot-be-restricted-as-preceding-column-ev
+https://stackoverflow.com/questions/28565470/cassandra-primary-key-column-cannot-be-restricted
+https://www.datastax.com/blog/improvements-driver-side-cassandra-20
+https://www.baeldung.com/cassandra-keys
+https://opensource.com/article/20/5/apache-cassandra
+https://user.cassandra.apache.narkive.com/dQaOLy2L/best-practices-for-time-series-data-with-massive-amounts-of-records
+https://stackoverflow.com/questions/33555228/batch-with-conditions-cannot-span-multiple-partitions
+https://stackoverflow.com/questions/34422515/cassandra-error-clustering-column-cannot-be-restricted-preceding-column-is-re
+https://stackoverflow.com/questions/43770816/cassandra-error-clustering-column-domain-cannot-be-restricted-preceding-colu
+https://stackoverflow.com/questions/49285276/clustering-column-status-cannot-be-restricted-preceding-column-datetime-is
+https://stackoverflow.com/questions/30418185/order-by-any-field-in-cassandra
+https://planetcassandra.org/post/acid-transactions-change-the-game-for-cassandra-developers/
+https://www.linkedin.com/advice/1/how-do-you-handle-conflicts-reconciliations-cassandras
+https://www.linkedin.com/advice/0/how-can-you-ensure-data-consistency-apache-cassandra-9xn7c
+https://blog.softwaremill.com/7-mistakes-when-using-apache-cassandra-51d2cf6df519
+https://docs-previous.pega.com/decision-management/87/repairing-and-cleaning-cassandra-nodes-data-consistency
+https://docs.datastax.com/en/cassandra-oss/3.x/cassandra/dml/dmlClientRequestsRead.html
+https://docs.datastax.com/en/cassandra-oss/3.x/cassandra/dml/dmlClientRequestsWrite.html
+https://stackoverflow.com/questions/73093622/how-does-cassandra-handle-inconsistencies-between-two-replicas
+:Couchbase
+https://docs.informatica.com/integration-cloud/data-integration-connectors/current-version/couchbase-connector/mappings-and-mapping-tasks-with-couchbase/partitioning.html
+https://docs.informatica.com/integration-cloud/data-integration-connectors/current-version/couchbase-connector/mappings-and-mapping-tasks-with-couchbase/partitioning/passthrough-partitioning.html
+https://docs.informatica.com/integration-cloud/data-integration-connectors/current-version/couchbase-connector/mappings-and-mapping-tasks-with-couchbase/partitioning/key-range-partitioning.html
+https://docs.huihoo.com/couchbase/developer-guide/dev-guide-3.0/partition-data.html
+https://docs.huihoo.com/couchbase/developer-guide/dev-guide-3.0/keys-values.html
+https://docs.huihoo.com/couchbase/developer-guide/dev-guide-3.0/buckets.html
+https://docs.huihoo.com/couchbase/developer-guide/dev-guide-3.0/sharding.html
+https://www.couchbase.com/blog/how-to-use-global-secondary-index-partitioning-for-more-than-partitions/
+https://docs.couchbase.com/cloud/n1ql/n1ql-language-reference/index-partitioning.html
+https://docs.huihoo.com/couchbase/developer-guide/dev-guide-3.0/views.html
+https://docs.huihoo.com/couchbase/developer-guide/dev-guide-3.0/sync-async-transactions.html
+https://docs.huihoo.com/couchbase/developer-guide/dev-guide-3.0/transactional-logic.html
+https://docs.huihoo.com/couchbase/developer-guide/dev-guide-3.0/app-performance.html
+https://docs.huihoo.com/couchbase/developer-guide/dev-guide-3.0/replica-read-functions.html
+https://docs.couchbase.com/cloud/clusters/data-service/about-buckets-scopes-collections.html
+https://docs.couchbase.com/cloud/clusters/data-service/manage-buckets.html
+https://docs.couchbase.com/server/current/learn/buckets-memory-and-storage/storage-engines.html
+https://docs.couchbase.com/server/current/learn/data/document-data-model.html
+https://docs.couchbase.com/server/current/learn/data/scopes-and-collections.html
+https://docs.couchbase.com/server/current/learn/services-and-indexes/indexes/indexes.html
+https://docs.couchbase.com/server/current/learn/data/durability.html
+https://docs.couchbase.com/server/current/learn/buckets-memory-and-storage/storage-settings.html#threading
+https://docs.couchbase.com/server/current/learn/buckets-memory-and-storage/memory.html
+https://docs.couchbase.com/server/current/learn/clusters-and-availability/rebalance.html
+https://www.couchbase.com/blog/transactional-databases/
+https://docs.couchbase.com/java-sdk/current/howtos/concurrent-document-mutations.html
+https://www.couchbase.com/blog/distributed-multi-document-acid-transactions/
+https://docs.couchbase.com/server/current/learn/architecture-overview.html
+https://docs.couchbase.com/server/current/learn/services-and-indexes/services/services.html
+https://docs.couchbase.com/server/current/learn/architecture-diagrams.html
+https://info.couchbase.com/rs/302-GJY-034/images/Capella_Architecture_Overview.pdf
+https://intranet.icar.cnr.it/wp-content/uploads/2018/06/RT-ICAR-PA-2018-02.pdf
+https://dzone.com/articles/couchbase-architecture-deep
+:MongoDb
+https://www.geeksforgeeks.org/mongodb-architecture/
+https://intellipaat.com/blog/what-is-mongodb/
+https://medium.com/techieahead/mongodb-architecture-and-characteristics-32a3798c2b49
+https://s3.amazonaws.com/info-mongodb-com/MongoDB_Architecture_Guide.pdf
+https://towardsdatascience.com/databases-an-overview-97c54628b824
 https://www.guru99.com/what-is-mongodb.html
 https://docs.mongodb.com/manual/applications/data-models-relationships/
 https://stackoverflow.com/questions/5373198/mongodb-relationships-embed-or-reference
 https://docs.mongodb.com/manual/reference/method/db.collection.aggregate/
 https://docs.mongodb.com/manual/aggregation/
 https://www.compose.com/articles/aggregations-in-mongodb-by-example/
+Sharding,
+https://www.mongodb.com/docs/manual/core/hashed-sharding/
+https://www.mongodb.com/docs/v3.4/core/ranged-sharding/
+https://www.mongodb.com/docs/manual/tutorial/manage-shard-zone/
+https://groups.google.com/g/mongodb-user/c/D7ywikq8q4U
+https://www.mongodb.com/blog/post/sharding-pitfalls-part-i
+https://www.slideshare.net/MyDBOPS/evolution-of-monogdb-sharding-and-its-best-practices-ranjith-a-mydbops-team
+https://learnmongodbthehardway.com/schema/sharding/
+https://www.slideshare.net/mongodb/1-introduction20to20-sharding-shaun-verch
+https://www.slideshare.net/rick446/scaling-withmongodb
+https://www.slideshare.net/MyDBOPS/scaling-mongodb-with-horizontal-and-vertical-sharding
 
 
 0_:::SIECI:::
@@ -1158,6 +1571,22 @@ DNS,
 https://ns1.com/resources/dns-protocol
 https://www.cloudflare.com/learning/dns/what-is-dns/
 https://www.javatpoint.com/computer-network-dns
+GRPC,
+https://konghq.com/learning-center/api-management/what-is-grpc
+https://medium.com/@sankar.p/how-grpc-convinced-me-to-chose-it-over-rest-30408bf42794
+https://blog.dreamfactory.com/grpc-vs-rest-how-does-grpc-compare-with-traditional-rest-apis/
+https://www.altexsoft.com/blog/what-is-grpc/
+https://nordicapis.com/rest-vs-grpc-advantages-and-disadvantages/
+https://protobuf.dev/overview/
+Thrift,
+https://github.com/apache/thrift
+https://www.baeldung.com/apache-thrift
+https://stackshare.io/stackups/apache-thrift-vs-grpc
+https://medium.com/@justinzhou.web3/thrift-vs-grpc-a-comprehensive-comparison-of-two-popular-rpc-frameworks-6d46d3a053f1#:~:text=Both%20Thrift%20and%20gRPC%20generate,codebases%20and%20slower%20compile%20times.
+https://medium.com/devglossary/what-is-apache-thrift-is-it-the-same-as-grpc-2562dba125b0
+https://www.alluxio.io/blog/moving-from-apache-thrift-to-grpc-a-perspective-from-alluxio/
+https://levelup.gitconnected.com/why-use-grpc-and-thrift-for-remote-procedure-calls-a4627a9abe6
+https://www.reddit.com/r/RedditEng/comments/xivl8d/leveling_up_reddits_core_the_transition_from/?rdt=52604
 Rozne,
 https://dlainformatyka.blogspot.com/2018/05/polecenie-netstat.html
 
@@ -1236,6 +1665,13 @@ https://thenewstack.io/docker-station-part-one-essential-docker-concepts-tools-t
 https://www.tutorialspoint.com/docker/docker_containers.htm
 https://searchitoperations.techtarget.com/definition/Docker-image
 Kubernetes,
+https://faun.pub/the-difference-between-liveness-readiness-and-startup-probes-781bd3141079
+https://www.okteto.com/blog/kubernetes-basics/
+https://spacelift.io/blog/kubernetes-tutorial
+https://www.educative.io/blog/kubernetes-deployments-pods-services
+https://www.vmware.com/topics/glossary/content/kubernetes-services.html
+https://www.vmware.com/topics/glossary/content/kubernetes-deployment.html
+https://istio.io/latest/about/service-mesh/
 Azure,
 AWS,
 https://www.javatpoint.com/aws-global-infrastructure
@@ -1252,6 +1688,20 @@ https://bluexp.netapp.com/blog/aws-cvo-blg-aws-ecs-vs-eks-6-key-differences
 https://www.justaftermidnight247.com/insights/ebs-efs-and-s3-when-to-use-awss-three-storage-solutions/
 https://cloudteam.pl/sciezki/aws-certified-solutions-architect-associate/
 https://lepczynski.it/aws/jak-zdalem-egzamin-aws-certified-solutions-architect-associate-porady-ktore-pomagaja-zdac/
+Metrics,
+https://prometheus.io/docs/concepts/metric_types/
+https://www.timescale.com/blog/four-types-prometheus-metrics-to-collect/
+https://www.timescale.com/blog/a-deep-dive-into-open-telemetry-metrics/
+https://www.timescale.com/blog/prometheus-vs-opentelemetry-metrics-a-complete-guide/
+https://scalac.io/blog/opentelemetry-from-a-birds-eye-view-a-few-noteworthy-parts-of-the-project/
+https://ivan-kurchenko.medium.com/telemetry-with-scala-part-1-opentelemetry-758c72a136e7
+https://ivan-kurchenko.medium.com/telemetry-with-scala-part-2-kamon-5295dd9e3a1
+https://ivan-kurchenko.medium.com/telemetry-with-scala-part-3-otel4s-c5c150303164
+https://dzone.com/refcardz/getting-started-with-opentelemetry
+https://github.com/IvannKurchenko/blog-telemetry/tree/main/otel4s/src/main
+https://github.com/typelevel/otel4s/tree/main/examples/src/main/scala
+https://github.com/IvannKurchenko/blog-telemetry/blob/main/blog/3_OTEL4S.md
+https://codeblog.dotsandbrackets.com/scraping-application-metrics-prometheus/
 
 Rozne,
 https://www.baeldung.com/cs/virtualization-vs-containerization
@@ -1333,7 +1783,30 @@ https://forums.mysql.com/read.php?115,647656,647656
 https://stackoverflow.com/questions/2726657/inner-join-vs-left-join-performance-in-sql-server
 https://pl.wikipedia.org/wiki/Posta%C4%87_normalna_(bazy_danych)
 https://stackoverflow.com/questions/3861558/what-are-the-benefits-of-using-database-cursor
-
+Sql distributed sharding,
+https://www.quora.com/What-is-the-difference-between-a-distributed-database-and-a-traditional-database-Are-distributed-databases-relational-or-not-What-are-the-advantages-and-disadvantages-of-distributed-databases-compared-to-traditional
+https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/understanding-partitioning-and-sharding-in-postgres-and-citus/ba-p/3891629
+https://pgdash.io/blog/postgres-11-sharding.html
+https://www.percona.com/blog/an-overview-of-sharding-in-postgresql-and-how-it-relates-to-mongodbs/
+https://postgrespro.com/blog/pgsql/5969681
+https://www.cockroachlabs.com/blog/sharding-bad-business/
+https://www.cockroachlabs.com/blog/what-is-a-distributed-database/
+https://www.cockroachlabs.com/blog/cockroachdb-payments-system-architecture/
+https://www.cockroachlabs.com/blog/the-hot-content-problem-metadata-storage-for-media-streaming/
+https://www.cockroachlabs.com/blog/what-is-data-partitioning-and-how-to-do-it-right/
+https://www.cockroachlabs.com/blog/what-is-distributed-sql/
+Sql guidelines,
+https://www.cockroachlabs.com/blog/vertical-scaling-vs-horizontal-scaling/
+https://www.cockroachlabs.com/blog/limitations-of-postgres/
+https://www.cockroachlabs.com/blog/data-loss-prevention-during-outages-you-might-be-losing-data-without-knowing-it/
+https://www.cockroachlabs.com/blog/migrate-databases/
+https://www.cockroachlabs.com/blog/disaster-prevention-not-disaster-recovery/
+https://www.cockroachlabs.com/blog/how-to-update-database-schema/
+https://www.cockroachlabs.com/blog/sql-performance-best-practices/
+https://www.cockroachlabs.com/blog/5-reasons-to-build-multi-region-application-architecture/
+https://www.cockroachlabs.com/blog/document-store-vs-relational-database/
+https://www.cockroachlabs.com/blog/can-i-scale/
+https://www.cockroachlabs.com/blog/how-to-choose-db-index-keys/
 
 
 https://www.quora.com/What-is-a-good-book-on-implementing-a-Relational-Database
