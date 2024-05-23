@@ -327,3 +327,26 @@ kubernetes,
 terraform,
 jaka jest zaleznosc terraform na kubernetes,
 wirtualizacja vs konteneryzacja na przykladzie docker
+:::PMI:::
+kubernetes vs serverless
+rdd vs dataframe
+:::TT:::
+imie nazwiska osob zrob zeby byly imicjaly oddzielone kropka,
+podany plik csv, wyekstraktuj array z pewnej kolumny oblicz sume wszystkich wystapien i podaj max,
+spill, skew w sparku,
+optimization and debugging spark job,
+:::UBS:::
+iaac vs saac,
+j8 streams praktyczne,
+scala fp,
+pure function,
+rdd vs df vs ds,
+repartition vs colasce,
+typy indexow,
+normalizacja denormalizacja,
+currying,
+tailrec,
+window sql,
+lenses,
+jak zbudowac dsl,
+pagination in nosql (niezadane)

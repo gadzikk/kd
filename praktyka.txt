@@ -172,6 +172,14 @@ https://stackoverflow.com/questions/41771327/spark-dataframe-groupby-multiple-ti
 https://stackoverflow.com/questions/59841033/spark-scala-group-by-multiple-columns-with-aggregation-logic
 https://stackoverflow.com/questions/69897818/how-to-groupby-in-spark-using-two-columns-and-in-both-directions
 https://stackoverflow.com/questions/34954771/multiple-aggregate-operations-on-the-same-column-of-a-spark-dataframe?rq=1
+https://stackoverflow.com/questions/42561084/trying-to-use-map-on-a-spark-dataframe
+https://stackoverflow.com/questions/37949494/how-to-count-occurrences-of-each-distinct-value-for-every-column-in-a-dataframe
+https://stackoverflow.com/questions/52550420/pyspark-dataframe-count-elements-in-array-or-list
+https://stackoverflow.com/questions/44690174/spark-convert-column-of-string-to-an-array
+https://bigdataenthusiast.medium.com/apache-spark-explode-function-f8c0ef87452
+https://www.geeksforgeeks.org/convert-comma-separated-string-to-array-in-pyspark-dataframe/
+https://stackoverflow.com/questions/70738008/spark-scala-how-to-explode-a-column-into-multiple-rows-in-spark-scala
+https://stackoverflow.com/questions/70330940/spark-explode-in-scala-add-exploded-column-to-the-row
 
 :::scalaC:::
 https://stackoverflow.com/questions/34293113/how-to-properly-call-akka-http-client-for-multiple-10k-100k-requests/34297497#34297497
