@@ -350,3 +350,31 @@ window sql,
 lenses,
 jak zbudowac dsl,
 pagination in nosql (niezadane)
+:::MTRL:::
+scalability,
+metrics where collected,
+when fp is better than oop
+:::NIX:::
+implicit where it's loaded,
+is future a monad,
+executor context what it is,
+list implementation,
+foldleft implementation,
+fn call by name vs call by value what is the diffrence,
+:::CPG:::
+generics,
+functional interface,
+entity graph,
+native query,
+oracle procedure package,
+mvn bom,
+mvn dependencyMgmt
+:::VSA:::
+system design,
+biggest challenge,
+mistake you did at work,
+negative feedback and negative performance of employee,
+how do you deal with requirements changes,
+how do you take care about development of your skills,
+cooperation with PO,
+dream team

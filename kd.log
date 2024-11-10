@@ -392,6 +392,7 @@ http://tutorials.jenkov.com/java-concurrency/non-blocking-algorithms.html
 https://en.wikipedia.org/wiki/Cooperative_multitasking
 https://www.geeksforgeeks.org/difference-between-preemptive-and-cooperative-multitasking/
 https://stackoverflow.com/questions/55703365/what-is-the-difference-between-cooperative-multitasking-and-preemptive-multitask
+https://www.baeldung.com/java-threadlocal
 
 
 
@@ -591,7 +592,6 @@ https://docs.spring.io/spring-framework/docs/4.2.x/spring-framework-reference/ht
 https://javarevisited.blogspot.com/2012/11/difference-between-setter-injection-vs-constructor-injection-spring-framework.html#axzz6e4gAepjG
 https://stackoverflow.com/questions/17193365/what-in-the-world-are-spring-beans
 https://stackoverflow.com/questions/44475523/how-to-understand-bean-in-spring
-https://www.baeldung.com/java-threading-models
 https://www.baeldung.com/spring-framework-design-patterns
 https://www.e4developer.com/2018/03/30/introduction-to-concurrency-in-spring-boot/
 https://www.baeldung.com/spring-framework-design-patterns
@@ -599,7 +599,6 @@ https://springframework.guru/gang-of-four-design-patterns/proxy-pattern/
 https://dzone.com/articles/spring-and-threads-taskexecutor
 https://docs.spring.io/spring-framework/docs/4.0.x/spring-framework-reference/html/overview.html
 https://stackoverflow.com/questions/53579112/inject-list-of-all-beans-with-a-certain-interface/53579193
-https://www.baeldung.com/spring-framework-design-patterns
 https://medium.com/@s.sreejith/proxy-in-spring-e21ffbb2953a
 
 :Spring webflux-reactor
@@ -913,9 +912,11 @@ https://www.geeksforgeeks.org/scala-preconditionsassert-assume-require-ensuring/
 https://alvinalexander.com/scala/differences-java-thread-vs-scala-future/
 https://stackoverflow.com/questions/12519894/explain-some-scala-code-beginner
 https://stackoverflow.com/tags/scala/info
-https://blog.rockthejvm.com/scala-variance-positions/
 https://docs.scala-lang.org/scala3/book/types-adts-gadts.html
+https://blog.rockthejvm.com/scala-variance-positions/
 https://stackoverflow.com/questions/64780262/covariance-and-contravariance-in-scala
+https://code.likeagirl.io/scala-variances-covariance-contravariance-and-invariance-67cc0c4fdc84
+https://type-class.com/2017/07/13/covariant-and-contravariant-in-scala/
 https://blog.rockthejvm.com/semigroups-and-monoids-in-scala/
 https://alvinalexander.com/scala/sbt-how-to-compile-run-package-scala-project/
 https://alvinalexander.com/scala/how-use-fold-scala-option-some-none-syntax/
@@ -927,7 +928,6 @@ https://stackoverflow.com/questions/33074000/scala-string-vs
 https://stackoverflow.com/questions/31064753/how-to-pass-scala-array-into-scala-vararg-method
 https://www.baeldung.com/scala/string-comparison
 https://stackoverflow.com/questions/45531198/warnings-while-building-scala-spark-project-with-sbt
-https://type-class.com/2017/07/13/covariant-and-contravariant-in-scala/
 https://stackoverflow.com/questions/1320139/why-is-appending-to-a-list-bad
 https://stackoverflow.com/questions/24268388/scala-does-optionboolean-makes-sense
 
