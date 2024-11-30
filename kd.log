@@ -122,6 +122,7 @@ https://www.geeksforgeeks.org/hashmap-treemap-java
 https://www.geeksforgeeks.org/internal-working-of-arraylist-in-java
 https://javagoal.com/immutable-collection-in-java/
 https://stackoverflow.com/questions/3368830/how-to-name-factory-like-methods
+https://www.infoworld.com/article/2173838/how-to-copy-objects-in-java-shallow-copy-and-deep-copy.html
 
 https://www.geeksforgeeks.org/java
 https://www.journaldev.com/2366/core-java-interview-questions-and-answers
@@ -143,6 +144,11 @@ https://docs.oracle.com/en/java/javase/17/gctuning/garbage-first-g1-garbage-coll
 Metaspace,
 https://www.baeldung.com/java-permgen-metaspace
 https://www.geeksforgeeks.org/metaspace-in-java-8-with-examples/
+https://medium.com/@AlexanderObregon/introduction-to-javas-memory-model-heap-stack-and-metaspace-ceaeb565921c
+https://stackoverflow.com/questions/27131165/what-is-the-difference-between-permgen-and-metaspace
+https://stuefe.de/posts/metaspace/what-is-metaspace/
+https://www.linkedin.com/pulse/java-memory-permgen-vs-metaspace-incus-data-pty-ltd-drxbe
+https://stackoverflow.com/questions/8387989/where-are-static-methods-and-static-variables-stored-in-java
 Monitorowanie,
 https://www.google.com/search?client=firefox-b-d&q=JVisualVM
 https://blog.gceasy.io/2016/11/22/resolve-memory-leak/
@@ -370,6 +376,19 @@ https://www.baeldung.com/java-structured-concurrency
 https://www.davidvlijmincx.com/posts/loom/jep_428_structured_concurrency
 https://howtodoinjava.com/java/multi-threading/structured-concurrency
 https://www.infoq.com/news/2022/06/java-structured-concurrency
+Active Object,
+https://www.state-machine.com/active-object
+https://medium.com/@maheshmaddi92/5-1-active-object-a08cd62c638e
+https://medium.com/@nirajranasinghe/design-patterns-for-concurrent-programming-active-object-pattern-787075d25e83
+https://en.wikipedia.org/wiki/Active_object
+https://pl.wikipedia.org/wiki/Active_object
+https://java-design-patterns.com/patterns/active-object/#benefits-and-trade-offs-of-active-object-pattern
+https://java-design-patterns.com/patterns/active-object
+Work Stealing Pool,
+https://stackoverflow.com/questions/41337451/detailed-difference-between-java8-forkjoinpool-and-executors-newworkstealingpool
+https://www.javaguides.net/2024/06/java-executors-newworkstealingpool.html
+https://dzone.com/articles/diving-into-java-8s-newworkstealingpools
+https://www.baeldung.com/java-work-stealing
 Rodzaje Watkow,
 https://stackoverflow.com/questions/74639116/what-is-the-difference-between-green-threads-and-virtual-threads
 https://docs.oracle.com/en/java/javase/19/docs/api/java.base/java/lang/Thread.html
@@ -393,6 +412,7 @@ https://en.wikipedia.org/wiki/Cooperative_multitasking
 https://www.geeksforgeeks.org/difference-between-preemptive-and-cooperative-multitasking/
 https://stackoverflow.com/questions/55703365/what-is-the-difference-between-cooperative-multitasking-and-preemptive-multitask
 https://www.baeldung.com/java-threadlocal
+https://jenkov.com/tutorials/java-concurrency/threadlocal.html
 
 
 
@@ -453,11 +473,17 @@ https://docs.microsoft.com/en-us/azure/architecture/patterns/bulkhead
 https://stackoverflow.com/questions/30391809/what-is-bulkhead-pattern-used-by-hystrix
 https://akfpartners.com/growth-blog/bulkhead-pattern
 https://stackoverflow.com/questions/60990475/what-is-the-difference-between-a-circuit-breaker-and-a-bulkhead-pattern
+https://www.geeksforgeeks.org/bulkhead-pattern/
+https://dzone.com/articles/resilient-microservices-pattern-bulkhead-pattern
+https://badia-kharroubi.gitbooks.io/microservices-architecture/content/patterns/communication-patterns/bulkhead-pattern.html
+https://medium.com/@sivaramansankar2019/bulkhead-pattern-in-microservices-spring-boot-example-d82db2c0cc5
 https://www.vinsguru.com/rate-limiter-pattern/
 https://use-cases.org/2020/04/23/differences-between-rate-limiting-and-throttling/
 https://medium.com/@thisara.udaya/api-throttling-and-rate-limiting-4835ce901857
 https://membrane-soa.org/service-proxy-doc/4.2/rate-limiting.htm
 https://akfpartners.com/growth-blog/microservice-aggregator-pattern
+https://medium.com/nerd-for-tech/design-patterns-for-microservices-aggregator-pattern-99c122ac6b73
+https://medium.com/geekculture/design-patterns-for-microservices-aggregation-pattern-1b8994516fa2
 Transaction patterns,
 https://medium.com/swlh/handling-transactions-in-the-microservice-world-c77b275813e0
 https://developers.redhat.com/blog/2018/10/01/patterns-for-distributed-transactions-within-a-microservices-architecture/
@@ -468,6 +494,7 @@ https://dzone.com/articles/saga-pattern-how-to-implement-business-transaction-1
 https://github.com/berndruecker/trip-booking-saga-java/blob/master/src/main/java/io/flowing/trip/saga/camunda/springboot/TripBookingSaga.java
 https://medium.com/@ydorego/microservices-orchestration-vs-choreography-the-eternal-saga-d58c35e07d81
 https://blog.couchbase.com/saga-pattern-implement-business-transactions-using-microservices-part/
+https://java-design-patterns.com/patterns/saga/
 Two Phase Commit,
 https://stackoverflow.com/questions/7389382/two-phase-commit
 https://medium.com/@sauravomar01/2pc-two-phase-commit-protocol-4ba47e441cdf
@@ -519,6 +546,21 @@ Architektura Hexagonalna,
 https://www.jcommerce.pl/jpro/artykuly/porty-i-adaptery-w-praktyce
 https://blog.allegro.tech/2020/05/hexagonal-architecture-by-example.html
 https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749
+https://vaadin.com/blog/ddd-part-3-domain-driven-design-and-the-hexagonal-architecture
+https://www.reddit.com/r/golang/comments/ti8bmh/where_to_put_dtos_mappers_and_validators/
+https://www.professionalbeginner.com/the-dto-dilemma
+https://www.clurgo.com/en/blog/how-to-develop-software-more-flexibly-with-hexagonal-architecture
+https://medium.com/@skowron.dev/dive-deeper-with-ddd-hexagonal-architecture-in-symfony-33aa0424cc0f
+https://matthiasnoback.nl/2022/09/is-it-a-dto-or-a-value-object/
+https://stackoverflow.com/questions/31438286/ddd-which-layer-dto-should-be-implemented
+https://stackoverflow.com/questions/6986032/difference-between-value-object-pattern-and-data-transfer-pattern
+https://enterprisecraftsmanship.com/posts/dto-vs-value-object-vs-poco/
+https://stackoverflow.com/questions/72025894/list-differences-dto-vo-entity-domain-model
+https://www.nearshore-it.eu/technologies/using-hexagonal-architecture-ports-and-adapters-design-pattern/
+https://stackoverflow.com/questions/21554977/should-services-always-return-dtos-or-can-they-also-return-domain-models
+https://www.happycoders.eu/software-craftsmanship/hexagonal-architecture-java/
+https://tbuss.de/posts/2023/9-how-to-do-the-package-structure-in-a-ports-and-adapter-architecture/
+https://stackoverflow.com/questions/66971751/layers-in-hexagonal-architecture
 Scalability,
 https://searchdatacenter.techtarget.com/definition/scalability
 https://medium.com/@Pointnity_Network/three-dimensions-of-distributed-system-scalability-design-8e0319163c8d
@@ -543,7 +585,12 @@ testy E2E,
 
 junit5, assertJ, mockito
 
-TDD – podejscie, prons cons, praktyka
+testy ogolnie,
+https://www.softwaretestinghelp.com/junit-test-fixture-with-examples/
+https://www.browserstack.com/guide/smoke-testing
+https://www.techtarget.com/searchsoftwarequality/definition/smoke-testing
+https://www.globalapptesting.com/blog/the-ultimate-guide-to-smoke-testing
+https://www.geeksforgeeks.org/smoke-testing-software-testing/
 Piramida testow,
 http://www.agilenutshell.com/episodes/41-testing-pyramid
 https://www.baeldung.com/spring-test-pyramid-practical-example
@@ -576,6 +623,7 @@ narzedzia,
 https://hackernoon.com/5-courses-java-programmers-can-join-to-learn-junit-and-mockito-in-2019-h74t38r4
 https://www.softwaretestinghelp.com/performance-testing-tools-load-testing-tools/
 https://www.guru99.com/performance-testing-tools.html
+https://www.baeldung.com/rest-assured-tutorial
 
 book: tdd teoria, https://javarevisited.blogspot.com/2014/08/top-5-books-to-learn-unit-testing-junit-tdd-Java-programmers.htm
 
@@ -600,6 +648,14 @@ https://dzone.com/articles/spring-and-threads-taskexecutor
 https://docs.spring.io/spring-framework/docs/4.0.x/spring-framework-reference/html/overview.html
 https://stackoverflow.com/questions/53579112/inject-list-of-all-beans-with-a-certain-interface/53579193
 https://medium.com/@s.sreejith/proxy-in-spring-e21ffbb2953a
+https://www.baeldung.com/spring-events
+https://stackoverflow.com/questions/45884537/use-eventlistener-annotation-on-multiple-events-in-spring
+https://medium.com/@AlexanderObregon/handling-events-in-spring-with-eventlistener-bff2375bd413
+https://howtodoinjava.com/spring-core/how-to-publish-and-listen-application-events-in-spring/
+https://reflectoring.io/spring-boot-application-events-explained/
+https://www.baeldung.com/spring-context-events
+https://medium.com/hprog99/mastering-events-in-spring-boot-a-comprehensive-guide-86348f968fc6
+https://medium.com/@mohanakrishnakavali/different-request-parameters-in-spring-boot-rest-apis-8069abad47fd
 
 :Spring webflux-reactor
 https://stackoverflow.com/questions/45019486/threading-model-of-spring-webflux-and-reactor
@@ -673,12 +729,33 @@ https://www.infoq.com/news/2009/04/hateoas-restful-api-advantages/
 https://softwareengineering.stackexchange.com/questions/149124/what-is-the-benefit-of-hypermedia-hateoas
 https://medium.com/@andreasreiser94/why-hateoas-is-useless-and-what-that-means-for-rest-a65194471bc8
 https://varunpatil.me/blog/posts/hateoas/
+https://stackoverflow.blog/2021/10/06/best-practices-for-authentication-and-authorization-for-rest-apis/
+https://dzone.com/articles/four-most-used-rest-api-authentication-methods
+https://www.javajee.com/introduction-to-authentication-in-java-ee-applications
 RESTClient,
 HTTP (jak dziala, statusy, odpowiedzi, filtry, servlety),
 https://www.restapitutorial.com/httpstatuscodes.html
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
 https://pl.wikipedia.org/wiki/Hypertext_Transfer_Protocol
 https://stackoverflow.com/questions/18709834/http-status-424-or-500-for-error-on-external-dependency
+https://en.wikipedia.org/wiki/HTTP
+https://raw.githubusercontent.com/for-GET/http-decision-diagram/master/httpdd.fsm.png
+https://stackoverflow.com/questions/2342579/http-status-code-for-update-and-delete
+https://stackoverflow.com/questions/15839114/restful-soft-delete
+https://stackoverflow.com/questions/70192494/http-status-code-202-vs-200-for-a-post-request
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/DELETE
+https://medium.com/codenx/understanding-the-lesser-known-http-methods-head-options-trace-and-connect-af4311e63781
+https://stackoverflow.com/questions/61951373/use-case-of-options-trace-and-head-request-method
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/CONNECT
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/HEAD
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/OPTIONS
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/TRACE
+https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/HTTP-methods
+https://stackoverflow.com/questions/18709834/http-status-424-or-500-for-error-on-external-dependency
+https://security.stackexchange.com/questions/203396/whats-the-security-concern-of-browsers-using-the-http-connect-method
+https://serverfault.com/questions/185523/impact-of-http-connect-on-a-mandatory-web-proxy-policy
+https://stackoverflow.com/questions/11697943/when-should-one-use-connect-and-get-http-methods-at-http-proxy-server
+https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
 Webhooks,
 https://www.contentful.com/developers/docs/concepts/webhooks/
 https://hookdeck.com/webhooks/guides/when-to-use-webhooks#examples-of-sites-that-use-webhooks
@@ -1450,6 +1527,10 @@ https://dzone.com/articles/comparing-akka-streams-kafka-streams-and-spark-str
 0_:::NO_SQL:::
 Nosql ogolnie,
 https://www.datastax.com/what-is/nosql
+https://www.datastax.com/blog/relational-vs-nosql-when-should-I-use-one-over-the-other
+https://www.linkedin.com/advice/1/how-can-you-partition-data-document-based-nosql-nb1xc
+https://medium.com/@sudhakan/partitioning-in-nosql-databases-4adeb61a44a0
+https://www.dremio.com/wiki/network-partition/
 https://www.baeldung.com/mongodb-vs-couchbase
 https://www.scaler.com/topics/couchbase-vs-mongodb/
 https://www.todaysoftmag.com/article/1506/introduction-to-couchbase-nosql-document-database
@@ -1469,6 +1550,14 @@ https://www.techighness.com/post/no-sql-data-modeling-1-to-1-1-to-many-many-to-m
 https://www.techighness.com/post/nosql-many-to-many-bound-unbound-associative-examples/
 https://www.mongodb.com/blog/post/6-rules-of-thumb-for-mongodb-schema-design
 https://www.geeksforgeeks.org/secondary-indexing-in-databases/
+
+CAP Theorem BASE,
+https://www.ibm.com/topics/cap-theorem
+https://dgraph.io/blog/post/cap-theorem-partition-tolerance/
+https://www.scylladb.com/glossary/cap-theorem/
+https://medium.com/@ngneha090/understanding-the-cap-theorem-balancing-consistency-availability-and-partition-cb11c2b97e2b
+https://www.bmc.com/blogs/cap-theorem/
+https://en.wikipedia.org/wiki/Eventual_consistency
 Embedding vs linking relationships,
 https://info.couchbase.com/rs/302-GJY-034/images/Relational_NoSQL_GetStarted.pdf
 https://medium.com/geekculture/mongodb-relationships-embedding-vs-linking-pro-and-cons-5f7583e655ab
@@ -1502,6 +1591,7 @@ https://stackoverflow.com/questions/9537034/how-to-handle-changes-in-duplicated-
 https://stackoverflow.com/questions/4010032/too-much-data-duplication-in-mongodb
 :Cassandra
 Cassandra ogolnie,
+https://medium.com/@nikhiljain1203/why-cassandra-is-so-fast-5f069e33e362
 https://cdn.sanity.io/files/bbnkhnhl/production/ac9c39a40cbdbe961577f9c4a94679ef234a5b1d.pdf
 https://www.guru99.com/cassandra-architecture.html
 https://docs.datastax.com/en/cassandra-oss/3.0/cassandra/architecture/archIntro.html
@@ -1521,6 +1611,8 @@ https://www.freecodecamp.org/news/the-apache-cassandra-beginner-tutorial/
 https://stackoverflow.com/questions/27281536/cassandra-denormalization-datamodel/27282905#27282905
 https://www.datastax.com/blog/introduction-to-apache-cassandra-the-lamborghini-of-the-nosql-world
 https://www.slideshare.net/nkorla1share/cass-summit-3
+https://cassandra.apache.org/_/cassandra-basics.html
+https://www.ksolves.com/blog/big-data/apache-cassandra/uncover-the-inner-workings-of-apache-cassandra-an-architectural-exploration
 Indexes,
 https://docs.datastax.com/en/dse/6.7/cql/cql/cql_using/useSecondaryIndex.html
 https://docs.datastax.com/en/dse/6.7/cql/cql/cql_using/useWhenIndex.html
@@ -1758,6 +1850,7 @@ https://www.howtogeek.com/412055/37-important-linux-commands-you-should-know/
 Shell script tutorial
 
 0_:::ERROR EXCEPTIONS VALIDACJA:::
+https://stackoverflow.com/questions/7187302/what-is-serialversionuid-in-java-normally-in-exception-class
 Validacja backend,
 Validacja frontend,
 Validacja baza danych,
@@ -1774,9 +1867,87 @@ https://dzone.com/articles/four-most-used-rest-api-authentication-methods
 https://blog.restcase.com/4-most-used-rest-api-authentication-methods/
 https://www.csoonline.com/article/3216404/what-is-oauth-how-the-open-authorization-framework-works.html
 https://sekurak.pl/oauth-2-0-jak-dziala-jak-testowac-problemy-bezpieczenstwa/
+Asymetric encryption,
+https://stackoverflow.com/questions/3867019/what-are-the-merits-of-jks-vs-pkcs12-for-code-signing
+https://www.baeldung.com/java-keystore-truststore-difference
+https://crypto.stackexchange.com/questions/82135/difference-between-pem-vs-p12-vs-crt-vs-jks-vs-keystore-vs-pkcs-vs-x509-certific
+https://dev.to/manukam/pkcs12-b2m
+https://en.wikipedia.org/wiki/X.509
+https://colinpaice.blog/2021/03/18/pkcs11-pkcs12-cms-jks-p12-nss-which-type-of-keystore-should-i-use/
+https://senthilnayagan.medium.com/java-truststores-and-keystores-4cebd8bfb813
+http://blog.palominolabs.com/2011/10/18/java-2-way-tlsssl-client-certificates-and-pkcs12-vs-jks-keystores/index.html
+https://peoplesofttutorial.com/understanding-java-keystore-types/
+https://security.stackexchange.com/questions/183072/pem-cer-crt-p12-what-is-it-all-about
+https://comodosslstore.com/resources/a-ssl-certificate-file-extension-explanation-pem-pkcs7-der-and-pkcs12/
+https://sharif2008.wordpress.com/2017/08/27/difference-between-p12-pfx-vs-crt-cer-vs-pem-vs-der/
+https://serverfault.com/questions/984515/pkcs12-and-cer-relation
+https://stackoverflow.com/questions/75351338/pkcs1-vs-pkcs8-vs-pkcs12-for-rsa-keys
+https://stackoverflow.com/questions/48958304/pkcs1-and-pkcs8-format-for-rsa-private-key
+https://en.wikipedia.org/wiki/PKCS
+https://en.wikipedia.org/wiki/Padding_(cryptography)
+https://crypto.stackexchange.com/questions/9043/what-is-the-difference-between-pkcs5-padding-and-pkcs7-padding
+https://www.ibm.com/docs/en/zos/2.4.0?topic=rules-pkcs-padding-method
+https://stackoverflow.com/questions/61777208/what-is-the-difference-between-pkcs-v1-5-padding-and-pkcs-v2-1-padding
+TLS-SSL,
+https://www.cloudflare.com/learning/ssl/transport-layer-security-tls/
+https://www.cloudflare.com/learning/ssl/what-is-an-ssl-certificate/
+https://www.cloudflare.com/learning/access-management/what-is-mutual-tls/
+https://www.cloudflare.com/learning/ssl/what-is-ssl/
+https://www.cloudflare.com/learning/ssl/what-is-https/
+https://dzone.com/articles/ssl-in-java
+https://jchost.pl/blog/tls/
+https://www.digicert.com/what-is-ssl-tls-and-https
+https://aws.amazon.com/compare/the-difference-between-ssl-and-tls/
+MLE,
+https://developer.visa.com/pages/encryption_guide
+https://help.hcl-software.com/bigfix/10.0/platform/Platform/Config/c_message_level_encryption__mle_.html
 Rodzaje autoryzacji,
-Metody enkrypcji,
-Metody enkodowania,
+Encryption,
+https://medium.com/@algoryne_44970/how-to-secure-your-rest-api-with-rsa-and-aes-encryption-13f269a6952e
+https://develop.hsbc.com/knowledge-article/api-security-hsbc
+https://developer.mastercard.com/platform/documentation/authentication/securing-sensitive-data-using-payload-encryption/
+https://www.javacodegeeks.com/2024/04/a-guide-to-encryption-and-decryption-in-java.html
+https://stackoverflow.com/questions/1205135/how-to-encrypt-string-in-java
+https://www.geeksforgeeks.org/ecb-mode-vs-cbc-mode-in-cryptography/
+https://www.geeksforgeeks.org/block-cipher-modes-of-operation/
+https://www.geeksforgeeks.org/electronic-code-book-ecb-in-cryptography/
+https://www.techtarget.com/searchsecurity/definition/cipher-block-chaining
+https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation
+https://www.sciencedirect.com/topics/mathematics/cipher-block-chaining#:~:text=Block%20Chaining%20(CBC)-,Cipher%20Block%20Chaining%20(CBC)%20mode%20is%20a%20block%20mode%20of,This%20%E2%80%9Cchaining%E2%80%9D%20destroys%20patterns.
+https://eitca.org/cybersecurity/eitc-is-ccf-classical-cryptography-fundamentals/applications-of-block-ciphers/modes-of-operation-for-block-ciphers/examination-review-modes-of-operation-for-block-ciphers/what-role-does-the-initialization-vector-iv-play-in-cipher-block-chaining-cbc-mode-and-how-does-it-enhance-security/
+https://docs.oracle.com/javase/8/docs/api/index.html?javax/crypto/spec/IvParameterSpec.html
+https://www.veracode.com/blog/research/encryption-and-decryption-java-cryptography
+https://stackoverflow.com/questions/6126061/pbekeyspec-what-do-the-iterationcount-and-keylength-parameters-influence
+https://www.aspencrypt.com/crypto101_terminology.html
+https://www.aspencrypt.com/crypto101_symmetric.html
+https://www.aspencrypt.com/crypto101_public.html
+https://www.aspencrypt.com/crypto101_certs.html
+https://www.aspencrypt.com/crypto101_smime.html
+https://docs.oracle.com/javase/7/docs/technotes/guides/security/StandardNames.html#Cipher
+https://stackoverflow.com/questions/20770072/aes-cbc-pkcs5padding-vs-aes-cbc-pkcs7padding-with-256-key-size-performance-java
+https://crypto.stackexchange.com/questions/9043/what-is-the-difference-between-pkcs5-padding-and-pkcs7-padding
+https://stackoverflow.com/questions/68376604/java-cipher-aes-cbc-pkcs5padding-with-32-bytes-keys
+https://stackoverflow.com/questions/66499175/aes-cbc-pkcs5padding-encryption-with-fixed-iv-or-without-one
+https://www.herongyang.com/Cryptography/DES-JDK-What-Is-PKCS5Padding.html
+Hashing,
+https://www.baeldung.com/sha-256-hashing-java
+https://hyperskill.org/learn/step/30833
+https://stackoverflow.com/questions/19467957/how-can-i-reverse-the-output-from-this-method
+https://www.aspencrypt.com/crypto101_hash.html
+https://forums.oracle.com/ords/apexds/post/can-i-reverse-messagedigest-digest-0251
+https://www.javatpoint.com/messagedigest-in-java
+https://stackoverflow.com/questions/24979557/complete-list-of-messagedigest-available-in-the-jdk
+https://gregorycernera.medium.com/generating-a-message-digest-with-java-explained-step-by-step-with-pictures-b9be6c6e5036
+https://en.wikipedia.org/wiki/Cryptographic_hash_function
+https://jenkov.com/tutorials/java-cryptography/messagedigest.html
+https://stackoverflow.com/questions/2329582/what-is-currently-the-most-secure-one-way-encryption-algorithm
+https://www.okta.com/identity-101/one-way-hash-function-dynamic-algorithms/
+https://jolynch.github.io/posts/use_fast_data_algorithms/
+https://github.com/ehp/blake3
+
+Encoding,
+https://www.javatpoint.com/types-of-encoding-techniques
+https://www.baeldung.com/java-char-encoding
 
 0_:::DEVOPS:::
 Docker,
@@ -1824,6 +1995,11 @@ https://github.com/IvannKurchenko/blog-telemetry/tree/main/otel4s/src/main
 https://github.com/typelevel/otel4s/tree/main/examples/src/main/scala
 https://github.com/IvannKurchenko/blog-telemetry/blob/main/blog/3_OTEL4S.md
 https://codeblog.dotsandbrackets.com/scraping-application-metrics-prometheus/
+https://chronosphere.io/learn/know-the-sre-fundamentals-differences-between-sli-vs-slo-vs-sla/
+https://apitoolkit.io/blog/monitor-api-slas-and-slos/
+https://www.atlassian.com/incident-management/kpis/sla-vs-slo-vs-sli
+https://mohitkr27.medium.com/understanding-sla-slo-sli-and-error-budgets-faf613063abd
+https://signoz.io/guides/slo-vs-sla/
 
 Rozne,
 https://www.baeldung.com/cs/virtualization-vs-containerization
@@ -1881,6 +2057,7 @@ lazy vs eager, rodzaje joinow, procedury projektu na studia, caching,
 https://en.wikipedia.org/wiki/ACID
 https://www.geeksforgeeks.org/acid-properties-in-dbms/
 https://www.bmc.com/blogs/acid-atomic-consistent-isolated-durable/
+https://www.databricks.com/glossary/acid-transactions
 https://www.oracletutorial.com/oracle-basics/oracle-not-exists/
 http://www.dba-oracle.com/t_tuning_where_not_exists_sql.htm
 https://www.techonthenet.com/postgresql/vacuum.php
@@ -1904,6 +2081,10 @@ https://www.sqlshack.com/design-sql-queries-better-performance-select-exists-vs-
 https://forums.mysql.com/read.php?115,647656,647656
 https://stackoverflow.com/questions/2726657/inner-join-vs-left-join-performance-in-sql-server
 https://pl.wikipedia.org/wiki/Posta%C4%87_normalna_(bazy_danych)
+https://medium.com/@ndleah/a-brief-guide-to-database-normalization-5ac59f093161
+https://learn.microsoft.com/en-us/office/troubleshoot/access/database-normalization-description
+https://www.freecodecamp.org/news/database-normalization-1nf-2nf-3nf-table-examples/
+https://www.geeksforgeeks.org/introduction-of-database-normalization/
 https://stackoverflow.com/questions/3861558/what-are-the-benefits-of-using-database-cursor
 Sql distributed sharding,
 https://www.quora.com/What-is-the-difference-between-a-distributed-database-and-a-traditional-database-Are-distributed-databases-relational-or-not-What-are-the-advantages-and-disadvantages-of-distributed-databases-compared-to-traditional
@@ -1944,8 +2125,11 @@ https://www.sisense.com/blog/8-ways-fine-tune-sql-queries-production-databases/
 https://medium.com/learning-sql/12-tips-for-optimizing-sql-queries-for-faster-performance-8c6c092d7af1
 https://blog.devart.com/how-to-optimize-sql-query.html
 https://www.geeksforgeeks.org/best-practices-for-sql-query-optimizations/
+https://dotnetauthorities.blogspot.com/2013/12/Microsoft-SQL-Server-Training-Online-Learning-Classes-INDEX-Overview-and-Optimizations.html
 Denormalization,
 https://www.geeksforgeeks.org/denormalization-in-databases/
+Rozne,
+https://serverfault.com/questions/36696/how-to-speed-up-adding-column-to-large-table-in-sql-server
 Examples,
 https://www.sqltutorial.org/
 
@@ -1969,6 +2153,11 @@ https://bartlomiejchmielewski.pl/rxjava/
 https://www.baeldung.com/rx-java
 https://projectreactor.io/docs/core/release/reference/
 https://www.baeldung.com/reactor-core
+https://www.reddit.com/r/javahelp/comments/jdzmks/what_are_the_challenges_with_mixing_reactive/
+https://medium.com/@basakabhijoy/reactive-spring-for-beginners-part-1-intro-controllers-8fb7b9d15c20
+https://spring.io/blog/2016/07/20/notes-on-reactive-programming-part-iii-a-simple-http-server-application
+https://medium.com/@bubu.tripathy/reactive-spring-boot-applications-62ec2fcfc05a
+https://stackoverflow.com/questions/69959369/is-it-possible-for-a-non-reactive-client-resttemplate-to-consume-a-reactive-re
 
 0_:::JAVASCRIPT:::
 a)plain js
@@ -2066,6 +2255,8 @@ https://syllabuskrk.agh.edu.pl/2018-2019/pl/magnesite/study_plans/niestacjonarne
 https://morethancoding.com/2011/05/22/the-programmer-pyramid/
 http://scala-poland.eu/companies/
 https://www.programcreek.com/scala/org.http4s.Uri
+https://www.cloudflare.com/learning/
+https://certificatetools.com/
 
 
 
