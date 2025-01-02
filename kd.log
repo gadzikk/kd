@@ -269,6 +269,7 @@ https://www.multisoftvirtualacademy.com/blog/common-advantages-and-disadvantages
 Concurrency vs Parallelism,
 https://www.geeksforgeeks.org/difference-between-concurrency-and-parallelism/
 https://www.baeldung.com/cs/concurrency-vs-parallelism
+https://luminousmen.com/post/concurrency-and-parallelism-are-different/
 Watki ogolnie,
 https://stackoverflow.com/questions/4315292/concurrency-processes-vs-threads
 https://www.geeksforgeeks.org/difference-between-process-and-thread/
@@ -376,6 +377,8 @@ https://www.baeldung.com/java-structured-concurrency
 https://www.davidvlijmincx.com/posts/loom/jep_428_structured_concurrency
 https://howtodoinjava.com/java/multi-threading/structured-concurrency
 https://www.infoq.com/news/2022/06/java-structured-concurrency
+Thread Pool,
+https://softwaremill.com/threadpools-executors-and-java/
 Active Object,
 https://www.state-machine.com/active-object
 https://medium.com/@maheshmaddi92/5-1-active-object-a08cd62c638e
@@ -389,6 +392,8 @@ https://stackoverflow.com/questions/41337451/detailed-difference-between-java8-f
 https://www.javaguides.net/2024/06/java-executors-newworkstealingpool.html
 https://dzone.com/articles/diving-into-java-8s-newworkstealingpools
 https://www.baeldung.com/java-work-stealing
+https://medium.com/swlh/work-stealing-distilled-d2ed86d3065d
+https://medium.com/@nathanbcrocker/building-a-multithreaded-work-stealing-task-scheduler-in-go-843861b878be
 Rodzaje Watkow,
 https://stackoverflow.com/questions/74639116/what-is-the-difference-between-green-threads-and-virtual-threads
 https://docs.oracle.com/en/java/javase/19/docs/api/java.base/java/lang/Thread.html
@@ -413,6 +418,10 @@ https://www.geeksforgeeks.org/difference-between-preemptive-and-cooperative-mult
 https://stackoverflow.com/questions/55703365/what-is-the-difference-between-cooperative-multitasking-and-preemptive-multitask
 https://www.baeldung.com/java-threadlocal
 https://jenkov.com/tutorials/java-concurrency/threadlocal.html
+https://www.baeldung.com/java-completablefuture
+https://docs.oracle.com/javase/8/docs/api/java/util/concurrent/CompletableFuture.html
+https://www.baeldung.com/java-future
+https://codecouple.pl/2018/04/06/completablefuture-dlaczego-po-co-jak/
 
 
 
@@ -503,6 +512,14 @@ Deployment patterns,
 https://microservices.io/patterns/
 https://dzone.com/articles/right-strategies-for-microservices-deployment
 https://www.nginx.com/blog/deploying-microservices/
+https://circleci.com/blog/canary-vs-blue-green-downtime/
+https://stackoverflow.com/questions/23746038/canary-release-strategy-vs-blue-green
+https://www.statsig.com/perspectives/blue-green-vs-canary-deployment
+https://semaphoreci.com/blog/deploy-microservices
+https://www.gleecus.com/blogs/how-to-deploy-microservices/
+https://dev.to/mquanit/deployment-approaches-in-microservices-37pb
+https://dennylesmana.medium.com/microservices-deployment-patterns-ca1343c89e13
+https://www.opslevel.com/resources/4-microservice-deployment-patterns-that-improve-availability
 Api gateway,
 https://medium.com/dev-genius/microservices-design-api-gateway-pattern-980e8d02bdd5
 https://microservices.io/patterns/apigateway.html
@@ -688,25 +705,30 @@ https://java2blog.com/difference-opensession-getcurrentsession-hibernate/
 https://www.javatpoint.com/jpa-vs-hibernate
 https://stackoverflow.com/questions/9881611/whats-the-difference-between-jpa-and-hibernate
 https://dzone.com/articles/what-is-the-difference-between-hibernate-and-sprin-1
-n+1 problem,
+N+1 problem,
 https://stackoverflow.com/questions/97197/what-is-the-n1-selects-problem-in-orm-object-relational-mapping
 https://stackoverflow.com/questions/6838574/difference-between-left-join-and-left-join-fetch-in-hibernate
 https://stackoverflow.com/questions/49118193/hibernate-left-join-fetch-with-multiple-columns-for-the-join
 https://stackoverflow.com/questions/17431312/what-is-the-difference-between-join-and-join-fetch-when-using-jpa-and-hibernate
-lazy initalization exception,
+Lazy initalization exception,
 https://thorben-janssen.com/lazyinitializationexception/
 https://vladmihalcea.com/the-best-way-to-handle-the-lazyinitializationexception/
 https://www.baeldung.com/hibernate-initialize-proxy-exception
 https://stackoverflow.com/questions/21574236/how-to-fix-org-hibernate-lazyinitializationexception-could-not-initialize-prox
-inheritance w hibernate,
+Inheritance w hibernate,
 https://thorben-janssen.com/complete-guide-inheritance-strategies-jpa-hibernate/
 https://www.baeldung.com/hibernate-inheritance
 https://www.javatpoint.com/hibernate-inheritance-mapping-tutorial
 https://vladmihalcea.com/the-best-way-to-use-entity-inheritance-with-jpa-and-hibernate/
 optimistic/pesimitic locking,
-versioning
+Versioning,
 https://www.journaldev.com/3633/hibernate-interview-questions-and-answers
 https://www.edureka.co/blog/interview-questions/hibernate-interview-questions/
+Entity graph,
+https://jakarta.ee/learn/docs/jakartaee-tutorial/current/persist/persistence-entitygraphs/persistence-entitygraphs.html
+https://medium.com/xebia-engineering/jpa-entity-graph-in-action-9800bd4f689d
+https://www.baeldung.com/jpa-entity-graph
+https://stackoverflow.com/questions/31703532/whats-the-goal-of-the-jpa-entity-graph
 
 Books: hibernate in action 
 
@@ -974,6 +996,21 @@ https://www.twilio.com/blog/abstract-syntax-trees
 https://dev.to/balapriya/abstract-syntax-tree-ast-explained-in-plain-english-1h38
 https://medium.com/@dinis.cruz/ast-abstract-syntax-tree-538aa146c53b
 https://www.baeldung.com/scala/scala2-macros
+* Fold,
+https://stackoverflow.com/questions/24232235/implementation-of-foldleft-in-scala
+https://medium.com/@mohitdaxini75/scala-fold-functions-74d9d4c088a7
+https://coderwall.com/p/4l73-a/scala-fold-foldleft-and-foldright
+https://www.educba.com/scala-foldleft/
+https://avapl.github.io/posts/understanding-scala-folds/
+https://github.com/nadimbahadoor/allaboutscala
+https://nurkiewicz.com/2012/04/secret-powers-of-foldleft-in-scala.html
+https://www.geeksforgeeks.org/what-are-folding-lists-in-scala/
+https://medium.com/@alexshapovalov95/how-to-foldleft-foldright-in-scala-43934b95e868
+https://www.baeldung.com/scala/foldleft-vs-reduceleft
+https://blog.lunatech.com/posts/2022-07-11-foldleft-introduction-en
+https://blog.knoldus.com/scalas-fold-foldleft-and-foldright-functions-a-comprehensive-guide/
+https://tutorials.ducatindia.com/scala/scala-foldleft
+https://github.com/alexland/foldLeft-in-scala
 Rozne,
 https://github.com/Baeldung/scala-tutorials/tree/master/scala-core-fp
 https://stackoverflow.com/questions/60128207/whats-the-difference-between-lazylist-and-stream-in-scala
@@ -1260,10 +1297,37 @@ https://www.confluent.io/blog/42-ways-zookeeper-removal-improves-kafka/
 https://www.morling.dev/blog/exploring-zookeeper-less-kafka/
 https://www.cloudkarafka.com/blog/cloudkarafka-what-is-zookeeper.html
 https://www.confluent.io/blog/removing-zookeeper-dependency-in-kafka/
+https://quix.io/blog/kafka-auto-offset-reset-use-cases-and-pitfalls
+https://medium.com/@pravvich
+Exactly Once,
+https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apache-kafka-does-it/
+https://www.confluent.io/blog/enabling-exactly-once-kafka-streams/
+https://www.linkedin.com/pulse/kafka-transactions-part-1-exactly-once-messaging-rob-golder
+https://www.linkedin.com/pulse/kafka-idempotent-consumer-transactional-outbox-rob-golder/?trk=article-ssr-frontend-pulse_little-text-block
+https://www.baeldung.com/kafka-exactly-once
+https://medium.com/@aviksaha2007/exactly-once-processing-with-apache-kafka-4ae243ced107
+https://oleg0potapov.medium.com/how-kafka-achieves-exactly-once-semantics-57fdb7ad2e3f
+https://strimzi.io/blog/2023/05/03/kafka-transactions/
+https://softwaremill.com/what-kafka-exactly-once-really-means/
+https://engineering.hellofresh.com/demystifying-kafka-exactly-once-semantics-eos-390ae1c32bba
+https://www.dbos.dev/blog/exactly-once-apache-kafka-processing
+https://dzone.com/articles/exactly-once-semantics-with-apache-kafka-1
+Compression,
+https://medium.com/apache-kafka-from-zero-to-hero/apache-kafka-guide-31-producer-message-compression-f1f608c47ed7
+https://cwiki.apache.org/confluence/display/kafka/compression
+https://developer.ibm.com/articles/benefits-compression-kafka-messaging/
+https://learn.conduktor.io/kafka/kafka-message-compression/
+Deep Internals,
+https://www.confluent.io/blog/preparing-the-consumer-fetch-kafka-producer-and-consumer-internals-part-3/
+https://www.confluent.io/blog/kafka-producer-internals-handling-producer-request/
+https://www.confluent.io/blog/kafka-producer-internals-preparing-event-data/
 K-connect,
 https://wiadrodanych.pl/big-data/apache-kafka/kafka-connect-w-pigulce/
 https://www.baeldung.com/kafka-connectors-guide
 https://www.tutorialworks.com/kafka-vs-streams-vs-connect/
+Examples,
+https://stackoverflow.com/questions/52957389/kafka-make-consumer-group-inactive
+https://stackoverflow.com/questions/48866690/how-to-shift-back-the-offset-of-a-topic-within-a-stable-kafka-consumer-group
 
 partitioning | leaders | rebalance | controller | replica | retention | compation | producer-modes | ack statuses | streams | kafka vs jms | commit log | message key | join group request | sync async commitoff | request-consumer-producer
 
@@ -1379,6 +1443,16 @@ https://stackoverflow.com/questions/55822462/scala-spark-collect-list-vs-array
 https://sparkbyexamples.com/spark/spark-collect-list-and-collect-set-functions/
 https://www.projectpro.io/article/how-data-partitioning-in-spark-helps-achieve-more-parallelism/297
 https://www.databricks.com/blog/2015/04/28/project-tungsten-bringing-spark-closer-to-bare-metal.html
+https://stackoverflow.com/questions/72353355/how-to-force-enable-broadcast-join-in-spark
+https://rockthejvm.com/articles/broadcast-joins-in-apache-spark-an-optimization-technique
+https://medium.com/@manojkumardhakad/apache-spark-broadcast-join-internals-and-types-b71cae327a59
+https://www.linkedin.com/pulse/spark-join-strategies-mastering-joins-apache-venkatesh-nandikolla-mk4qc
+https://www.linkedin.com/pulse/apache-spark-101-shuffle-join-vs-broadcast-joins-shanoj-kumar-v-g779c
+https://medium.com/@ashwin_kumar_/spark-partitioning-vs-bucketing-partitionby-vs-bucketby-09c98c5b40eb
+https://sachin-s1dn.medium.com/understanding-sparks-bucketby-clause-252d54b395d9
+https://stackoverflow.com/questions/67599449/what-is-the-difference-between-bucketby-and-partitionby-in-spark
+https://www.linkedin.com/pulse/partition-vs-bucket-which-one-should-you-choose-vishwajeet-dabholkar
+https://www.getorchestra.io/guides/spark-concepts-pyspark-sql-dataframewriter-bucketby-examples
 Optimization Tuning,
 https://www.linkedin.com/pulse/taming-slowdown-comprehensive-guide-optimizing-spark-queries-kedari-jocwe
 https://towardsdatascience.com/6-recommendations-for-optimizing-a-spark-job-5899ec269b4b
@@ -1519,6 +1593,19 @@ https://www.ibm.com/docs/en/db2-big-sql/7.0?topic=performance-hbase-basics
 :Elastic Logstash Kibana
 https://blog.knoldus.com/what-is-the-elk-stack/
 
+:Distributed Systems
+https://en.wikipedia.org/wiki/Distributed_algorithm
+
+:Throughput
+https://www.solarwinds.com/resources/it-glossary/network-bandwidth
+https://www.techtarget.com/searchnetworking/definition/bandwidth
+https://en.wikipedia.org/wiki/Bandwidth_(computing)
+https://www.ninjaone.com/it-hub/endpoint-management/what-is-network-bandwidth/
+https://www.geeksforgeeks.org/introduction-to-bandwidth/
+https://en.wikipedia.org/wiki/Input/output
+https://en.wikipedia.org/wiki/I/O_bound
+https://mechanical-sympathy.blogspot.com/2011/12/java-sequential-io-performance.html
+https://rick-hightower.blogspot.com/2013/11/fastet-java-io-circa-2013-writing-large.html
 
 Rozne,
 https://blog.knoldus.com/akka-streams-streaming-done-right/
@@ -1550,7 +1637,6 @@ https://www.techighness.com/post/no-sql-data-modeling-1-to-1-1-to-many-many-to-m
 https://www.techighness.com/post/nosql-many-to-many-bound-unbound-associative-examples/
 https://www.mongodb.com/blog/post/6-rules-of-thumb-for-mongodb-schema-design
 https://www.geeksforgeeks.org/secondary-indexing-in-databases/
-
 CAP Theorem BASE,
 https://www.ibm.com/topics/cap-theorem
 https://dgraph.io/blog/post/cap-theorem-partition-tolerance/
@@ -1792,6 +1878,15 @@ https://blog.dreamfactory.com/grpc-vs-rest-how-does-grpc-compare-with-traditiona
 https://www.altexsoft.com/blog/what-is-grpc/
 https://nordicapis.com/rest-vs-grpc-advantages-and-disadvantages/
 https://protobuf.dev/overview/
+https://aws.amazon.com/compare/the-difference-between-grpc-and-rest/
+https://stackoverflow.blog/2022/11/28/when-to-use-grpc-vs-graphql/
+https://www.cncf.io/blog/2021/08/04/grpc-in-action-example-using-java-microservices/
+https://luizcostatech.medium.com/the-guide-to-rump-up-on-grpc-in-java-163d4b82f153
+https://pamodaaw.medium.com/handson-introduction-to-grpc-with-java-1195870027fb
+https://github.com/pamodaaw/grpc-sample
+https://github.com/pamodaaw/grpc-sample/blob/main/src/main/resources/demo.gif
+https://www.baeldung.com/grpc-introduction
+https://grpc.io/docs/languages/java/generated-code/
 Thrift,
 https://github.com/apache/thrift
 https://www.baeldung.com/apache-thrift
@@ -1845,6 +1940,12 @@ Slownictwo
 
 0_:::LINUX GREP SYSTEMY:::
 Regexp,
+https://docs.icewarp.com/Content/IceWarp-Server/Administration-Nodes/Domains%20&%20Accounts/Simple%20RegEx%20Tutorial.htm
+https://www.geeksforgeeks.org/write-regular-expressions/
+https://cs.lmu.edu/~ray/notes/regex/
+https://www.freecodecamp.org/news/practical-regex-guide-with-real-life-examples/
+https://www.w3schools.com/python/python_regex.asp
+https://www.ibm.com/docs/en/nsm/61.1?topic=expressions-regular-expression-syntax
 Commands,
 https://www.howtogeek.com/412055/37-important-linux-commands-you-should-know/
 Shell script tutorial
@@ -1867,6 +1968,9 @@ https://dzone.com/articles/four-most-used-rest-api-authentication-methods
 https://blog.restcase.com/4-most-used-rest-api-authentication-methods/
 https://www.csoonline.com/article/3216404/what-is-oauth-how-the-open-authorization-framework-works.html
 https://sekurak.pl/oauth-2-0-jak-dziala-jak-testowac-problemy-bezpieczenstwa/
+https://stackoverflow.com/questions/2384230/what-is-digest-authentication
+https://en.wikipedia.org/wiki/Digest_access_authentication
+https://www.1kosmos.com/security-glossary/digest-authentication/
 Asymetric encryption,
 https://stackoverflow.com/questions/3867019/what-are-the-merits-of-jks-vs-pkcs12-for-code-signing
 https://www.baeldung.com/java-keystore-truststore-difference
@@ -1957,6 +2061,11 @@ https://vsupalov.com/6-docker-basics/
 https://thenewstack.io/docker-station-part-one-essential-docker-concepts-tools-terminology/
 https://www.tutorialspoint.com/docker/docker_containers.htm
 https://searchitoperations.techtarget.com/definition/Docker-image
+https://en.wikipedia.org/wiki/Docker_(software)
+https://docs.docker.com/get-started/docker-overview/
+https://moldstud.com/articles/p-how-to-automate-deployments-using-docker-for-developers
+https://romanglushach.medium.com/dock-and-roll-master-docker-automation-and-container-deployment-6b3cb1ed897d
+https://aws.amazon.com/compare/the-difference-between-docker-vm/
 Kubernetes,
 https://faun.pub/the-difference-between-liveness-readiness-and-startup-probes-781bd3141079
 https://www.okteto.com/blog/kubernetes-basics/
@@ -1995,12 +2104,26 @@ https://github.com/IvannKurchenko/blog-telemetry/tree/main/otel4s/src/main
 https://github.com/typelevel/otel4s/tree/main/examples/src/main/scala
 https://github.com/IvannKurchenko/blog-telemetry/blob/main/blog/3_OTEL4S.md
 https://codeblog.dotsandbrackets.com/scraping-application-metrics-prometheus/
+https://last9.io/blog/prometheus-metrics-types-a-deep-dive/
+https://stackoverflow.com/questions/71768510/when-to-use-gauge-or-histogram-in-prometheus-in-recording-request-duration
+https://prometheus.io/docs/concepts/metric_types/
+https://chronosphere.io/learn/an-introduction-to-the-four-primary-types-of-prometheus-metrics/
 https://chronosphere.io/learn/know-the-sre-fundamentals-differences-between-sli-vs-slo-vs-sla/
 https://apitoolkit.io/blog/monitor-api-slas-and-slos/
 https://www.atlassian.com/incident-management/kpis/sla-vs-slo-vs-sli
 https://mohitkr27.medium.com/understanding-sla-slo-sli-and-error-budgets-faf613063abd
 https://signoz.io/guides/slo-vs-sla/
-
+Iaas Paas Saas,
+https://cloud.google.com/learn/paas-vs-iaas-vs-saas
+https://polcom.com.pl/en/uncategorized-en/knowledge-base-uncategorized-en/what-are-differences-between-iaas-paas-and-saas/
+https://innasiec.pl/jakie-sa-roznice-miedzy-iaas-vs-paas-vs-saas/
+https://www.ibm.com/topics/iaas-paas-saas
+https://www.redhat.com/en/topics/cloud-computing/iaas-vs-paas-vs-saas
+https://www.bmc.com/blogs/saas-vs-paas-vs-iaas-whats-the-difference-and-how-to-choose/
+Helm,
+https://helm.sh/docs/chart_template_guide/getting_started/
+https://medium.com/@praveenkumarsingh/getting-started-with-helm-charts-deploy-your-first-chart-effff4bd7a07
+https://spot.io/resources/kubernetes-architecture/kubernetes-helm-charts-the-basics-and-a-quick-tutorial/
 Rozne,
 https://www.baeldung.com/cs/virtualization-vs-containerization
 https://www.liquidweb.com/kb/virtualization-vs-containerization/
@@ -2039,6 +2162,14 @@ Scrum,
 Kanban,
 Extreme programming,
 
+https://www.coursera.org/articles/kanban-vs-scrum
+https://www.planview.com/resources/guide/introduction-to-kanban/kanban-vs-scrum/
+https://www.geeksforgeeks.org/difference-between-scrum-and-kanban/
+https://www.geeksforgeeks.org/agile-vs-waterfall/
+https://www.digitalocean.com/resources/articles/agile-vs-waterfall
+https://project-management.com/agile-vs-waterfall/
+https://www.techtarget.com/searchsoftwarequality/tip/Waterfall-vs-Agile-methodology-Differences-and-examples
+https://www.float.com/resources/agile-vs-waterfall
 https://www.guru99.com/scrum-vs-kanban.html
 https://en.wikipedia.org/wiki/Complement_(set_theory)#Relative_complement
 
@@ -2072,6 +2203,8 @@ https://docs.microsoft.com/en-us/sql/relational-databases/indexes/clustered-and-
 https://www.red-gate.com/simple-talk/sql/learn-sql-server/sql-server-index-basics/
 https://www.geeksforgeeks.org/sql-indexes/
 https://www.sqlshack.com/top-10-questions-answers-sql-server-indexes/
+https://stackoverflow.com/questions/1251636/what-do-clustered-and-non-clustered-index-actually-mean
+https://www.geeksforgeeks.org/difference-between-clustered-and-non-clustered-index/
 http://sqlszkolenia.pl/aktualnosci/18-jak-dziala-join-w-sql-server
 https://www.geeksforgeeks.org/sql-join-set-1-inner-left-right-and-full-joins/
 https://www.softwaretestinghelp.com/inner-join-vs-outer-join/
@@ -2080,12 +2213,18 @@ https://dba.stackexchange.com/questions/229165/why-is-this-left-join-faster-than
 https://www.sqlshack.com/design-sql-queries-better-performance-select-exists-vs-vs-joins/
 https://forums.mysql.com/read.php?115,647656,647656
 https://stackoverflow.com/questions/2726657/inner-join-vs-left-join-performance-in-sql-server
+https://neon.tech/postgresql/postgresql-tutorial/postgresql-natural-join
 https://pl.wikipedia.org/wiki/Posta%C4%87_normalna_(bazy_danych)
 https://medium.com/@ndleah/a-brief-guide-to-database-normalization-5ac59f093161
 https://learn.microsoft.com/en-us/office/troubleshoot/access/database-normalization-description
 https://www.freecodecamp.org/news/database-normalization-1nf-2nf-3nf-table-examples/
 https://www.geeksforgeeks.org/introduction-of-database-normalization/
 https://stackoverflow.com/questions/3861558/what-are-the-benefits-of-using-database-cursor
+https://bipp.io/sql-tutorial/advanced-sql/sql-correlated-subqueries/
+https://www.scaler.com/topics/sql/correlated-subquery/
+https://neon.tech/postgresql/postgresql-tutorial/postgresql-correlated-subquery
+https://medium.com/@sumitkum001/mastering-sql-subqueries-and-query-optimisation-2991ce5db7be
+https://duckdb.org/2023/05/26/correlated-subqueries-in-sql.html
 Sql distributed sharding,
 https://www.quora.com/What-is-the-difference-between-a-distributed-database-and-a-traditional-database-Are-distributed-databases-relational-or-not-What-are-the-advantages-and-disadvantages-of-distributed-databases-compared-to-traditional
 https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/understanding-partitioning-and-sharding-in-postgres-and-citus/ba-p/3891629
@@ -2118,6 +2257,7 @@ https://medium.com/@manutej/mastering-sql-window-functions-guide-e6dc17eb1995
 https://www.sqlservercentral.com/articles/sql-window-functions-series-rank-and-dense_rank
 https://www.sqlservertutorial.net/sql-server-window-functions/
 https://en.wikipedia.org/wiki/Window_function_(SQL)
+https://bipp.io/sql-tutorial/advanced-sql/sql-window-functions-examples/
 Optimization,
 https://londondataconsulting.medium.com/the-different-types-of-indexes-in-databases-a-comprehensive-overview-559a0c4f5fb5
 https://www.thoughtspot.com/data-trends/data-modeling/optimizing-sql-queries
@@ -2130,7 +2270,21 @@ Denormalization,
 https://www.geeksforgeeks.org/denormalization-in-databases/
 Rozne,
 https://serverfault.com/questions/36696/how-to-speed-up-adding-column-to-large-table-in-sql-server
+https://neon.tech/postgresql/postgresql-tutorial/postgresql-recursive-query
+https://neon.tech/postgresql/postgresql-tutorial/postgresql-merge
+https://neon.tech/postgresql/postgresql-tutorial/postgresql-any
+https://neon.tech/postgresql/postgresql-tutorial/postgresql-all
 Examples,
+https://learnsql.com/blog/25-advanced-sql-query-examples/
+https://medium.com/@techsuneel99/20-advanced-sql-techniques-with-practical-examples-b47490d9896d
+https://popsql.com/blog/complex-sql-queries
+https://airbyte.com/data-engineering-resources/advanced-sql-concepts
+https://stackoverflow.com/questions/30861919/what-is-rows-unbounded-preceding-used-for-in-teradata
+https://kajodata.com/sql/rows_unbound_preceding/
+https://learnsql.com/blog/sql-window-functions-rows-clause/
+https://www.geeksforgeeks.org/sql-rows-between/
+https://stackoverflow.com/questions/76265582/how-does-unbounded-preceding-and-current-row-work-exactly
+https://sqliteonline.com/
 https://www.sqltutorial.org/
 
 
