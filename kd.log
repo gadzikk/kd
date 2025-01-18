@@ -1453,6 +1453,31 @@ https://sachin-s1dn.medium.com/understanding-sparks-bucketby-clause-252d54b395d9
 https://stackoverflow.com/questions/67599449/what-is-the-difference-between-bucketby-and-partitionby-in-spark
 https://www.linkedin.com/pulse/partition-vs-bucket-which-one-should-you-choose-vishwajeet-dabholkar
 https://www.getorchestra.io/guides/spark-concepts-pyspark-sql-dataframewriter-bucketby-examples
+https://medium.com/@pallavisinha12/spark-bucketing-performance-optimization-technique-e7875b0af9dd
+https://www.linkedin.com/pulse/spark-dynamic-partition-pruning-rahul-dawn-zgbnf
+https://medium.com/geekculture/dynamic-partition-pruning-baf3270694b4
+https://stackoverflow.com/questions/60613615/what-is-the-difference-between-sparks-partition-pruning-and-predicate-pushdown
+https://dzone.com/articles/dynamic-partition-pruning-in-spark-30
+https://www.unraveldata.com/resources/intricacies-in-spark-30-partition-pruning/
+https://medium.com/@prabhakaran.electric/spark-3-0-feature-dynamic-partition-pruning-dpp-to-avoid-scanning-irrelevant-data-1a7bbd006a89
+https://docs.databricks.com/en/optimizations/spark-ui-guide/long-spark-stage-page.html
+https://www.databricks.com/discover/pages/optimize-data-workloads-guide#data-shuffling
+https://stackoverflow.com/questions/77532248/spark-spill-disk-and-spill-memory-problem
+https://stackoverflow.com/questions/41661849/spill-to-disk-and-shuffle-write-spark
+https://selectfrom.dev/spark-performance-tuning-spill-7318363e18cb
+https://www.linkedin.com/pulse/understanding-memory-spills-apachespark-shanoj-kumar-v-ifywc
+https://gaurav98095.medium.com/delving-deep-into-data-spill-in-apache-spark-88c90c578f5a
+https://blog.devgenius.io/spark-spill-7e027085ca4c
+https://docs.databricks.com/en/optimizations/spark-ui-guide/slow-spark-stage-low-io.html
+https://michaelheil.medium.com/understanding-common-performance-issues-in-apache-spark-deep-dive-data-spill-7cdba81e697e
+https://xuechendi.github.io/2019/04/15/Spark-Shuffle-and-Spill-Explained
+http://www.openkb.info/2021/02/spark-tuning-understanding-spill-from.html
+https://medium.com/@diehardankush/how-to-understanding-data-skewness-in-apache-spark-9e93b9a68f46
+https://medium.com/@suffyan.asad1/handling-data-skew-in-apache-spark-techniques-tips-and-tricks-to-improve-performance-e2934b00b021
+https://www.linkedin.com/pulse/what-data-skew-spark-manoj-karan-singh
+https://medium.com/@nikaljeajay36/understanding-salting-in-spark-a-practical-guide-bf30f4525f64
+https://saturncloud.io/blog/spark-understanding-salting-and-its-role-in-handling-skewed-data/
+https://www.linkedin.com/pulse/handling-data-skewness-spark-power-salting-pyspark-kommanaboina-vskic
 Optimization Tuning,
 https://www.linkedin.com/pulse/taming-slowdown-comprehensive-guide-optimizing-spark-queries-kedari-jocwe
 https://towardsdatascience.com/6-recommendations-for-optimizing-a-spark-job-5899ec269b4b
@@ -1508,6 +1533,8 @@ https://sparkbyexamples.com/spark/explode-spark-array-and-map-dataframe-column/
 https://sparkbyexamples.com/spark/spark-sql-performance-tuning-configurations/
 https://sparkbyexamples.com/spark/spark-partitioning-understanding/
 https://sparkbyexamples.com/spark/spark-performance-tuning/
+https://www.linkedin.com/pulse/exploring-string-functions-spark-sql-guide-examples-dabholkar/?trackingId=Les2HjtoSJeP017iTrAUAg%3D%3D
+https://medium.com/@rahulgosavi.94/harnessing-the-power-of-collect-list-and-collect-set-in-pyspark-and-pysql-d6926f5383cf
 
 Books: Spark The Definitive Guide
 
@@ -1606,6 +1633,19 @@ https://en.wikipedia.org/wiki/Input/output
 https://en.wikipedia.org/wiki/I/O_bound
 https://mechanical-sympathy.blogspot.com/2011/12/java-sequential-io-performance.html
 https://rick-hightower.blogspot.com/2013/11/fastet-java-io-circa-2013-writing-large.html
+https://stackoverflow.com/questions/868568/what-do-the-terms-cpu-bound-and-i-o-bound-mean
+https://medium.com/@buketsenturk/i-o-bound-vs-cpu-bound-vs-memory-bound-tasks-f32da34ae043
+https://medium.com/nerd-for-tech/what-is-asynchronous-i-o-b37994359471
+https://www.geeksforgeeks.org/difference-between-asynchronous-and-non-blocking/
+https://www.ibm.com/think/topics/central-processing-unit
+https://www.geeksforgeeks.org/central-processing-unit-cpu/
+https://aws.amazon.com/what-is/cpu/
+https://www.geeksforgeeks.org/difference-between-von-neumann-and-harvard-architecture/
+https://medium.com/@icodewithben/harvard-vs-von-neumann-architecture-04c8c5de28ae
+https://www.spiceworks.com/tech/tech-general/articles/von-neumann-architecture-vs-harvard-architecture/
+https://adacomputerscience.org/concepts/arch_architecture
+https://www.tme.eu/en/news/library-articles/page/56104/the-von-neumann-architecture-and-the-harvard-architecture/
+https://en.wikipedia.org/wiki/Computer_data_storage
 
 Rozne,
 https://blog.knoldus.com/akka-streams-streaming-done-right/
@@ -2066,6 +2106,12 @@ https://docs.docker.com/get-started/docker-overview/
 https://moldstud.com/articles/p-how-to-automate-deployments-using-docker-for-developers
 https://romanglushach.medium.com/dock-and-roll-master-docker-automation-and-container-deployment-6b3cb1ed897d
 https://aws.amazon.com/compare/the-difference-between-docker-vm/
+https://www.linkedin.com/advice/1/how-does-docker-differ-from-traditional-virtualization-oh3ee
+https://www.quora.com/Why-is-Docker-considered-a-virtualization-technology
+https://www.docker.com/blog/containers-are-not-vms/
+https://medium.com/@haticeyildiz/docker-containerization-and-virtualization-benefits-advantages-and-disadvantages-737b31b86213
+https://www.qa.com/resources/blog/docker-vs-virtual-machines-differences-you-should-know/
+https://stackoverflow.com/questions/16047306/how-is-docker-different-from-a-virtual-machine
 Kubernetes,
 https://faun.pub/the-difference-between-liveness-readiness-and-startup-probes-781bd3141079
 https://www.okteto.com/blog/kubernetes-basics/
