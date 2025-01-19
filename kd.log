@@ -14,7 +14,7 @@ SPIS:
 :::SIECI:::
 :::GIT:::
 :::ALGORYTMY:::
-:::ANGIELSKI:::
+:::METODYKI:::
 :::LINUX GREP SYSTEMY:::
 :::ERROR EXCEPTIONS VALIDACJA:::
 :::ENCRYPTION ENCODING HASLA HASH SALT:::
@@ -602,7 +602,7 @@ testy E2E,
 
 junit5, assertJ, mockito
 
-testy ogolnie,
+Testy Ogolnie,
 https://www.softwaretestinghelp.com/junit-test-fixture-with-examples/
 https://www.browserstack.com/guide/smoke-testing
 https://www.techtarget.com/searchsoftwarequality/definition/smoke-testing
@@ -842,7 +842,7 @@ https://hackr.io/blog/functional-programming
 https://blog.knoldus.com/functional-programming-a-paradigm/
 http://alvinalexander.com/scala/fp-book/benefits-of-functional-programming/
 https://alvinalexander.com/scala/fp-book/disadvantages-of-functional-programming/
-Fp for concurrency
+Fp for concurrency,
 https://softwareengineering.stackexchange.com/questions/310159/is-functional-programming-faster-in-multithreading-because-i-write-things-differ
 https://www.quora.com/Why-does-functional-programming-favor-concurrency
 https://freecontent.manning.com/the-foundations-of-functional-concurrency/
@@ -863,7 +863,7 @@ https://www.learningjournal.guru/article/scala/functional-programming/non-strict
 https://stackoverflow.com/questions/24704503/lazy-evaluation-why-is-it-faster-advantages-vs-disadvantages-mechanics-why-i
 https://www.geeksforgeeks.org/scala-lazy-evaluation/
 https://softwareengineering.stackexchange.com/questions/124500/why-isnt-lazy-evaluation-used-everywhere
-Higher order functions
+Higher order functions,
 https://www.magicweb.pl/programowanie/programowanie-funkcyjne-higher-order-functions/
 https://docs.scala-lang.org/tour/higher-order-functions.html
 Closures,
@@ -1002,7 +1002,9 @@ https://medium.com/@mohitdaxini75/scala-fold-functions-74d9d4c088a7
 https://coderwall.com/p/4l73-a/scala-fold-foldleft-and-foldright
 https://www.educba.com/scala-foldleft/
 https://avapl.github.io/posts/understanding-scala-folds/
-https://github.com/nadimbahadoor/allaboutscala
+https://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-fold-example/
+https://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-foldleft-example/
+https://allaboutscala.com/tutorials/chapter-8-beginner-tutorial-using-scala-collection-functions/scala-foldright-example/
 https://nurkiewicz.com/2012/04/secret-powers-of-foldleft-in-scala.html
 https://www.geeksforgeeks.org/what-are-folding-lists-in-scala/
 https://medium.com/@alexshapovalov95/how-to-foldleft-foldright-in-scala-43934b95e868
@@ -1623,7 +1625,7 @@ https://blog.knoldus.com/what-is-the-elk-stack/
 :Distributed Systems
 https://en.wikipedia.org/wiki/Distributed_algorithm
 
-:Throughput
+:Systems in general
 https://www.solarwinds.com/resources/it-glossary/network-bandwidth
 https://www.techtarget.com/searchnetworking/definition/bandwidth
 https://en.wikipedia.org/wiki/Bandwidth_(computing)
@@ -1970,12 +1972,20 @@ https://www.geeksforgeeks.org/fundamentals-of-algorithms/
 https://github.com/gadzikk/algorithms
 http://wazniak.mimuw.edu.pl/index.php?title=Algorytmy_i_struktury_danych
 
-0_:::ANGIELSKI:::
-Czytanie,
-Sluchanie,
-Mowienie,
-Pisanie,
-Slownictwo
+0_:::METODYKI:::
+https://pl.wikipedia.org/wiki/Manifest_Agile
+https://pl.wikipedia.org/wiki/Programowanie_ekstremalne
+https://pl.wikipedia.org/wiki/Programowanie_zwinne
+https://www.coursera.org/articles/kanban-vs-scrum
+https://www.planview.com/resources/guide/introduction-to-kanban/kanban-vs-scrum/
+https://www.geeksforgeeks.org/difference-between-scrum-and-kanban/
+https://www.geeksforgeeks.org/agile-vs-waterfall/
+https://www.digitalocean.com/resources/articles/agile-vs-waterfall
+https://project-management.com/agile-vs-waterfall/
+https://www.techtarget.com/searchsoftwarequality/tip/Waterfall-vs-Agile-methodology-Differences-and-examples
+https://www.float.com/resources/agile-vs-waterfall
+https://www.guru99.com/scrum-vs-kanban.html
+https://en.wikipedia.org/wiki/Complement_(set_theory)#Relative_complement
 
 
 0_:::LINUX GREP SYSTEMY:::
@@ -2201,24 +2211,6 @@ Jenkins,
 sonarCube,
 
 
-0_:::METODYKI:::
-Agile,
-Manifest agile,
-Scrum,
-Kanban,
-Extreme programming,
-
-https://www.coursera.org/articles/kanban-vs-scrum
-https://www.planview.com/resources/guide/introduction-to-kanban/kanban-vs-scrum/
-https://www.geeksforgeeks.org/difference-between-scrum-and-kanban/
-https://www.geeksforgeeks.org/agile-vs-waterfall/
-https://www.digitalocean.com/resources/articles/agile-vs-waterfall
-https://project-management.com/agile-vs-waterfall/
-https://www.techtarget.com/searchsoftwarequality/tip/Waterfall-vs-Agile-methodology-Differences-and-examples
-https://www.float.com/resources/agile-vs-waterfall
-https://www.guru99.com/scrum-vs-kanban.html
-https://en.wikipedia.org/wiki/Complement_(set_theory)#Relative_complement
-
 0_:::WIEDZA Z ARTYKULOW:::
 jrevised | javaworld | journaldev | dzone | howtodoinjava |
 
@@ -2380,7 +2372,7 @@ https://typeofweb.com/2017/11/14/this-js-kontekst-wywolania-funkcji/
 https://typeofweb.com/2017/10/23/kilka-faktow-na-temat-promise/
 http://www.algosmart.pl/zakresy-powtorka-reactjs-7/
 https://www.w3.org/TR/REC-DOM-Level-1/introduction.html
-info:  https://4programmers.net/Forum/JavaScript/284930-jak_uczyc_sie_javascript_przeczytaj_zanim_zadasz_pytanie_na_temat_materialow_do_nauki?page=1
+informacje:  https://4programmers.net/Forum/JavaScript/284930-jak_uczyc_sie_javascript_przeczytaj_zanim_zadasz_pytanie_na_temat_materialow_do_nauki?page=1
 
 https://www.guru99.com/javascript-interview-questions-answers.html
 https://www.w3schools.com/js/default.asp
