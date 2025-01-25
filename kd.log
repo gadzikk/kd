@@ -212,6 +212,7 @@ https://en.wikipedia.org/wiki/Just-in-time_compilation
 https://stackoverflow.com/questions/16568253/difference-between-jvm-and-hotspot
 https://stackoverflow.com/questions/2423284/java-thread-garbage-collected-or-not
 https://www.geeksforgeeks.org/difference-between-byte-code-and-machine-code/
+https://medium.com/@pravvich/jvm-under-the-hood-d3ff1ed9ea34
 
 https://www.journaldev.com/349/java-classloader
 https://www.baeldung.com/java-classloaders
@@ -1686,6 +1687,7 @@ https://www.scylladb.com/glossary/cap-theorem/
 https://medium.com/@ngneha090/understanding-the-cap-theorem-balancing-consistency-availability-and-partition-cb11c2b97e2b
 https://www.bmc.com/blogs/cap-theorem/
 https://en.wikipedia.org/wiki/Eventual_consistency
+https://medium.com/@pravvich/cap-pacelc-theorems-718f663d2b08
 Embedding vs linking relationships,
 https://info.couchbase.com/rs/302-GJY-034/images/Relational_NoSQL_GetStarted.pdf
 https://medium.com/geekculture/mongodb-relationships-embedding-vs-linking-pro-and-cons-5f7583e655ab
@@ -1741,6 +1743,9 @@ https://www.datastax.com/blog/introduction-to-apache-cassandra-the-lamborghini-o
 https://www.slideshare.net/nkorla1share/cass-summit-3
 https://cassandra.apache.org/_/cassandra-basics.html
 https://www.ksolves.com/blog/big-data/apache-cassandra/uncover-the-inner-workings-of-apache-cassandra-an-architectural-exploration
+https://docs.datastax.com/en/cassandra-oss/3.0/cassandra/dml/dmlHowDataWritten.html
+https://www.scylladb.com/glossary/cassandra-memtable/
+https://cassandra.apache.org/_/blog/Apache-Cassandra-5.0-Features-Trie-Memtables-and-Trie-Indexed-SSTables.html
 Indexes,
 https://docs.datastax.com/en/dse/6.7/cql/cql/cql_using/useSecondaryIndex.html
 https://docs.datastax.com/en/dse/6.7/cql/cql/cql_using/useWhenIndex.html
@@ -2449,6 +2454,7 @@ http://scala-poland.eu/companies/
 https://www.programcreek.com/scala/org.http4s.Uri
 https://www.cloudflare.com/learning/
 https://certificatetools.com/
+https://voicegenerator.io/
 
 
 
